@@ -17,7 +17,7 @@
       <committee>Favorable, with Amendments</committee>
     </history>
   </meta>
-  <codify:replace path="1|53" warning="false">
+  <codify:replace path="1|53" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§53-1">
     <container>
       <prefix>Subtitle</prefix>
       <num>53</num>
