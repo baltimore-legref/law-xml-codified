@@ -3884,6 +3884,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3907,6 +3908,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3918,12 +3920,15 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4-4</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -3963,6 +3968,7 @@
           <annotation doc="City of Balt., Md., Ord. 05-170" type="History">Ord. 05-170</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3999,12 +4005,15 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4-7</num>
         <reason>Repealed by Ord. 20-428</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4111,6 +4120,7 @@
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4121,12 +4131,15 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4-10</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4169,6 +4182,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 04-832" type="History">Ord. 04-832</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-372" type="History">Ord. 10-372</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4217,12 +4231,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4-13</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4239,12 +4256,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>4-15</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4264,6 +4284,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-424" type="History">Ord. 07-424</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4284,6 +4305,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-428" type="History">Ord. 20-428</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -4413,6 +4435,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation doc="City of Balt., Md., Ord. 24-298" type="History">Ord. 24-298</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4425,12 +4448,15 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-3</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4457,6 +4483,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4489,6 +4516,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4544,6 +4572,7 @@
               <text>Beginning in October 2015, and every 5 years thereafter, at the time that Baltimore City sends a renewal notice to a holder of a multiple–family dwelling license, Baltimore City shall notify the license holder of the inspection requirement under subparagraph (iii) of this paragraph.</text>
             </para>
           </annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4704,6 +4733,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4715,6 +4745,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4768,12 +4799,15 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-10</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4791,6 +4825,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4810,6 +4845,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4820,12 +4856,15 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-14</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4908,6 +4947,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4935,6 +4975,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4953,12 +4994,15 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-18</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -4986,6 +5030,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-529" type="History">Ord. 07-529</annotation>
           <annotation doc="City of Balt., Md., Ord. 10-342" type="History">Ord. 10-342</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5012,12 +5057,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-21</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -5042,12 +5090,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>5-23</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -5077,6 +5128,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5096,6 +5148,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-424" type="History">Ord. 07-424</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5116,457 +5169,574 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-529" type="History">Ord. 07-529</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
       <num>6</num>
-      <heading>Tenant's Right of First Refusal</heading>
-      <section>
-        <prefix>§</prefix>
-        <num>6-1</num>
-        <heading>Statement of public policy and purpose.</heading>
-        <text>It is the intent and purpose of this subtitle that before title to any single-family residential rental property is voluntarily transferred, the tenant of that property shall have the opportunity to purchase the property on terms accepted as reasonable in the residential real estate market; and that residential property owners shall not be unreasonably impeded in selling their properties nor required to accept unreasonable terms of sale.</text>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §46</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-2</num>
-        <heading>Definitions.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>Landlord.</heading>
-          <text>As used in this subtitle, "landlord" means an owner, lessor, sublessor, assignee, any agent thereof, or any other person receiving or entitled to receive rents or benefits for the use or occupancy of any residential rental unit within the City of Baltimore.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Tenant.</heading>
+      <heading>Opportunity to Purchase</heading>
+      <container>
+        <prefix>Part</prefix>
+        <num>1</num>
+        <heading>Definitions; General Provisions.</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>6-1</num>
+          <heading>Statement of public policy and purpose.</heading>
+          <text>It is the intent and purpose of <cite path="|13|6">this subtitle</cite> that before title to any single-family residential rental property is voluntarily transferred, the tenant of that property shall have the opportunity to purchase the property and that residential property owners shall not be unreasonably impeded in selling their properties nor required to accept unreasonable terms of sale.</text>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-2</num>
+          <heading>Definitions.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>In general</em>.</text>
+            <text>In <cite path="|13|6">this subtitle</cite>, the following terms have the meanings stated.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Commissioner</em>.</text>
+            <text>"Commissioner" means the Commissioner of the Department of Housing and Community Development, or the Commissioner's designee.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Dwelling unit.</em>
+            </text>
+            <text>"Dwelling unit" has the meaning stated in §  202.2.22.24 of the Baltimore City <cite path="|codes|II" proof="needed">Building Code</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Landlord.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><em>In general</em>.</text>
+              <text>"Landlord" means any person who is the owner of a rental   dwelling unit.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>Inclusion</em>.</text>
+              <text>"Landlord" includes any person authorized to exercise any aspect of the management of the rental   dwelling unit, except those persons engaged solely in custodial and maintenance functions.</text>
+            </para>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text><em>Owner</em>.</text>
+            <text>"Owner" means any person recorded in the official records of the State or City as holding title to a rental  dwelling unit.</text>
+          </para>
+          <para>
+            <num>(f)</num>
+            <text>
+              <em>Rent.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text><em>In general</em>.</text>
+              <text>"Rent" means the consideration, including any bonus, benefit, or gratuity, demanded or received per day, week, month, year, or other period of time, as the case may be, for the use or occupancy of housing accommodations or the transfer of a lease for those accommodations.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>Inclusion</em>.</text>
+              <text>"Rent" includes any charge to a tenant under a rent-to-own agreement if the tenant's acceptance of the agreement is mandatory or if the tenant is not entitled to a refund of the charge if the tenant does not purchase the unit.</text>
+            </para>
+          </para>
+          <para>
+            <num>(g)</num>
+            <text>
+              <em>Statement of interest.</em>
+            </text>
+            <text>"Statement of interest" means a written and clear expression of interest to a landlord that the person writing the statement is interested in purchasing the landlord's rental  dwelling unit.</text>
+          </para>
+          <para>
+            <num>(h)</num>
+            <text><em>Tenant</em>.</text>
+            <text>"Tenant" means any person who:</text>
+            <para>
+              <num>(i)</num>
+              <text>occupies a rental  dwelling unit as a residence with the consent of the landlord; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>has an obligation to pay rent or provide other consideration to the landlord for those accommodations.</text>
+            </para>
+          </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-3</num>
+          <heading>Scope of subtitle.</heading>
+          <text>The following transfers of title are exempt from the requirements of <cite path="|13|6">this subtitle</cite>:</text>
           <para>
             <num>(1)</num>
-            <text>As used in this subtitle, "tenant" means a tenant, subtenant, lessee, sublessee, or other person entitled to the possession, occupancy or benefits thereof, of any rental unit owned by another person, and who has resided therein for not less than 6 months.</text>
+            <text>transfer of title to a spouse, child or children, parents, siblings, or in-laws of the landlord;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Where a rental unit had been occupied by a tenant at any time during the preceding 6 months, the last such tenant to occupy the unit shall be considered a present tenant for purposes of this subtitle.</text>
+            <text>transfer of title by will or through inheritance under the State Estates and Trusts Article;</text>
           </para>
           <para>
             <num>(3)</num>
-            <text>Provided however that no tenant who has been summarily ejected for non-payment of rent pursuant to Subtitle 9 of the Public Local Laws of Baltimore City from a single-family rental property shall be entitled by this subtitle to a right of first refusal for that property.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §47</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-3</num>
-        <heading>Tenant's right of first refusal.</heading>
-        <text>Before a voluntary transfer of title to a single-family rental residential property may occur, the tenant of that property shall have the right of first refusal to purchase the property.  Such right shall be exercised in accordance with the provisions of this subtitle.</text>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §48</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-4</num>
-        <heading>Exercise of right of first refusal.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>In general.</heading>
-          <para>
-            <num>(1)</num>
-            <text>Prior to the voluntary transfer of title to a single-family residential rental property, a written offer of sale shall be made to the tenant.  Such offer shall be mailed to the tenant by first class mail, postage prepaid, and the sender shall obtain a receipt from the post office for said mailing.  The offer shall state the offered sale price and those terms and conditions, not inconsistent with the provisions of this subtitle, which the landlord proposes to incorporate in any resulting contract of sale with the tenant.  The tenant shall have 30 days from the date of mailing of such an offer of sale to indicate in the manner provided below his intent to exercise his right of first refusal.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If the landlord enters a sale contract with a third party at any time prior to the mailing of an offer of sale (as provided above) or the expiration of the 30-day period, notice of the contract shall be mailed in the same manner to the tenant.  The tenant shall have the right to contract with the landlord in lieu of the third party and shall have a period of 30 days from the date of the mailing of the notice to indicate in the manner provided below his intent to exercise his right of first refusal, provided that the proceeds of the tenant's offer to contract are not less in amount than those offered by the third party.  A notice of a contract with a third party as hereinabove provided shall constitute an offer of sale to the tenant and shall supersede any prior offer of sale.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>A tenant shall notify the landlord of his decision to exercise the right of first refusal by first class mail, postage prepaid (and the sender shall obtain a receipt from the post office for said mailing) within the period of time set forth above.  If a tenant proposes to use a federal, state, or local government program to assist the purchase, for either mortgage insurance/guarantee, or for direct mortgage financing, he shall specifically indicate that program in this notification to the landlord.</text>
+            <text>a gift to any religious, charitable, or benevolent, tax-exempt donee;</text>
           </para>
           <para>
             <num>(4)</num>
-            <text>Following notification by the tenant, as above, of the intent to exercise that right of first refusal, the landlord must tender to the tenant within 10 days an executed contract of sale for said property on the same terms and conditions as indicated in the offer of sale or the third-party contract, with the exception of any term or condition which is inconsistent with the provisions of this subtitle, in which instance the contract shall specify terms consistent with those provisions, and provided further that the contract shall be consistent with an indication made by the tenant pursuant to paragraph (3) above, as to the use of a particular government program of mortgage insurance, guarantee, or financing.</text>
+            <text>transfer of title in a mortgage or deed of trust;</text>
           </para>
           <para>
             <num>(5)</num>
-            <text>The tenant shall have the period of 10 days after delivery to him of said contract, executed by the landlord and in accordance with the terms of this subtitle, to execute the same and return the executed contract with the required deposit to the landlord.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Sale to other for less than offer.</heading>
-          <para>
-            <num>(1)</num>
-            <text>If the landlord enters into a sale contract with a third party after the expiration of the 30-day period in subsection (a) above and if the net proceeds of that sales contract are less in amount than the amount in the offer of sale to the tenant, or if the terms and conditions of that sales contract are materially more favorable to the buyer than those contained in the offer of sale to the tenant, as provided in subsection (a) above, then the tenant shall be notified of such contract in the manner provided for in subsection (a) above.</text>
+            <text>transfer of title to a government agency;</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>The tenant shall then have the right to contract with the landlord in lieu of the third party, provided the proceeds of the tenant's offer to purchase are not less in amount than the offer of the third party.  Said right shall be in effect for 15 days from the mailing of notification of the sales contract, unless the net proceeds of the third-party sales contract are less than 80% of the amount in the offer of sale to the tenant in subsection (a) above, or more than 6 months has elapsed since the offer to the tenant in subsection (a) above, in which case the tenant shall have the right for 30 days from the mailing of notification.</text>
+            <num>(6)</num>
+            <text>transfer of, or for the sole purpose of creating, a reversionary (ground rent) interest, if the leasehold is retained by, or was not owned by, the transferor;</text>
           </para>
           <para>
-            <num>(3)</num>
-            <text>A tenant shall exercise the right to contract in lieu of a third party pursuant to this paragraph<em> {subsection} </em>in the manner provided by subsection (a)(3) of this section and where a tenant does so the provisions of subsections (a)(4) and (a)(5) shall apply.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <heading>Contract with other contingent.</heading>
-          <para>
-            <num>(1)</num>
-            <text>The validity of a sales contract between the landlord and a third party shall be contingent on compliance with the provisions of this subtitle, and the contract shall so state.</text>
+            <num>(7)</num>
+            <text>transfer of title in lieu of foreclosure of a mortgage or deed of trust;</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>A notice from the landlord to the tenant of a contract with a third party shall include a copy of the sales contract; the name of the proposed purchaser may be deleted.</text>
+            <num>(8)</num>
+            <text>any sale at public auction of a property individually, if the landlord has offered the property to the persons required under <cite path="|13|6">this subtitle</cite>, and those persons have failed to exercise the opportunity to purchase before the auction sale;</text>
           </para>
           <para>
-            <num>(3)</num>
-            <text>The terms of any resulting landlord-tenant sales contract shall be in accordance with the requirements of this subtitle.</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <heading>Contract without sale price in dollars.</heading>
-          <para>
-            <num>(1)</num>
-            <text>Where a landlord's contract with a third party, which is required by subsection (a) or (b) above to be submitted to the tenant, fails to set forth the sale price in dollars of the individual property for which the tenant has the right of first refusal pursuant to this subtitle, then in the notice to the tenant of said contract the landlord shall set forth a dollar amount which as a cash price is equivalent to the consideration attributable to that property under the terms of the third-party contract.</text>
+            <num>(9)</num>
+            <text>any transfer by a personal representative from a decedent's estate made in the course of the administration of the estate; [and]</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>Where a tenant indicates his intention to contract with the landlord in lieu of a third party as provided herein, in tendering a contract pursuant to subsection (a)(4) the landlord may adjust the sales price to be contained therein to the extent that terms required under this subtitle would otherwise reduce the net proceeds of the sale.</text>
-          </para>
-        </para>
-        <para>
-          <num>(e)</num>
-          <heading>Bulk sale.</heading>
-          <para>
-            <num>(1)</num>
-            <text>Where a landlord's contract with a third party includes the sale of 2 or more properties ("bulk sale") and a tenant indicates his intention to contract with the landlord in lieu of a third party, in tendering a contract pursuant to subsection (a)(4), the landlord may adjust the sale price to be contained therein to the extent that terms required under this subtitle would otherwise reduce the net proceeds of the sale, as net proceeds are defined in the ordinance and the regulations implementing the ordinance.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Such an adjustment may include an increase of up to 1.75% of the price at which the individual property was offered to the third party.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §49</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 88-140" type="History">Ord. 88-140</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-5</num>
-        <heading>Required conditions of offers and contracts.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>Statement of tenant's rights.</heading>
-          <para>
-            <num>(1)</num>
-            <text>All offers of sale to tenants shall include a statement of the tenants' rights provided by this subtitle.</text>
+            <num>(10)</num>
+            <text>a transfer of title by a bona fide gift to a relative of the transferor or relative of the transferor's spouse, subject to the following:</text>
+            <para>
+              <num>(i)</num>
+              <text>"relatives" means only those relatives set forth in § 267(c)(4) of the Internal Revenue Code and all lineal descendants and spouses of those relatives to the extent not already included in that section;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>"ancestors" as defined in § 267(c)(4) are limited to the levels of parents and grandparents; and</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>"lineal descendants" include all biological children and stepchildren, and full effect shall be given to legal adoption[.] ; and</text>
+            </para>
           </para>
           <para>
-            <num>(2)</num>
-            <text>A copy of all offers of sale to tenants shall be sent simultaneously to the Commissioner of the Department of Housing and Community Development.</text>
+            <num>(11)</num>
+            <heading>A tranfer of title by the housing authority of Baltimore City.</heading>
           </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Date of settlement in sales contracts.</heading>
-          <text>The date of settlement shall not be required to be less than 60 days from the date of the tenant's execution of the contract, unless the tenant has notified the landlord pursuant to § 6-4(a)(3) that he proposes to use a federal, state, or local government program to assist the purchase, in which case the date of settlement shall not be required to be less than 90 days from the date of the tenant's execution of the sales contract.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <heading>Deposit for sales contract.</heading>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-4</num>
+          <heading>Rules of interpretation.</heading>
           <para>
-            <num>(1)</num>
-            <text>If a tenant proposes to use a federal, state, or local program to assist the purchase, for either mortgage insurance/guarantee or a direct mortgage, the required deposit shall not exceed the cash contribution required of the buyer by that program.</text>
+            <num>(a)</num>
+            <text><em>In general</em>.</text>
+            <text>In <cite path="|13|6">this subtitle</cite>, the following rules of interpretation apply.</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>If no such program is involved in the tenant purchase, the deposit required for a sales contract shall not exceed 7% of the sale price.</text>
+            <num>(b)</num>
+            <text><em>Time limits</em>.</text>
+            <text>The time periods specified in <cite path="|13|6">this subtitle</cite> are minimum periods. A landlord may provide a tenant with reasonable extensions of time to purchase the rental  dwelling unit.</text>
           </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <heading>Use of governmental assistance protected.</heading>
-          <text>No landlord may refuse to enter into a sales contract with a tenant solely because the tenant proposes to use a federal, state, or local program to assist in the financing of the purchase.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <heading>Financing contingency.</heading>
           <para>
-            <num>(1)</num>
+            <num>(c)</num>
+            <text><em>Presumption of knowledge</em>.</text>
+            <text>Potential third-party purchasers are presumed to act with full knowledge of the rights and procedures established in <cite path="|13|6">this subtitle</cite>.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text>
+              <em>Manner of delivery.</em>
+            </text>
+            <text>Unless otherwise expressly stated in <cite path="|13|6">this subtitle</cite>, delivery of items required by <cite path="|13|6">this subtitle</cite> shall be made either by first-class mail or hand-delivery to the required party.</text>
+          </para>
+          <para>
+            <num>(e)</num>
+            <text>
+              <em>Resolution of defects or ambiguities.</em>
+            </text>
+            <text>To the extent possible, any defect or ambiguity in <cite path="|13|6">this subtitle</cite> shall be resolved in favor of tenants.</text>
+          </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-5</num>
+          <heading>Rules and regulations.</heading>
+          <text>Subject to <cite path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"} of the City General Provisions Article</cite>, the Commissioner may adopt rules and regulations to carry out <cite path="|13|6">this subtitle</cite>.</text>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-6</num>
+          <reason>Reserved</reason>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>2</num>
+        <heading>Opportunity to Purchase – Procedures and Requirements</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>6-7</num>
+          <heading>Opportunity to purchase – generally.</heading>
+          <text>Before a landlord may settle on the sale of a rental dwelling unit, the landlord shall give the tenant an opportunity to purchase the rental  dwelling unit at a price and under terms that constitute an offer of sale in accordance with the requirements of <cite path="|13|6">this subtitle</cite>.</text>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-8</num>
+          <heading>Offer of sale.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>In general</em>.</text>
+            <text>Prior to offer the rental dwelling unit for sale to another party, a landlord shall provide a written offer of sale to:</text>
+            <para>
+              <num>(1)</num>
+              <text>the tenant within the rental dwelling unit; and</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>the Commissioner, on behalf of the Mayor and City Council.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Contents of offer of sale.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>In general.</em>
+              </text>
+              <text>The offer of sale required by this section shall include:</text>
+              <para>
+                <num>(i)</num>
+                <text>the asking price and the material terms of sale; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a statement that the landlord shall provide the tenant, within 7 calendar days of a request, the following:</text>
+                <para>
+                  <num>1.</num>
+                  <text>a complete copy of any third-party contact to purchase the rental  dwelling unit, with the purchaser name redacted; and</text>
+                </para>
+                <para>
+                  <num>2.</num>
+                  <text>copies of available licensing inspection reports of the rental  dwelling unit for the previous 2 years.</text>
+                </para>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>Delay</em>.</text>
+              <text>For each calendar day of delay by the landlord to provide the information required by subsection (b)(1)(ii) of this section, the time period for the tenant to express interest in purchasing the rental  dwelling unit or to negotiate a contract with the landlord for the purchase of the rental  dwelling unit, as the case may be, shall be extended by 1 day.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>Additional information.</text>
+            <text>The landlord shall share the fact sheet regarding tenant rights under this section, which can be obtained from the Department of Housing and Community Development's office or website.</text>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Changes after notice of sale</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>
+                <em>"Material change" defined.</em>
+              </text>
+              <text>In this subsection, "material change" means:</text>
+              <para>
+                <num>(i)</num>
+                <text>a change in the purchaser under a third-party contact; or</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>a reduction in the sales price of 10% or more.</text>
+              </para>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text><em>In general</em>.</text>
+              <para>
+                <num>(i)</num>
+                <text>If there is a subsequent third-party contract after the initial offer of sale was transmitted that results in a material change or if the terms of a third-party contract to purchase the rental  dwelling unit materially change between the time an offer of sale is made and the settlement, the landlord shall provide the tenant with a new offer of sale reflecting the new terms.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>If the initial time period to indicate interest has expired, the tenant shall have all rights preserved under <cite path="|13|6">this subtitle</cite> except that the period to indicate interest in purchasing the rental  dwelling unit under the revised terms of sale may not exceed 7 calendar days from the date of receipt of the new offer of sale.</text>
+              </para>
+            </para>
+            <para>
+              <num>(3)</num>
+              <text><em>Sale price increase</em>.</text>
+              <text>A landlord is not required to provide a new offer of sale if there is an increase in the sale price.</text>
+            </para>
+          </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-9</num>
+          <heading>Opportunity to purchase.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>On receipt of offer of sale</em>.</text>
+            <text>On receipt of the written offer of sale required by <cite path="|13|6|2|6-8">§  6-8 {"Offer of sale"}</cite> of <cite path="|13|6">this subtitle</cite>, a tenant shall have 14 calendar days to deliver a written statement of interest to the landlord.</text>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Acceptance of offer of sale</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>The tenant may accept the offer of sale by submitting a written contract within 14 calendar days from the date of the submission of the statement of interest.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>The contract must include substantially the same terms and conditions set forth in the any third-party contract of sale, including any contract term that provides for a reasonable real estate commission.</text>
+            </para>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text><em>Settlement</em>; <em>Financing</em>.</text>
+            <para>
+              <num>(1)</num>
+              <text>In order for the tenant to secure financing, any contract of sale shall provide a reasonable period of no less than 30 days between the execution of the contract and settlement.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>A landlord shall afford a tenant a reasonable and commensurate extension of time, if:</text>
+              <para>
+                <num>(i)</num>
+                <text>the tenant is obtaining financing through a government or other loan program designed for low- or moderate-income persons or first-time homebuyers; and</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>the government agency or other lender estimates in writing that a financing decision will be made within 60 calendar days after the date of the contract.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(d)</num>
+            <text><em>Expiration</em>.</text>
+            <text>If 6 months elapses from the date the landlord has delivered the written offer of sale required by § 6-8  {"Offer of sale"} to a tenant and the landlord has not gone to settlement on the sale of the rental  dwelling unit, the landlord shall send a new written offer of sale to the relevant parties before selling the rental  dwelling unit.</text>
+          </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section name="6-10to6-13">
+          <num>6-10 to 6-13</num>
+          <reason>Reserved</reason>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>3</num>
+        <heading>Miscellaneous provisions</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>6-14</num>
+          <heading>Earnest money deposits.</heading>
+          <para>
+            <num>(a)</num>
+            <text>
+              <em>Deposit for sales contract.</em>
+            </text>
+            <para>
+              <num>(1)</num>
+              <text>If a tenant proposes to use a federal, State, or local program to assist the purchase, for either mortgage insurance, a mortgage guarantee, or a direct mortgage, the required deposit shall not exceed the cash contribution required of the buyer by that program.</text>
+            </para>
+            <para>
+              <num>(2)</num>
+              <text>If no such program is involved in the tenant purchase, the deposit required for a sales contract shall be at least 1% of the purchase price.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text>
+              <em>Use of governmental assistance protected.</em>
+            </text>
+            <text>No landlord may refuse to enter into a sales contract with a tenant solely because the tenant proposes to use a federal, State, or local program to assist in the financing of the purchase.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Financing contingency.</em>
+            </text>
             <text>A sales contract shall contain a reasonable financing contingency clause which:</text>
             <para>
-              <num>(i)</num>
-              <text>shall not require the tenant to obtain financing in less than 60 days from the date a contract is tendered by the landlord as provided by § 6-4(a)(4); and</text>
+              <num>(1)</num>
+              <text>shall not require the tenant to obtain financing in less than 60 days from the date a contract is tendered by the landlord; and</text>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>shall excuse the tenant from performance of the sales contract if he is unable to obtain adequate financing within said 60-day period.</text>
+              <num>(2)</num>
+              <text>shall excuse the tenant from performance of the sales contract if the tenant is unable to obtain adequate financing within said 60-day period.</text>
             </para>
           </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-15</num>
+          <heading>Waiver of rights.</heading>
+          <text>Unless otherwise expressly stated, a landlord may not request, and the tenant may not grant, a waiver of any requirement under <cite path="|13|6">this subtitle</cite> unless the waiver is in exchange for consideration that the tenant, in their sole discretion, find acceptable.</text>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-16</num>
+          <heading>Affidavit on transfers to third parties.</heading>
           <para>
-            <num>(2)</num>
-            <text>A requirement that the tenant make application for financing within less than 7 banking days from the date of the tenant's execution of the contract shall render said clause unreasonable.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §50</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-6</num>
-        <heading>Miscellaneous.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>Any tenant will do.</heading>
-          <para>
-            <num>(1)</num>
-            <text>If a landlord enters into a sales contract with the tenant, as defined by this subtitle, pursuant to the intent and requirements of this subtitle, the landlord shall be deemed to be in compliance with this subtitle, and to have met the requirements of this subtitle even though such person is not the person with whom the landlord entered into a written or oral lease on the dwelling unit nor the sale occupant of the dwelling.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>A landlord who has complied with the requirements of this subtitle with regard to any person qualifying as a tenant pursuant to § 6-2(b) in the transfer of a particular single-family residential property shall be deemed to have fully complied with this subtitle as to that transaction, notwithstanding the existence of any other person qualifying as a tenant thereunder.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Change in tenant.</heading>
-          <text>If, after the offer of sale, as provided in § 6-4(a), there is a change in tenants, the new tenant shall be entitled to notification and the right to enter into a contract with the landlord in lieu of a third party as required in § 6-4(b) and shall be notified upon taking possession if the property is for sale.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <heading>Waivers — right to receive offer.</heading>
-          <text>No tenant may waive his right to receive an offer of sale or notification as required by this subtitle.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <heading>Waivers — time periods.</heading>
-          <para>
-            <num>(1)</num>
-            <text>A tenant may waive his right to the time periods afforded for entering into a sales contract with the landlord as provided for in § 6-4 and may grant to the landlord the right to enter into a sales contract or transfer of title to a third party without having to wait the stipulated time periods provided in § 6-4.</text>
+            <num>(a)</num>
+            <text>
+              <em>Affidavit of compliance required.</em>
+            </text>
+            <text>In any transfer of real property subject to <cite path="|13|6">this subtitle</cite> to a party other than the tenant, the landlord shall file in the land records of Baltimore  City, and with the Commissioner of the Baltimore City Department of Housing and Community Development, an affidavit in the form set forth in subsection (c) of this section, certifying that the requirements of <cite path="|13|6">this subtitle</cite> have been met, as a part of the deed conveyance.</text>
           </para>
           <para>
-            <num>(2)</num>
-            <text>Any such waiver shall:</text>
+            <num>(b)</num>
+            <text>
+              <em>Transferee's rights protected.</em>
+            </text>
+            <text>Where an affidavit has been filed as required by subsection (a) of this section, the rights and title of a third party transferee and the transferee's heirs, successors, or assigns shall be free of any restriction or claim arising in favor of the tenant under <cite path="|13|6">this subtitle</cite>.</text>
+          </para>
+          <para>
+            <num>(c)</num>
+            <text>
+              <em>Statements required.</em>
+            </text>
+            <text>The affidavit affirming compliance with the requirements of <cite path="|13|6">this subtitle</cite> described under subsection (a) of this section shall:</text>
             <para>
-              <num>(i)</num>
-              <text>be in writing and signed by the tenant; and</text>
+              <num>(1)</num>
+              <text>if the tenant has responded to the offer of sale required under <cite path="|13|6">this subtitle</cite>, include the following statement:</text>
+              <text>"(Name of tenant), being the tenant of the property known as (street address) in Baltimore City, following an offer of sale as required by <cite path="|13|§6-7">§ 6-7 of Article 13</cite> of the Baltimore City Code, sent (date of mailing), has failed to enter into a contract to purchase said property in the manner and time provided by Subtitle 6 of <cite path="|13">Article 13</cite> of the Baltimore City Code." (Add if applicable) "Notice pursuant to <cite path="|13|§6-7">§ 6-7 of Article 13</cite> of the Baltimore City Code was subsequently sent to said tenant on (date of mailing), and tenant subsequently failed to contract to purchase said property in lieu of (name of third party) within the period of time provided by said § 6-8, that period being 7 days."; or</text>
             </para>
             <para>
-              <num>(ii)</num>
-              <text>contain a statement, at the top of the waiver, that the tenant is under no obligation to sign such a waiver and cannot be evicted for refusal to sign the waiver.</text>
+              <num>(2)</num>
+              <text>if the tenant has waived right of first refusal, include the following statement:</text>
+              <text>"(Name of tenant), being the tenant of the property known as (street address) in Baltimore City, following an offer of sale as required by <cite path="|13|§6-7">§ 6-7 of Article 13</cite> of the Baltimore City Code, sent (date of mailing), has not entered into a contract for sale.</text>
             </para>
           </para>
           <para>
-            <num>(3)</num>
-            <text>No landlord may evict a tenant for refusing to sign a waiver of the tenant's right under this subtitle.  Any waiver not in accordance with this subsection shall be null and void and of no effect.</text>
+            <num>(d)</num>
+            <text>
+              <em>Corporate owner.</em>
+            </text>
+            <text>Where a rental  dwelling unit subject to this section is owned by a corporation, LLC, or other business organization, the affidavit required by subsection (a) of this section shall be made by  a duly authorized officer of the organization or duly authorized representative of the ownership entity.</text>
           </para>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §51</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-7</num>
-        <heading>Exemptions.</heading>
-        <text>The following transfers of title to single-family residential rental properties are exempt from the requirements of this subtitle:</text>
-        <para>
-          <num>(1)</num>
-          <text>transfer of title to a spouse, child or children, parents, siblings, or in-laws of the landlord;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>transfer of title by will or through inheritance under the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>a gift to any religious, charitable, or benevolent, tax-exempt donee;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>transfer of title in a mortgage or deed of trust;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>transfer of title to a government agency;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>transfer of, or for the sole purpose of creating, a reversionary (ground rent) interest, if the leasehold is retained by, or was not owned by, the transferor;</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>transfer of title in lieu of foreclosure of a mortgage or deed of trust;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>any sale at public auction of a property individually, if the landlord has offered the property to the tenant as required by <cite path="|13|§6-4|(a)">§ 6-4(a) of this subtitle</cite>, and the tenant has failed to exercise the right of first refusal before the auction sale;</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>any transfer by a personal representative from a decedent's estate made in the course of the administration of the estate;</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>a transfer of title by a bona fide gift to a relative of the transferor or relative of the transferor's spouse, subject to the following:</text>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section>
+          <prefix>§</prefix>
+          <num>6-17</num>
+          <heading>Reporting.</heading>
           <para>
-            <num>(i)</num>
-            <text>"relatives" means only those relatives set forth in § 267(c)(4) of the Internal Revenue Code of 1986 and all lineal descendants and spouses of those relatives to the extent not already included in that section;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>"ancestors" as defined in § 267(c)(4) are limited to the levels of parents and grandparents; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>"lineal descendants" include illegitimate children and step children, and full effect shall be given to legal adoption; and</text>
-          </para>
-        </para>
-        <para>
-          <num>(11)</num>
-          <para>
-            <num>(i)</num>
-            <text>a transfer of title in which:</text>
+            <num>(a)</num>
+            <text><em>Landlord's duty to report</em>.</text>
             <para>
-              <num>(A)</num>
-              <text>the property is listed for sale with a bona fide third-party licensed real estate broker; and</text>
+              <num>(1)</num>
+              <text>A landlord shall report each rental  dwelling unit transfer subject to <cite path="|13|6">this subtitle</cite> to the Commissioner within 30 days of the transfer in the manner required by the Commissioner.</text>
             </para>
             <para>
-              <num>(B)</num>
-              <text>the tenant is notified in writing, in accordance with item (ii), that:</text>
+              <num>(2)</num>
+              <text>The duty to report under this subsection shall include transfers to a party other than the tenant.</text>
+            </para>
+          </para>
+          <para>
+            <num>(b)</num>
+            <text><em>Commissioner's annual report</em>.</text>
+            <text>On or before June 30 of the each year, the Commissioner shall submit a report to the Mayor and City Council detailing:</text>
+            <para>
+              <num>(1)</num>
+              <text>disaggregated by zip code, the total number of transfers subject <cite path="|13|6">this subtitle</cite>, including:</text>
               <para>
-                <num>1.</num>
-                <text>the right of first refusal under this subtitle does not apply because of the exemption under this subsection;</text>
+                <num>(i)</num>
+                <text>transfers to a tenant; and</text>
               </para>
               <para>
-                <num>2.</num>
-                <text>the tenant may negotiate for the purchase of the property on the same basis as other members of the general public; and</text>
-              </para>
-              <para>
-                <num>3.</num>
-                <text>the tenant may contact the Homeownership Institute in the Department of Housing and Community Development for information about the process of purchasing and financing a home; and</text>
+                <num>(ii)</num>
+                <text>transfers to a party other than a tenant;</text>
               </para>
             </para>
+            <para>
+              <num>(2)</num>
+              <text>any recommendations for legislative or policy amendments to better ensure that City tenants are benefitting from <cite path="|13|6">this subtitle</cite>.</text>
+            </para>
+          </para>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+        <section name="6-18to6-19">
+          <num>6-18 to 6-19</num>
+          <reason>Reserved</reason>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>4</num>
+        <heading>Penalties</heading>
+        <section>
+          <prefix>§</prefix>
+          <num>6-20</num>
+          <heading>Penalties.</heading>
+          <para>
+            <num>(a)</num>
+            <text><em>In general</em>.</text>
+            <text>Any person who violates any provision of <cite path="|13|6">this subtitle</cite> shall be guilty of a misdemeanor and, on conviction, shall be subject to a fine of up to $1,000 for each violation.</text>
           </para>
           <para>
-            <num>(ii)</num>
-            <text>the notice must be sent to the tenant at his or her last known address, by certified mail, return receipt requested, within 48 hours after the listing of the property with a real estate broker.  With the notice to the tenant, the landlord or the real estate broker shall send a copy of all information included in the public offering for sale.</text>
+            <num>(b)</num>
+            <text>
+              <em>Other remedies not precluded.</em>
+            </text>
+            <text>The criminal penalty described in this section is not intended to preclude any other civil or administrative remedy available at law.</text>
           </para>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §52</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 80-140" type="History">Ord. 80-140</annotation>
-          <annotation doc="City of Balt., Md., Ord. 99-422" type="History">Ord. 99-422</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-8</num>
-        <heading>Penalties.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>Criminal penalties.</heading>
-          <para>
-            <num>(1)</num>
-            <text>In addition to any penalty arising from the making of a false affidavit, if a landlord voluntarily transfers title to a single-family residential rental property without complying with the provisions of this subtitle, he shall be guilty of a misdemeanor and shall be subject to a fine of up to $500.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Provided that each failure to comply with a particular provision of this subtitle shall constitute a separate violation of this subtitle and shall be considered a separate offense.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Injunctive relief.</heading>
-          <text>A tenant may seek relief from an appropriate court to restrain or enjoin any violation of the provisions of this subtitle.</text>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §53</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
-        </annotations>
-      </section>
-      <section>
-        <prefix>§</prefix>
-        <num>6-9</num>
-        <heading>Affidavit on transfers to third parties.</heading>
-        <para>
-          <num>(a)</num>
-          <heading>Affidavit of compliance required.</heading>
-          <text>In any transfer of real property subject to this subtitle to a party other than a tenant, the owner shall file in the land records of Baltimore City an affidavit in the form set forth in subsection (c) below, certifying that the requirements of this subtitle have been met, as a part of the deed conveyance.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <heading>Transferee's rights protected.</heading>
-          <text>Where an affidavit has been filed as provided by subsection (a) above, the rights and title of a third party transferee, his heirs, successors or assigns shall be free of any restriction or claim arising in favor of a tenant of said property under or through any provision of this subtitle.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <heading>Statements required.</heading>
-          <text>An affidavit affirming compliance with the requirements of this subtitle shall be filed as provided by subsection (a) above and shall incorporate one of the following statements as appropriate:</text>
-          <para>
-            <num>(1)</num>
-            <text>Property not occupied by tenant within 6 months of transfer:</text>
-            <text>"The property known as (street address) in Baltimore City has not been occupied by a tenant since (date)."</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Property occupied within last 6 months but tenant cannot be contacted or has not responded to offer of sale:</text>
-            <text>"The property known as (street address) in Baltimore City, had been let to (name of last tenant), as a single-family residence, and an offer of sale as required by <cite path="|13|§6-4|(a)">§ 6-4(a) of Article 13</cite> of the Baltimore City Code was sent on (date of mailing) to (last known address), being the last address known to me (us) of the aforenamed tenant and I (we) have received no response to said offer of sale."</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Tenant has responded to notice:</text>
-            <text>"(Name of tenant), being the tenant of the property known as (street address) in Baltimore City, following an offer of sale as required by <cite path="|13|§6-4|(a)">§ 6-4(a) of Article 13</cite> of the Baltimore City Code, sent (date of mailing), has failed to enter into a contract to purchase said property in the manner and time provided by Subtitle 6 of <cite path="|13">Article 13</cite> of the Baltimore City Code."</text>
-            <text>(Add if applicable)</text>
-            <text>"Notice pursuant to <cite path="|13|§6-4|(b)">§ 6-4(b) of Article 13</cite> of the Baltimore City Code was subsequently sent to said tenant on (date of mailing), and tenant subsequently failed to contract to purchase said property in lieu of (name of third party) within the period of time provided by said § 6-4(b), that period being               days."</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>Tenant has waived right of first refusal:</text>
-            <text>"(Name of tenant), being the tenant of the property known as (street address) in Baltimore City, following an offer of sale as required by <cite path="|13|§6-4|(a)">§ 6-4(a) of Article 13</cite> of the Baltimore City Code, sent (date of mailing), has executed a waiver of the right of first refusal in a manner consistent with <cite path="|13|§6-6|(c)">§ 6-6(c) of Article 13</cite> of the Baltimore City Code."</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <heading>Corporate owner.</heading>
-          <text>Where a property subject to this section is owned by a corporation, the affidavit required by Paragraph <em>{subsection}</em> (a) above shall be made by the president and the secretary of the corporation.</text>
-        </para>
-        <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §54</annotation>
-          <annotation doc="City of Balt., Md., Ord. 79-1228" type="History">Ord. 79-1228</annotation>
-          <annotation doc="City of Balt., Md., Ord. 22-24" type="History">Ord. 22-24</annotation>
-        </annotations>
-      </section>
-      <section>
-        <num>6-10</num>
-        <reason>Repealed by Ord.  22-125</reason>
-        <annotations>
-          <annotation type="Editor's Notes">For the Code-wide standard for ity, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
-        </annotations>
-      </section>
+          <annotations>
+            <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+          </annotations>
+        </section>
+      </container>
+      <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -5725,6 +5895,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “includes” and “including”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-105">§ 1-105</cite>.</annotation>
           <annotation type="Editor's Notes">See also <cite path="|13|§6A-4">§ 6A-4 {“Additional Commission member”} of this subtitle</cite>.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5736,6 +5907,7 @@
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed this section to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5791,6 +5963,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5826,6 +5999,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5865,6 +6039,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-465" type="History">Ord. 20-465</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5872,6 +6047,7 @@
         <reason>Repealed by Ord.  22-125</reason>
         <annotations>
           <annotation type="Editor's Notes">For the Code-wide standard for severability, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|2|1-214">§ 1-214</cite>.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -5944,6 +6120,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5967,6 +6144,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5993,6 +6171,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6019,6 +6198,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6037,12 +6217,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>6B-6</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -6060,6 +6243,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6077,6 +6261,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6138,6 +6323,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6147,6 +6333,7 @@
         <text>Tenants and landlords involved in the Program must comply with all State and local laws regarding security deposits.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 21-040" type="History">Ord. 21-040</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -6162,6 +6349,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(intro)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6172,6 +6360,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6343,6 +6532,7 @@
           <annotation type="Editor's Notes">In conjunction with its enactment of Subtitle 6A, Ordinance 20-465 also amended this § 7-3(c), subject to the same delayed effective date of April 1, 2021.</annotation>
           <annotation type="Editor's Notes">Subsection (a-2) was enacted by Ordinance 21-014 {“Late Fees for Past Due Rent ”}, with an effective date of April 30, 2021. Section 3 of Ord. 21-014, however, specifies that “this Ordinance shall only apply prospectively to new leases and shall have no retroactive effect on leases entered into prior to the effective date of this Ordinance”.</annotation>
           <annotation type="Editor's Notes">Subsection (a-1) was enacted on January 13, 2020, by Ord. 20-336 {“Water Accountability and Equity Act”).  For the effective date of this subsection, as more recently set  by Ord. 20-468 {“Water Accountability ... Act – Modifications”}, see Editor’s Note in City Code <cite path="|24">Article 24 {“Water”}</cite>, at the end of that article’s Subtitle 2 {“Bills”} – especially the quotes there from Ord. 20-468, Sections 4 and 5(b).</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6369,6 +6559,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6379,6 +6570,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(d)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6389,6 +6581,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(f)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6400,6 +6593,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §56(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-290" type="History">Ord. 81-290</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-137" type="History">Ord. 18-137</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -6483,6 +6677,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(a)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6517,6 +6712,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(b)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6544,6 +6740,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(c)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6635,6 +6832,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6648,6 +6846,7 @@
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6659,6 +6858,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §57(e)</annotation>
           <annotation doc="City of Balt., Md., Ord. 81-280" type="History">Ord. 81-280</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-364" type="History">Ord. 20-364</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6680,7 +6880,9 @@
           <heading>Each day a separate offense.</heading>
           <text>Each day a violation continues is a separate offense.</text>
         </para>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
     </container>
     <container>
@@ -6734,6 +6936,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6833,6 +7036,7 @@
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6857,6 +7061,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6875,6 +7080,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6931,6 +7137,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation type="History">Text Conformed 02/19/21</annotation>
           <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed subsection (b)(1) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6940,12 +7147,15 @@
         <text>Under no circumstances may eviction chattels, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section name="8A-7to8A-8">
         <num>8A-7 to 8A-8</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -6963,6 +7173,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 07-496" type="History">Ord. 07-496</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7006,6 +7217,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7058,6 +7270,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7083,6 +7296,7 @@
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
           <annotation doc="City of Balt., Md., Ord. 09-217" type="History">Ord. 09-217</annotation>
           <annotation doc="City of Balt., Md., Ord. 11-458" type="History">Ord. 11-458</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7101,6 +7315,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7126,6 +7341,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7135,12 +7351,15 @@
         <text>Under no circumstances may any property, abandoned or otherwise, be placed in a public right-of-way or on any public property.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section name="8B-7to8B-8">
         <num>8B-7 to 8B-8</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -7158,6 +7377,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 08-041" type="History">Ord. 08-041</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7210,6 +7430,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7262,6 +7483,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7271,6 +7493,7 @@
         <text>A landlord's offer to renew the lease or notice declining to offer a renewal must be in writing and delivered to the tenant by first-class mail with certificate of mailing or by electronic means if consented to in advance by the tenant in the writing.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7301,12 +7524,15 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>8C-5</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -7315,12 +7541,15 @@
         <text>Any person who violates any provision of this subtitle or any provision of a rule, regulation, or order adopted or issued under this subtitle is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>8C-7</num>
         <reason>Reserved</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -7329,6 +7558,7 @@
         <text>This subtitle shall automatically expire on the 181<sup>st</sup> day following the expiration of the catastrophic health emergency declared by the Governor of Maryland on March 5, 2020, as amended or extended by the Governor.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord.  21-037" type="History">Ord.  21-037</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7374,6 +7604,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §59</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7392,6 +7623,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §60</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7403,6 +7635,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §61</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7423,6 +7656,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §62</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7434,12 +7668,15 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §63</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
           <annotation doc="City of Balt., Md., Ord. 14-209" type="History">Ord. 14-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
         <num>9-6</num>
         <reason>Vacant</reason>
-        <annotations/>
+        <annotations>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -7449,6 +7686,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §65</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7473,6 +7711,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §66</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-754" type="History">Ord. 82-754</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7507,6 +7746,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §67</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7612,6 +7852,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7636,6 +7877,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §69</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7656,6 +7898,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §70</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7676,6 +7919,7 @@
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §71</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
           <annotation doc="City of Balt., Md., Ord. 84-209" type="History">Ord. 84-209</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7686,6 +7930,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §72</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7696,6 +7941,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §73</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7749,6 +7995,7 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §74</annotation>
           <annotation doc="City of Balt., Md., Ord. 82-777" type="History">Ord. 82-777</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7768,9 +8015,11 @@
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 13, §75</annotation>
           <annotation doc="City of Balt., Md., Ord. 83-944" type="History">Ord. 83-944</annotation>
+          <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
         </annotations>
       </section>
     </container>
+    <annotation app="2024-04-13" doc="City of Balt., Md., Ord. 23-275" eff="2024-04-13" path="" type="History"/>
   </container>
   <container>
     <prefix>Division</prefix>
