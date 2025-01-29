@@ -17,7 +17,7 @@
       <committee>Favorable, with Amendment</committee>
     </history>
   </meta>
-  <codify:replace path="1|§22-5">
+  <codify:replace path="1|§22-5" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-5">
     <section>
       <prefix>§</prefix>
       <num>22-5</num>
@@ -53,7 +53,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="1|§22-6">
+  <codify:replace path="1|§22-6" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-6">
     <section>
       <prefix>§</prefix>
       <num>22-6</num>
@@ -206,7 +206,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="1|§22-7">
+  <codify:replace path="1|§22-7" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-7">
     <section>
       <prefix>§</prefix>
       <num>22-7</num>
@@ -242,7 +242,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:insert path="1|22|II" warning="false">
+  <codify:insert path="1|22|II" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-8">
     <section>
       <prefix>§</prefix>
       <num>22-8</num>
