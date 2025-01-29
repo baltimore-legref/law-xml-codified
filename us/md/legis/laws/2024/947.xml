@@ -13,7 +13,7 @@
       <adopted>2024-05-16</adopted>
     </history>
   </meta>
-  <codify:replace doc="City of Baltimore, Md., Charter" path="II|§(27)">
+  <codify:replace doc="City of Baltimore, Md., Charter" path="II|§(27)" codified:doc="City of Baltimore, Md., Charter" codified:path="II|§(27)">
     <section>
       <prefix>§</prefix>
       <num>(27)</num>
