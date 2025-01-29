@@ -17,7 +17,7 @@
       <committee>Favorable, with Amendments</committee>
     </history>
   </meta>
-  <codify:replace path="26|§10-1">
+  <codify:replace path="26|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-1">
     <section>
       <prefix>§</prefix>
       <num>10-1</num>
@@ -43,7 +43,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>is inconsistent with a streetscape plan approved in accordance with Subtitle 10A of <cite path="|26">this article</cite>; and</text>
+            <text>is inconsistent with a streetscape plan approved in accordance with Subtitle 10A of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>; and</text>
           </para>
         </para>
         <para>
@@ -112,12 +112,12 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Notice given in any of these ways suffices for the purposes of this section and §§ 11-1 and 17-4 of <cite path="|26">this article</cite>.</text>
+          <text>Notice given in any of these ways suffices for the purposes of this section and §§ 11-1 and 17-4 of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>.</text>
         </para>
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="26|§10-2">
+  <codify:replace path="26|§10-2" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-2">
     <section>
       <prefix>§</prefix>
       <num>10-2</num>
@@ -134,7 +134,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="26|§10-3">
+  <codify:replace path="26|§10-3" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-3">
     <section>
       <prefix>§</prefix>
       <num>10-3</num>
@@ -159,7 +159,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="26|§10-5">
+  <codify:replace path="26|§10-5" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-5">
     <section>
       <prefix>§</prefix>
       <num>10-5</num>
@@ -191,12 +191,12 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="26|§10-8|num" warning="false">
+  <codify:replace path="26|§10-8|num" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-9">
     <num>10-9</num>
   </codify:replace>
-  <codify:recodify-section path="26|§10-9" num-value="10-8" after="|26|§10-7"/>
-  <codify:remove path="26|§10-9" warning="false"/>
-  <codify:replace path="26|§10-8">
+  <codify:recodify-section path="26|§10-9" num-value="10-8" after="|26|§10-7" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8"/>
+  <codify:remove path="26|§10-9" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-1"/>
+  <codify:replace path="26|§10-8" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-8">
     <section>
       <prefix>§</prefix>
       <num>10-8</num>
@@ -278,7 +278,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="26|§10-9">
+  <codify:replace path="26|§10-9" codified:doc="City of Baltimore, Md., Code" codified:path="26|§10-9">
     <section>
       <prefix>§</prefix>
       <num>10-9</num>
