@@ -252,7 +252,7 @@
       </section>
     </container>
   </codify:insert>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|1|40|40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(7)">
+  <codify:replace doc="City of Baltimore, Md., Code" path="|1|40|40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
     <para>
       <num>(7)</num>
       <text>
@@ -594,7 +594,7 @@
       </text>
     </para>
   </codify:replace>
-  <codify:replace doc="City of Baltimore, Md., Code" path="|1|41|41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(6)">
+  <codify:replace doc="City of Baltimore, Md., Code" path="|1|41|41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
     <para>
       <num>(6)</num>
       <text>
