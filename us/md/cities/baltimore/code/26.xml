@@ -2940,7 +2940,7 @@
           </para>
           <para>
             <num>(iv)</num>
-            <text>is inconsistent with a streetscape plan approved in accordance with Subtitle 10A of <cite path="|26">this article</cite>; and</text>
+            <text>is inconsistent with a streetscape plan approved in accordance with Subtitle 10A of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>; and</text>
           </para>
         </para>
         <para>
@@ -2964,11 +2964,11 @@
           <text>The Director must:</text>
           <para>
             <num>(i)</num>
-            <text>serve each person whose property binds or abuts on the footway with a written notice of the Director's intention to improve, grade, pave, repave, or repair it; and</text>
+            <text>provide each person whose property binds or abuts on the footway with a written notice of the Director's intention to improve, grade, pave, repave, or repair it; and</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>give all persons interested an opportunity 5 days after the date of notice to show cause, if any, why the footway should not be improved, graded, paved, repaved, or repaired.</text>
+            <text>give all persons whose property binds or abuts on the footway an opportunity 30 days after the date of notice to show cause, if any, why the footway should not be improved, graded, paved, repaved, or repaired.</text>
           </para>
         </para>
         <para>
@@ -2981,22 +2981,22 @@
         <heading>Service alternatives.</heading>
         <para>
           <num>(1)</num>
-          <text>The Director of Transportation must cause the notice provided for in this section to be given to the proprietor of each lot adjacent to which a footway is required to be improved, graded, paved, repaved, or repaired.</text>
+          <text>The Director of Transportation must cause the notice provided for in this section to be given to the owner of each lot adjacent to which a footway is required to be improved, graded, paved, repaved, or repaired.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>For this purpose, a copy of the order may be:</text>
+          <text>For this purpose, notice may be:</text>
           <para>
             <num>(i)</num>
             <text>left at any house on the lot;</text>
           </para>
           <para>
             <num>(ii)</num>
-            <text>served personally on the proprietor or on his, her, or its tenant, agent, or guardian;</text>
+            <text>served personally on the owner or the owner's tenant, agent, or guardian;</text>
           </para>
           <para>
             <num>(iii)</num>
-            <text>left at his, her, or its residence;</text>
+            <text>left at the owner's residence;</text>
           </para>
           <para>
             <num>(iv)</num>
@@ -3009,7 +3009,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Notice given in any of these ways suffices for the purposes of this section and §§ <cite path="|26|§11-1">11-1</cite> and <cite path="|26|§17-4">17-4</cite> of <cite path="|26">this article</cite>.</text>
+          <text>Notice given in any of these ways suffices for the purposes of this section and §§ 11-1 and 17-4 of <cite path="|26" doc="City of Balt., Md., Ord. 24-348">this article</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -3027,6 +3027,7 @@
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3036,7 +3037,7 @@
       <para>
         <num>(a)</num>
         <heading>Appeal to BMZA.</heading>
-        <text>Within 2 days from the date of the hearing by the Director of Transportation, any person dissatisfied with the Director's decision on the need for improving, grading, paving, repaving, or repairing any footway may appeal to the Board of Municipal and Zoning Appeals.</text>
+        <text>Within 30 days from the date of the hearing by the Director of Transportation, any person whose property binds or abuts on the footway and who is dissatisfied with the Director's decision on the need for improving, grading, paving, repaving, or repairing any footway, may appeal to the Board of Municipal and Zoning Appeals.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3055,6 +3056,7 @@
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3069,7 +3071,15 @@
       <para>
         <num>(b)</num>
         <heading>Owner.</heading>
-        <text>However, within 15 days after the notice or, if an appeal is taken, within 15 days after the decision of the Board of Municipal and Zoning Appeals, the owner of the property has the option of having the footway improved, graded, paved, repaved, or repaired.</text>
+        <text>The owner of the property may privately improve, grade, pave, repave, or repair the footway either:</text>
+        <para>
+          <num>(1)</num>
+          <text>within 45 days after the notice described under §10-1(b) is provided to the owner; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>if an appeal is taken, within 15 days after the decision of the Board of Municipal and Zoning Appeals</text>
+        </para>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1879, art. 47, §52</annotation>
@@ -3085,6 +3095,7 @@
         <annotation doc="City of Balt., Md., Ord. 48-319" type="History">Ord. 48-319</annotation>
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3124,76 +3135,37 @@
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>10-5</num>
       <heading>Assessments of costs.</heading>
+      <text>When work under this subtitle is completed by the Director of Transportation, the Director of Transportation must determine and record in the Director's office:</text>
       <para>
-        <num>(a)</num>
-        <heading>Record.</heading>
-        <text>When work under this subtitle is completed, the Director of Transportation must determine and record in his or her office:</text>
-        <para>
-          <num>(1)</num>
-          <text>the fact that the work has been done;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>the date the work was completed;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>the total expense of doing the work, including expenses reasonably incurred to ascertain the names of abutting property owners;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>the names of the abutting property owners;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>the scope of the work done at each property for which the property or its owner is to be assessed; and</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>the total amount proposed to be assessed against each of the abutting properties and their owners.</text>
-        </para>
+        <num>(1)</num>
+        <text>the fact that the work has been done;</text>
       </para>
       <para>
-        <num>(b)</num>
-        <heading>Publication of notice.</heading>
-        <para>
-          <num>(1)</num>
-          <text>The Director of Transportation must then publish a notice in 2 of the daily newspapers of Baltimore City.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The notice must:</text>
-          <para>
-            <num>(i)</num>
-            <text>state that the footway has been improved, graded, paved, repaved, or repaired, as the case may be;</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>give the location of the footway; and</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>state that, within 10 days of the notice, the Director of Transportation will hear any owner of property abutting on the footway in reference to his, her, or its liability for all or part of the cost of the work.</text>
-          </para>
-        </para>
+        <num>(2)</num>
+        <text>the date the work was completed;</text>
       </para>
       <para>
-        <num>(c)</num>
-        <heading>Issuance of assessment.</heading>
-        <para>
-          <num>(1)</num>
-          <text>Within 10 days of the notice, the Director of Transportation must hear any aggrieved owner who wants to be heard.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>After the 10 days have expired, the Director of Transportation must assess the entire cost incurred by the Director in doing the work, together with the expense of the notice by publication, on all owners of property abutting on the footway, in proportion to the amount of work done at each property.</text>
-        </para>
+        <num>(3)</num>
+        <text>the total expense of doing the work, including expenses reasonably incurred to ascertain the names of abutting property owners;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>the names of the abutting property owners;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>the scope of the work done at each property for which the property or its owner is to be assessed; and</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>the total amount proposed to be assessed against each of the abutting properties and their owners.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1879, art. 47, §52</annotation>
@@ -3212,6 +3184,7 @@
         <annotation doc="City of Balt., Md., Ord. 89-290" type="History">Ord. 89-290</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3238,6 +3211,7 @@
         <annotation doc="City of Balt., Md., Ord. 67-1196" type="History">Ord. 67-1196</annotation>
         <annotation doc="City of Balt., Md., Ord. 73-347" type="History">Ord. 73-347</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3285,57 +3259,17 @@
         <annotation doc="City of Balt., Md., Ord. 89-290" type="History">Ord. 89-290</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
       <prefix>§</prefix>
       <num>10-8</num>
-      <heading>Appeals.</heading>
-      <para>
-        <num>(a)</num>
-        <heading>Administrative appeal.</heading>
-        <text>Within 30 days of the mailing of a notice of assessment, the owner of the property on which the assessment is levied may appeal the assessment to the Board of Municipal and Zoning Appeals in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
-      </para>
-      <para>
-        <num>(a-1)</num>
-        <heading>Judicial and appellate review.</heading>
-        <para>
-          <num>(1)</num>
-          <text>A person aggrieved by a decision of the Board of Municipal and Zoning Appeals under this section may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A party to the judicial review may appeal the court's final judgment to the Court of Special Appeals in accordance with the Maryland Rules of Procedure.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <heading>Relation back.</heading>
-        <text>If, on appeal, an assessment is sustained in whole or in part, the lien relates back to the time the work was completed.</text>
-      </para>
-      <annotations>
-        <annotation type="Prior Codifications">City Code, 1927, art. 45, §70(4th, 7th sens.)</annotation>
-        <annotation type="Prior Codifications">1950, art. 35, §30(4th, 7th sens.)</annotation>
-        <annotation type="Prior Codifications">1966, art. 26, §25(4th, 7th sens.)</annotation>
-        <annotation type="Prior Codifications">1976/83, art. 26, §29(4th, 7th sens.)</annotation>
-        <annotation doc="City of Balt., Md., Ord. 21-573" type="History">Ord. 21-573</annotation>
-        <annotation doc="City of Balt., Md., Ord. 48-319" type="History">Ord. 48-319</annotation>
-        <annotation doc="City of Balt., Md., Ord. 56-644" type="History">Ord. 56-644</annotation>
-        <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
-        <annotation doc="City of Balt., Md., Ord. 89-290" type="History">Ord. 89-290</annotation>
-        <annotation doc="City of Balt., Md., Ord. 00-101" type="History">Ord. 00-101</annotation>
-        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
-        <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
-      </annotations>
-    </section>
-    <section>
-      <prefix>§</prefix>
-      <num>10-9</num>
       <heading>Collections.</heading>
       <para>
         <num>(a)</num>
         <heading>Director of Finance to collect.</heading>
-        <text>After the 30-day appeal period has expired, the Director of Transportation must report the assessments made to the Director of Finance, who must proceed to collect them in the same manner that real estate taxes are collected.</text>
+        <text>Once made, the Director of Transportation must report the assessments to the Director of Finance, who must proceed to collect them in the same manner that real estate taxes are collected.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -3349,7 +3283,7 @@
           <text>Assessments may be paid:</text>
           <para>
             <num>(i)</num>
-            <text>pursuant to an election to be made before the interest date, in deferred payments as provided in <cite path="|26|§10-7">§ 10-7 of this subtitle</cite>; or</text>
+            <text>pursuant to an election to be made before the interest date, in deferred payments as provided in § 10-7 of this subtitle; or</text>
           </para>
           <para>
             <num>(ii)</num>
@@ -3358,16 +3292,37 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Unless paid on time, all assessments bear interest from the date due until paid in full.</text>
+          <text>All assessments bear interest from the date due until paid in full, unless:</text>
+          <para>
+            <num>(i)</num>
+            <text>the assessment is paid on time; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>the assessment is pending appeal.</text>
+          </para>
         </para>
       </para>
       <para>
         <num>(c)</num>
+        <heading>Appeal of assessment.</heading>
+        <text>A property owner may appeal an assessment:</text>
+        <para>
+          <num>(1)</num>
+          <text>to the director of transportation within 10 days of receipt of a Notice of Assessment from the director of finance; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>to the board of municipal and zoning appeals within 30 days of the Mailing of a notice of assessment, in accordance with §10-9 of this Subtitle.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
         <heading>Assessment as lien.</heading>
         <text>The assessments are liens on the property from the date the work is completed, subject, as to any party who has appealed, to the final decision on appeal.</text>
       </para>
       <para>
-        <num>(d)</num>
+        <num>(e)</num>
         <heading>Remedies.</heading>
         <para>
           <num>(1)</num>
@@ -3398,6 +3353,51 @@
         <annotation doc="City of Balt., Md., Ord. 89-290" type="History">Ord. 89-290</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation type="Prior Codifications">Article 26, § 10-9</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>10-9</num>
+      <heading>Appeals.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Administrative appeal.</heading>
+        <text>Within 30 days of the mailing of a notice of assessment, the owner of the property on which the assessment is levied may appeal the assessment to the Board of Municipal and Zoning Appeals in accordance with <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Judicial and appellate review.</heading>
+        <para>
+          <num>(1)</num>
+          <text>A person aggrieved by a decision of the Board of Municipal and Zoning Appeals under this section may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A party to the judicial review may appeal the court's final judgment to the Appellate Court of Maryland in accordance with the Maryland Rules of Procedure.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Relation back.</heading>
+        <text>If, on appeal, an assessment is sustained in whole or in part, the lien relates back to the time the work was completed.</text>
+      </para>
+      <annotations>
+        <annotation type="Prior Codifications">2001 Ed.,  Article 26, § 10-8</annotation>
+        <annotation type="Prior Codifications">City Code, 1927, art. 45, §70(4th, 7th sens.)</annotation>
+        <annotation type="Prior Codifications">1950, art. 35, §30(4th, 7th sens.)</annotation>
+        <annotation type="Prior Codifications">1966, art. 26, §25(4th, 7th sens.)</annotation>
+        <annotation type="Prior Codifications">1976/83, art. 26, §29(4th, 7th sens.)</annotation>
+        <annotation doc="City of Balt., Md., Ord. 21-573" type="History">Ord. 21-573</annotation>
+        <annotation doc="City of Balt., Md., Ord. 48-319" type="History">Ord. 48-319</annotation>
+        <annotation doc="City of Balt., Md., Ord. 56-644" type="History">Ord. 56-644</annotation>
+        <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
+        <annotation doc="City of Balt., Md., Ord. 89-290" type="History">Ord. 89-290</annotation>
+        <annotation doc="City of Balt., Md., Ord. 00-101" type="History">Ord. 00-101</annotation>
+        <annotation doc="City of Balt., Md., Ord. 04-672" type="History">Ord. 04-672</annotation>
+        <annotation doc="City of Balt., Md., Ord. 19-332" type="History">Ord. 19-332</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3418,6 +3418,7 @@
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3437,8 +3438,10 @@
         <annotation doc="City of Balt., Md., Ord. 76-139" type="History">Ord. 76-139</annotation>
         <annotation doc="City of Balt., Md., Ord. 00-010" type="History">Ord. 00-010</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
+        <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
       </annotations>
     </section>
+    <annotation app="2024-08-10" doc="City of Balt., Md., Ord. 24-348" eff="2024-08-10" path="" type="History"/>
   </container>
   <container>
     <prefix>Subtitle</prefix>
