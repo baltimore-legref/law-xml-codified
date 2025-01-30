@@ -35641,6 +35641,19 @@
               <td>Per Approved Signage Plan</td>
             </tr>
             <tr>
+              <td>Freestanding (Pole)</td>
+              <td>ASSC Only</td>
+              <td>700 sq. ft.</td>
+              <td>
+                <p>Min. Hgt. 10 ft.</p>
+                <p>Max Hgt. 75 ft. in a parking lot less than 2,000ft. From a stadium with a seating capacity of at least 40,000</p>
+              </td>
+              <td>1 per lot</td>
+              <td>X</td>
+              <td>75%</td>
+              <td>Per Approved Signage Plan</td>
+            </tr>
+            <tr>
               <td>Freestanding (Pylon)</td>
               <td>A</td>
               <td>50 sq. ft.</td>
@@ -39236,6 +39249,11 @@
         <annotation doc="City of Balt., Md., Ord. 20-350" type="History">Ord. 20-350</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
       </annotations>
+      <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
+      <annotation doc="City of Balt., Md., Ord. 19-244" type="History">Ord. 19-244</annotation>
+      <annotation doc="City of Balt., Md., Ord. 20-350" type="History">Ord. 20-350</annotation>
+      <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+      <annotation app="2024-11-27" doc="City of Balt., Md., Ord. 24-429" eff="2024-11-27" path="" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
