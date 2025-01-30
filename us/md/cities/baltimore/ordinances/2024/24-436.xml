@@ -17,7 +17,7 @@
       <committee>Favorable</committee>
     </history>
   </meta>
-  <codify:insert path="32|12|2">
+  <codify:insert path="32|12|2" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-212">
     <section>
       <prefix>§</prefix>
       <num>12-212</num>
@@ -50,7 +50,7 @@
       <text>This overlay district is tied to the underlying zoning district to maintain the existing character of the development and neighborhood.</text>
     </section>
   </codify:insert>
-  <codify:insert path="32|12">
+  <codify:insert path="32|12" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-1401">
     <container>
       <prefix>Subtitle</prefix>
       <num>14</num>
@@ -210,7 +210,7 @@
       </section>
     </container>
   </codify:insert>
-  <codify:replace path="32|§16-601|(b)|(1)">
+  <codify:replace path="32|§16-601|(b)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)|(1)">
     <para>
       <num>(1)</num>
       <text>The districts included in this paragraph are exempt from parking requirements:</text>
@@ -268,7 +268,7 @@
       </para>
     </para>
   </codify:replace>
-  <codify:insert path="32|attachments" after="12-1303">
+  <codify:insert path="32|attachments" after="12-1303" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403">
     <attachment>
       <prefix>Table</prefix>
       <num>12-1403</num>
