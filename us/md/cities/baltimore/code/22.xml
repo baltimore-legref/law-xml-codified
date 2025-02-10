@@ -11511,7 +11511,7 @@
         <num>(11)</num>
         <para>
           <num>(a)</num>
-          <text>"Average final compensation" means the member's average annual earnable compensation for the 36 consecutive months of service as an employee during which his or her earnable compensation was highest or, if he or she had less than 36 consecutive months of service, then the average annual earnable compensation during his or her total years of service.</text>
+          <text>"Average final compensation" means the member's average annual earnable compensation for the 24 consecutive months of service as an employee during which his or her earnable compensation was highest or, if he or she had less than 24 consecutive months of service, then the average annual earnable compensation during his or her total years of service.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -11537,6 +11537,19 @@
         <para>
           <num>(e)</num>
           <text>In no event may the retirement benefits of a member retired under § 30(11)(d)(ii) as a result of the application of the definition of "average final compensation", effective July 1, 2010, be less than the benefit the member would have been entitled to prior to July 1, 2010.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <text>For members who</text>
+          <para>
+            <num>(i)</num>
+            <text>retired on or after July 1, 2010, and on or before June 30, 2025, and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>do not meet the eligibility requirements of § 30(11)(d)(ii)</text>
+          </para>
+          <text>"average final compensation" means the average annual earnable compensation for the 36 consecutive months of service as an employee during which the member's earnable compensation was highest.</text>
         </para>
       </para>
       <para>
@@ -11628,6 +11641,7 @@
         <annotation doc="City of Balt., Md., Ord. 19-254" type="History">Ord. 19-254</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-459" type="History">Ord. 20-459</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-145" type="History">Ord. 22-145</annotation>
+        <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-379" eff="2024-11-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -12625,7 +12639,14 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>attained age 55; and acquired 15 or more years of service as a contributing member of this System.</text>
+              <para>
+                <num>1.</num>
+                <text>attained age 55; and</text>
+              </para>
+              <para>
+                <num>2.</num>
+                <text>acquired 15 or more years of service as a contributing member of this System.</text>
+              </para>
             </para>
           </para>
         </para>
@@ -12635,11 +12656,11 @@
         <heading>Early service retirement benefits – age and service requirements.</heading>
         <para>
           <num>(1)</num>
-          <text>On or after July 1, 2010, a member of this System on or after June 30, 2010, who does not satisfy the conditions of either paragraph (2)(i) or paragraph (2)(ii) of subsection (a-1) of this section may retire with an early service retirement when he or she first meets the applicable age or service requirements for a normal service retirement under subsection (a-1)(1) of this section.</text>
+          <text>On or after July 1, 2010, a member of this System who has not terminated employment and who does not satisfy the conditions of either paragraph (2)(i) or paragraph (2)(ii) of subsection (a-1) of this section may retire with an early service retirement when he or she first meets the applicable age or service requirements for a normal service retirement under subsection (a-1)(1) of this section.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The benefit commencement date of an early service retirement is any date elected by the member in accordance with subsection (a-3) of this section and that is:</text>
+          <text>The benefit commencement date of an early service retirement is any date elected by the member in accordance with subsection (a-4) of this section and that is:</text>
           <para>
             <num>(A)</num>
             <text>on or after the date the member first meets the applicable age or service requirements for a normal service retirement under subsection (a-1)(1) of this section; and</text>
@@ -12652,8 +12673,47 @@
       </para>
       <para>
         <num>(a-3)</num>
+        <heading>Deferred vested pension.</heading>
+        <para>
+          <num>(1)</num>
+          <text>Eligibility requirements.</text>
+          <text>This subsection applies to any member who enters service on or after July 1, 2025 and who terminates City employment:</text>
+          <para>
+            <num>(A)</num>
+            <text>after acquiring 10 or more years of service as a contributing member of this system;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>without satisfying the conditions for a normal service retirement under subsection (a-1)(2) of this section</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>without electing to receive an early service retirement benefit under subsection (a-2) of this section; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>without withdrawing the accumulated contributions credited to the member's account in the Annuity Savings Fund</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Deferred vested benefit</text>
+          <para>
+            <num>(A)</num>
+            <heading>Benefit.</heading>
+            <text>A member described in paragraph (1) of this subsection is entitled to receive, commencing on or after the 1<sup>st</sup> day of the month immediately following the member's 60<sup>th</sup> birthday, a deferred vested benefit, calculated in accordance with the rules for normal service retirements set forth in subsection (b-1)(4) of this section without reduction.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <heading>Death of a terminated vested member.</heading>
+            <text>If a member described in paragraph (1) of this subsection dies before commencing receipt of a deferred vested benefit, then no death benefits are payable on account of the member's death, except for the return of the member's accumulated contributions</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(a-4)</num>
         <heading>Application.</heading>
-        <text>To retire under subsection (a-1) or (a-2) of this section, the member must:</text>
+        <text>To retire under subsection (a-1), (a-2), or (a-3) of this section, the member must:</text>
         <para>
           <num>(i)</num>
           <text>apply to the Board of Trustees, on a form approved by the Board;</text>
@@ -12777,7 +12837,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Notwithstanding any other provision of this subtitle to the contrary, any member (other than a member who has elected to participate in the Deferred Retirement Option Plan pursuant to <cite path="|22|§36B">§ 36B of this subtitle</cite>) who retires effective on or after June 1, 1996, and on or before August 31, 1996, with 35 or more years of service shall receive, in addition to his accumulated service credit, a credit of 6 additional months of service.  For purposes of this § 34(b-1)(6) only the "average final compensation", as defined in <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, of any member eligible for this additional service credit shall be calculated as if the member had retired on January 1, 1997 (rather than on his or her actual retirement date) and had earned compensation, pay, or salary during the period between his or her actual retirement date and January 1, 1997, at the salary rate in effect at the time of actual retirement.</text>
+          <text>Notwithstanding any other provision of this subtitle to the contrary, any member (other than a member who has elected to participate in the Deferred Retirement Option Plan pursuant to § 36B of this subtitle) who retires effective on or after June 1, 1996, and on or before August 31, 1996, with 35 or more years of service shall receive, in addition to his accumulated service credit, a credit of 6 additional months of service.  For purposes of this § 34(b-1)(6) only the "average final compensation", as defined in § 30(11) of this subtitle, of any member eligible for this additional service credit shall be calculated as if the member had retired on January 1, 1997 (rather than on his or her actual retirement date) and had earned compensation, pay, or salary during the period between his or her actual retirement date and January 1, 1997, at the salary rate in effect at the time of actual retirement.</text>
         </para>
       </para>
       <para>
@@ -12997,7 +13057,7 @@
         <para>
           <num>(4)</num>
           <heading>Application after receipt of DROP or DROP 2 benefits.</heading>
-          <text>A member who elects to receive DROP benefits under <cite path="|22|§36B">§ 36B of this subtitle</cite> or DROP 2 benefits under <cite path="|22|§36C">§ 36C of this subtitle</cite> may not file for line-of-duty disability retirement benefits following the member's retirement unless the member first pays back to the System the member's DROP account distribution, DROP annuity payments,  DROP 2 account distribution, or DROP 2 annuity payments, as applicable.</text>
+          <text>A member who elects to receive DROP benefits under § 36B of this subtitle or DROP 2 benefits under § 36C of this subtitle may not file for line-of-duty disability retirement benefits following the member's retirement unless the member first pays back to the System the member's DROP account distribution, DROP annuity payments,  DROP 2 account distribution, or DROP 2 annuity payments, as applicable.</text>
         </para>
       </para>
       <para>
@@ -13014,12 +13074,12 @@
             <num>(ii)</num>
             <text>a pension, in addition to the annuity, of 66.667% of the member's average final compensation.</text>
           </para>
-        </para>
-        <para>
-          <num>(2)</num>
           <para>
-            <num>(i)</num>
-            <text>For purposes of computing the pension payable to the member, if the last injury that caused or contributed to the disability occurred while the member was assigned to duties in a higher classification than his or her regular classification, the member's average final compensation shall be based on the maximum rate of pay earnable for the 18 months immediately preceding the injury in the classification in which she or he was performing duties at the time of the injury causing the disability if that computation is higher than the "average final compensation" computed in accordance with the definition of that term in <cite path="|22|§30">§ 30 of this subtitle</cite>.</text>
+            <num>(2)</num>
+            <para>
+              <num>(i)</num>
+              <text>For purposes of computing the pension payable to the member, if the last injury that caused or contributed to the disability occurred while the member was assigned to duties in a higher classification than his or her regular classification, the member's average final compensation shall be based on the maximum rate of pay earnable for the 18 months immediately preceding the injury in the classification in which she or he was performing duties at the time of the injury causing the disability if that computation is higher than the "average final compensation" computed in accordance with the definition of that term in § 30 of this subtitle.</text>
+            </para>
           </para>
           <para>
             <num>(ii)</num>
@@ -13104,7 +13164,7 @@
         <para>
           <num>(4)</num>
           <heading>Application after receipt of DROP or DROP 2 benefits.</heading>
-          <text>A member who elects to receive DROP benefits under <cite path="|22|§36B">§ 36B of this subtitle</cite> or DROP 2 benefits under <cite path="|22|§36C">§ 36C of this subtitle</cite> may not file for 100% line-of-duty disability retirement benefits following the member's retirement unless the member first pays back to the System the member's DROP account distribution, DROP annuity payments,  DROP 2 account distribution, or DROP 2 annuity payments, as applicable.</text>
+          <text>A member who elects to receive DROP benefits under § 36B of this subtitle or DROP 2 benefits under § 36C of this subtitle may not file for 100% line-of-duty disability retirement benefits following the member's retirement unless the member first pays back to the System the member's DROP account distribution, DROP annuity payments,  DROP 2 account distribution, or DROP 2 annuity payments, as applicable.</text>
         </para>
       </para>
       <para>
@@ -13155,7 +13215,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>If a disability retiree has been certified by the panel of hearing examiners as fit for further performance of duties and refuses to accept an offer of reemployment as an "employee", as that term is defined in <cite path="|22|§30|(2)">§ 30(2) of this subtitle</cite>, in the classification in which he or she was performing duties at the time of retirement and at a compensation not less than the rate of compensation being paid currently to persons in the same grade and step as the retiree was at the time of retirement, plus the amount of any longevity payments currently being paid for the length of service the retiree had at the time of retirement, all rights in and to his or her pension shall be revoked by the Board of Trustees.</text>
+          <text>If a disability retiree has been certified by the panel of hearing examiners as fit for further performance of duties and refuses to accept an offer of reemployment as an "employee", as that term is defined in § 30(2) of this subtitle, in the classification in which he or she was performing duties at the time of retirement and at a compensation not less than the rate of compensation being paid currently to persons in the same grade and step as the retiree was at the time of retirement, plus the amount of any longevity payments currently being paid for the length of service the retiree had at the time of retirement, all rights in and to his or her pension shall be revoked by the Board of Trustees.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -13278,21 +13338,21 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>; or</text>
+                <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>; or</text>
               </para>
             </para>
             <para>
               <num>(ii)</num>
-              <text>if the designated beneficiary is not the member's spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
+              <text>if the designated beneficiary is not the member's spouse or minor child, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
+              <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>.</text>
             </para>
           </para>
           <para>
             <num>(C)</num>
-            <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -13321,7 +13381,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>that member has no heirs, as enumerated in §<cite doc="Md. Code" path="get|3-102">§ 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code</cite>; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(C)</num>
@@ -13342,7 +13402,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>whose death has been determined by a hearing examiner, as provided in <cite path="|22|§33|(l)">§ 33(l) of this subtitle</cite>, to have arisen:</text>
+            <text>whose death has been determined by a hearing examiner, as provided in § 33(l) of this subtitle, to have arisen:</text>
             <para>
               <num>(i)</num>
               <text>out of and in the course of the actual performance of duty; and</text>
@@ -13392,7 +13452,7 @@
               </para>
               <para>
                 <num>2.</num>
-                <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>;</text>
+                <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>;</text>
               </para>
               <para>
                 <num>3.</num>
@@ -13410,7 +13470,7 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -13434,7 +13494,7 @@
             <text>This paragraph (4) applies to any member who:</text>
             <para>
               <num>(i)</num>
-              <text>retires under the provisions of <cite path="|22|§34|(e)" proof="needed">§ 34(e) of this subtitle</cite>;</text>
+              <text>retires under the provisions of § 34(e) of this subtitle;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -13468,7 +13528,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>that member has no heirs, as enumerated in §<cite doc="Md. Code" path="get|3-102">§ 3-102 through 3-104 of the Estates and Trusts Article of the Maryland Code</cite>; and</text>
+            <text>that member has no heirs, as enumerated in '' 3-102 through 3-104 of the <cite doc="Md. Code" path="get">Estates and Trusts Article of the Maryland Code</cite>; and</text>
           </para>
           <para>
             <num>(C)</num>
@@ -13579,18 +13639,18 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
+              <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>.</text>
             </para>
           </para>
           <para>
             <num>(iii)</num>
             <heading>Retired member's death – Share of minor child who attains majority.</heading>
-            <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
+            <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
           </para>
           <para>
             <num>(iv)</num>
             <heading>Retired member's death – Before contributions and DROP or DROP 2 account recovered.</heading>
-            <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
+            <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
             <para>
               <num>(A)</num>
               <text>to the deceased member's beneficiary specifically designated to receive the unused annuity and remaining DROP or DROP 2 account; or</text>
@@ -13878,7 +13938,7 @@
           </para>
           <para>
             <num>(i)</num>
-            <text>For purposes of applying this subsection of the ordinance, the minimum benefit of $2,000 for a surviving beneficiary of a retired member in paragraphs (2) and (3) and (4)(e) is to be paid, subject to the same conditions, deductions, and limitations as are provided for a beneficiary of a retired member, to a widow or a dependent child or children who are receiving periodic payments under the provisions of <cite path="|22|§34|(h)|(4)">§ 34(h)(4) of this subtitle</cite> as a result of the death of a member before the effective date of this ordinance.</text>
+            <text>For purposes of applying this subsection of the ordinance, the minimum benefit of $2,000 for a surviving beneficiary of a retired member in paragraphs (2) and (3) and (4)(e) is to be paid, subject to the same conditions, deductions, and limitations as are provided for a beneficiary of a retired member, to a widow or a dependent child or children who are receiving periodic payments under the provisions of § 34(h)(4) of this subtitle as a result of the death of a member before the effective date of this ordinance.</text>
           </para>
         </para>
       </para>
@@ -13904,9 +13964,9 @@
       </para>
       <para>
         <num>(p)</num>
-        <text>In addition to the benefits provided for in this subtitle, any member who was retired on or before June 30, 1977, and who was receiving a periodically paid retirement benefit under this system shall be entitled to receive an increase in his total retirement benefits including §§ 34(n) and 34(o) adjusted benefits, effective with the 1<sup>st</sup> full pay period on or after July 1, 1979, in an amount equal to 5% of the total retirement benefits including §§ 34(n) and 34(o) adjusted increases, which said retiree was receiving on June 30, 1977, subject to a maximum increase of $260 a year.  However, such maximum increase of $260 shall be reduced, pro rata, by each year and the decimal proportion of a year of the retiree's service which was less than 25 years at the time of the member's retirement.</text>
-        <text>In addition to the benefits provided for in this subtitle, any beneficiary of a deceased retiree who became a beneficiary on or before June 30, 1977, as a result of the death of a retired member, which death occurred on or before June 30, 1977, and which beneficiary is receiving a periodically paid retirement benefit under this system, shall be entitled to receive an increase in his or her total retirement benefits including §§ 34(n) and 34(o) adjusted benefits, starting with the 1<sup>st</sup> full pay period on or after July 1, 1979, in an amount equal to 5% of the total retirement benefits including §§ 34(n) and 34(o) adjusted increases, which said beneficiary was receiving on June 30, 1977, subject to a maximum increase of $130 a year.  However, such maximum annual increase of $130 shall be reduced, pro rata, by each year and the decimal proportion of a year that the original member retiree's service was less than 25 years at the time the member retired.</text>
-        <text>In addition to the benefits provided for in this subtitle, any beneficiary who becomes eligible for periodically paid retirement benefits as a result of the death of a retired member, which death occurs on or after July 1, 1977, and which member was retired and receiving benefits on or before June 30, 1977, shall be entitled to receive an increase in the total retirement benefits including §§ 34(n) and 34(o) adjusted increases, starting with the 1<sup>st</sup> full pay period on or after July 1, 1979, (or if the retired member dies after July 1, 1979, then the 1<sup>st</sup> pay period after the retired member's death) in an amount equal to 5% of the total retirement benefits including §§ 34(n) and 34(o) adjusted increases, which said beneficiary was receiving on June 30, 1979, (or at the time of the retired member's death, if later) subject to a maximum increase of $130 a year.  However, such maximum increase of $130 shall be reduced, pro rata, by each year and the decimal proportion of a year that the original member retiree's service was less than 25 years at the time of the original member's retirement.</text>
+        <text>In addition to the benefits provided for in this subtitle, any member who was retired on or before June 30, 1977, and who was receiving a periodically paid retirement benefit under this system shall be entitled to receive an increase in his total retirement benefits including '' 34(n) and 34(o) adjusted benefits, effective with the 1<sup>st</sup> full pay period on or after July 1, 1979, in an amount equal to 5% of the total retirement benefits including '' 34(n) and 34(o) adjusted increases, which said retiree was receiving on June 30, 1977, subject to a maximum increase of $260 a year.  However, such maximum increase of $260 shall be reduced, pro rata, by each year and the decimal proportion of a year of the retiree's service which was less than 25 years at the time of the member's retirement.</text>
+        <text>In addition to the benefits provided for in this subtitle, any beneficiary of a deceased retiree who became a beneficiary on or before June 30, 1977, as a result of the death of a retired member, which death occurred on or before June 30, 1977, and which beneficiary is receiving a periodically paid retirement benefit under this system, shall be entitled to receive an increase in his or her total retirement benefits including '' 34(n) and 34(o) adjusted benefits, starting with the 1<sup>st</sup> full pay period on or after July 1, 1979, in an amount equal to 5% of the total retirement benefits including '' 34(n) and 34(o) adjusted increases, which said beneficiary was receiving on June 30, 1977, subject to a maximum increase of $130 a year.  However, such maximum annual increase of $130 shall be reduced, pro rata, by each year and the decimal proportion of a year that the original member retiree's service was less than 25 years at the time the member retired.</text>
+        <text>In addition to the benefits provided for in this subtitle, any beneficiary who becomes eligible for periodically paid retirement benefits as a result of the death of a retired member, which death occurs on or after July 1, 1977, and which member was retired and receiving benefits on or before June 30, 1977, shall be entitled to receive an increase in the total retirement benefits including '' 34(n) and 34(o) adjusted increases, starting with the 1<sup>st</sup> full pay period on or after July 1, 1979, (or if the retired member dies after July 1, 1979, then the 1<sup>st</sup> pay period after the retired member's death) in an amount equal to 5% of the total retirement benefits including '' 34(n) and 34(o) adjusted increases, which said beneficiary was receiving on June 30, 1979, (or at the time of the retired member's death, if later) subject to a maximum increase of $130 a year.  However, such maximum increase of $130 shall be reduced, pro rata, by each year and the decimal proportion of a year that the original member retiree's service was less than 25 years at the time of the original member's retirement.</text>
         <text>The increases provided for under this section shall not be applicable to any retired member or any beneficiary of a deceased retired member who received a lump-sum benefit instead of a periodically paid retirement allowance.  In addition, the benefits provided for in this section shall cease at the time that the retired member dies, or the deceased retired member's beneficiary shall no longer be entitled to receive a periodically paid pension, annuity, or both, under any other section of this subtitle.  It is further provided that the increases under this section when so discontinued, shall not be reinstated upon any subsequent reemployment and subsequent eligibility for retirement as a result of such reemployment.</text>
       </para>
       <para>
@@ -13979,7 +14039,9 @@
       </para>
       <para>
         <num>(s-2)</num>
-        <heading>Minimum benefits, effective January 1, 2012, for beneficiaries  of members who retired on account of line-of-duty disability.</heading>
+        <text>
+          <em>Minimum benefits, effective January 1, 2012, for beneficiaries  of members who retired on account of line-of-duty disability.</em>
+        </text>
         <para>
           <num>(1)</num>
           <text>If a spousal beneficiary of a sworn member who, before August 1, 1996, retired on account of a line-of-duty disability with less than 20 years of service is receiving periodic retirement benefits from this System as of December 31, 2011, in an annual amount that is less than $16,000, that beneficiary shall receive an increase in his or her periodic retirement benefits so that the annual amount of those benefits equals $16,000.  This increase shall be payable with the first full payroll period beginning after January 1, 2012.</text>
@@ -14034,7 +14096,7 @@
           <heading>Special rule.</heading>
           <para>
             <num>(A)</num>
-            <text>In this paragraph, "§ 401(a)(17) member" means any member on or after July 1, 1994, whose annual compensation for any year before 1994 exceeded $150,000.</text>
+            <text>In this paragraph, A' 401(a)(17) member" means any member on or after July 1, 1994, whose annual compensation for any year before 1994 exceeded $150,000.</text>
           </para>
           <para>
             <num>(B)</num>
@@ -14093,18 +14155,25 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>A portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income. However, the portion may be transferred only to:</text>
               <para>
-                <num>(A)</num>
-                <text>an individual retirement account or annuity described in Internal Revenue Code § 408(a) or (b);</text>
+                <num>1.</num>
+                <text>A portion of a distribution does not fail to be an "eligible rollover distribution" merely because the portion consists of after-tax employee contributions that are not includible in gross income.</text>
               </para>
               <para>
-                <num>(B)</num>
-                <text>for taxable years beginning after December 31, 2001, and before January 1, 2007, to a qualified trust that is part of a defined contribution plan that agrees to separately account for amounts so transferred, including separately accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible; or</text>
-              </para>
-              <para>
-                <num>(C)</num>
-                <text>for taxable years beginning after December 31, 2006, to a qualified trust or to an annuity contract described in Internal Revenue Code § 403(B), if the trust or contract provides for separate accounting for amounts so transferred (including interest on those amounts), including separately accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
+                <num>2.</num>
+                <text>However, the portion may be transferred only to:</text>
+                <para>
+                  <num>i.</num>
+                  <text>an individual retirement account or annuity described in Internal Revenue Code § 408(a) or (b);</text>
+                </para>
+                <para>
+                  <num>ii.</num>
+                  <text>for taxable years beginning after December 31, 2001, and before January 1, 2007, to a qualified trust that is part of a defined contribution plan that agrees to separately account for amounts so transferred, including separately accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible; or</text>
+                </para>
+                <para>
+                  <num>iii.</num>
+                  <text>for taxable years beginning after December 31, 2006, to a qualified trust or to an annuity contract described in Internal Revenue Code § 403(B), if the trust or contract provides for separate accounting for amounts so transferred (including interest on those amounts), including separately accounting for the portion of the distribution that is includible in gross income and the portion of the distribution that is not so includible.</text>
+                </para>
               </para>
             </para>
           </para>
@@ -14231,6 +14300,7 @@
           <text>Subsection (r-1) was added by Ordinance 04-889.  Section 2 of that Ordinance further provided</text>
           <text>[A]ny increased benefits payable to a retired or former member who applies for and is granted line-of-duty disability benefits under ... § 34(r-1)(2) ... are to be paid prospectively from the date on which the member files his or her new application.  Any benefit increases under ... § 36A applicable to a line-of-duty disability benefit granted under § 34(r-1)(2) shall be calculated as if the member had been awarded the line-of-duty disability effective with his or her date of retirement, but the additional § 36A benefit increases shall only be paid prospectively from the date the retired member files his or her new application under § 34(r-1)(2).</text>
         </annotation>
+        <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-379" eff="2024-11-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15270,317 +15340,13 @@
       <prefix>§</prefix>
       <num>36A</num>
       <heading>Post-retirement benefit increases to certain retirees and beneficiaries.</heading>
-      <text>Each retired member or beneficiary who is receiving periodic benefits under the provisions of the Retirement System is eligible for an increase in the amount of those periodic benefits subject to the following provisions.</text>
       <para>
         <num>(a)</num>
         <heading>Eligibility.</heading>
-        <para>
-          <num>(1)</num>
-          <para>
-            <num>(i)</num>
-            <text>Each member who has retired from active service and each beneficiary of a deceased member who is or will be receiving periodic retirement benefits and who receives periodic benefit payments for 2 or more years is eligible for an increase in the periodic benefit, as determined under this § 36A.  The 2-year period shall be calculated beginning with the effective date of the 1<sup>st</sup> retirement benefit payment paid to either the retired member or the beneficiary of a deceased member and shall be determined on June 30 of each year beginning with June 30, 1983.  Years retired as a beneficiary of a former retired member include the years that the member was retired.  Eligible members and beneficiaries are also referred to in this section as "persons".</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>For a member who has retired during or at the conclusion of his or her Deferred Retirement Option Plan ("DROP") participation period, as defined in <cite path="|22|§36B">§ 36B of this subtitle</cite>, and for each beneficiary who is or will be receiving periodic retirement benefits as a result of a member who dies during or at the conclusion of his or her DROP participation period, the months of participation in DROP shall be counted toward the eligibility requirement described in subparagraph (i) of this paragraph.</text>
-          </para>
-          <para>
-            <num>(iii)</num>
-            <text>For a member who has retired on intermediate DROP benefits or full DROP benefits, his or her months of participation in DROP shall not be counted toward the eligibility requirement described in subparagraph (i) of this paragraph.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <para>
-            <num>(i)</num>
-            <text>This paragraph (2) applies to members who are no longer employed in a permanent full-time or permanent part-time position with the City and were either:</text>
-            <para>
-              <num>1.</num>
-              <text>members of this system who were eligible to retire but chose to postpone receipt of retirement benefits to begin employment in a position covered by another City system; or</text>
-            </para>
-            <para>
-              <num>2.</num>
-              <text>retirees who were receiving retirement benefits from this system but chose to suspend receipt of those benefits to begin employment in a position covered by another City system.</text>
-            </para>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>Pursuant to <cite path="|22|§48">§ 48 of this article</cite> and notwithstanding the waiting period required by this section, members described in subparagraph (i) of this paragraph (2), on ceasing all permanent full-time and permanent part-time employment with the City, shall receive benefits calculated to include all post-retirement increases, in accordance with the rates of increase set by this system, that the member or retiree would have been eligible to receive as a retiree had retirement benefits not been postponed or suspended.</text>
-          </para>
-        </para>
-        <para>
-          <num>(3)</num>
-          <para>
-            <num>(A)</num>
-            <text>This paragraph (3) applies to a member's surviving spouse who:</text>
-            <para>
-              <num>(i)</num>
-              <text>on the member's death, was awarded line-of-duty death benefits;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>remarried on or before June 29, 1998, and, as a result, stopped receiving these line-of-duty death benefits; and</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>pursuant to § 34(i)(2)(E), has resumed receiving these line-of-duty death benefits effective June 30, 1998.</text>
-            </para>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>A surviving spouse described in subparagraph (A) of this paragraph (3) shall receive line-of-duty death benefits calculated to include all post-retirement increases, in accordance with the rates or increases set by this system, that the surviving spouse would have been eligible to receive had line-of-duty death benefits not been terminated.</text>
-          </para>
-        </para>
+        <text>Each retired member and each beneficiary of a deceased member receiving periodic retirement, death or survivorship benefits as of June 30 is eligible to receive an increase in the periodic benefit on the following January 1, provided that the retired member or beneficiary meets the applicable age requirement set forth in <cite path="22|§36A|(b)|(2)">§36A(b)(2)</cite>.  Eligibility for increases to a beneficiary of a deceased retired member shall be determined as if the beneficiary was receiving retirement benefits on the date of death.</text>
       </para>
       <para>
         <num>(b)</num>
-        <heading>Amount of benefit increase payable for fiscal years ending on or before June 30, 2009.</heading>
-        <text>As of the end of each fiscal year ending on or before June 30, 2009, a determination shall be made of the amount of increase (if any) of retirement benefit payments which may be payable to eligible persons.  The amount of retirement benefit increase shall be calculated with reference to excess investment earnings of the Annuity Reserve Fund and the Pension Reserve Fund only, and according to the method described in subsection (c) below.</text>
-        <text>After determination of the amount of excess investment earnings available for retirement benefit increases, such excess investment earnings shall be allocated to eligible retired members and beneficiaries according to the following method.  The percentage by which the benefits shall be increased shall be determined by the actuary as the amount that the investment earnings determined in subsection (c) below would be sufficient to fund on a single premium paid up annuity basis using the actuarial valuation assumptions on the June 30 preceding the effective date of the increase.</text>
-        <para>
-          <num>(i)</num>
-          <text>Effective as of January 1, 1984, an increase may be payable to each retiree or beneficiary eligible pursuant to subsection (a) of this section as of June 30, 1983.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Until the benefit increase objectives set forth in paragraph (iii) below have been met, the allocation to eligible persons shall be made with reference to the number of full continuous years that each person has been receiving retirement benefits from this plan and the amount of each person's benefit being paid as of June 30, 1983.  A percentage factor will be determined by the actuary to increase benefits to those eligible.  The percent increase in an eligible member's or beneficiary's benefit will equal the percentage factor times full years which the member or beneficiary has been receiving benefits.  No fractional years will be used.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>The allocation method set forth in paragraph (ii) above shall apply only until the following benefit increase objectives have been met:</text>
-          <text>
-            <table>
-              <thead>
-                <tr>
-                  <th>Date benefit payments began</th>
-                  <th>Percent increase</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>7/1/80 - 6/30/81</td>
-                  <td>1%</td>
-                </tr>
-                <tr>
-                  <td>7/1/79 - 6/30/80</td>
-                  <td>2%</td>
-                </tr>
-                <tr>
-                  <td>7/1/78 - 6/30/79</td>
-                  <td>3%</td>
-                </tr>
-                <tr>
-                  <td>7/1/77 - 6/30/78</td>
-                  <td>4%</td>
-                </tr>
-                <tr>
-                  <td>7/1/76 - 6/30/77</td>
-                  <td>5%</td>
-                </tr>
-                <tr>
-                  <td>7/1/75 - 6/30/76</td>
-                  <td>6%</td>
-                </tr>
-                <tr>
-                  <td>7/1/74 - 6/30/75</td>
-                  <td>7%</td>
-                </tr>
-                <tr>
-                  <td>7/1/73 - 6/30/74</td>
-                  <td>8%</td>
-                </tr>
-                <tr>
-                  <td>7/1/72 - 6/30/73</td>
-                  <td>9%</td>
-                </tr>
-                <tr>
-                  <td>7/1/71 - 6/30/72</td>
-                  <td>10%</td>
-                </tr>
-                <tr>
-                  <td>7/1/70 - 6/30/71</td>
-                  <td>11%</td>
-                </tr>
-                <tr>
-                  <td>7/1/69 - 6/30/70</td>
-                  <td>12%</td>
-                </tr>
-                <tr>
-                  <td>7/1/68 - 6/30/69</td>
-                  <td>13%</td>
-                </tr>
-                <tr>
-                  <td>7/1/67 - 6/30/68</td>
-                  <td>14%</td>
-                </tr>
-                <tr>
-                  <td>7/1/66 - 6/30/67</td>
-                  <td>15%</td>
-                </tr>
-                <tr>
-                  <td>7/1/65 - 6/30/66</td>
-                  <td>16%</td>
-                </tr>
-                <tr>
-                  <td>7/1/64 - 6/30/65</td>
-                  <td>17%</td>
-                </tr>
-                <tr>
-                  <td>7/1/63 - 6/30/64</td>
-                  <td>18%</td>
-                </tr>
-                <tr>
-                  <td>7/1/62 - 6/30/63</td>
-                  <td>19%</td>
-                </tr>
-                <tr>
-                  <td>before 7/1/62</td>
-                  <td>20%</td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-          <text>After the above objectives have been met, the allocation of new excess investment earnings shall be made without reference to the number of years any member or beneficiary has been receiving benefits.  The allocation to eligible persons shall then be made by the actuary on an equal percentage basis.</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>For each June 30 after June 30, 1983, the determination of the amount of excess investment earnings and allocation of such earnings to eligible persons shall be calculated using the appropriate method outlined in paragraph  (ii) or (iii) above with the amount of distribution and the allocation of such amount being calculated as of the end of the fiscal year, with any increase to commence effective as of the following January 1.</text>
-          <text>The benefit increase payable pursuant to this section shall be payable in the same form as the basic benefit being received by the eligible person.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <heading>Amount of investment income to be used to increase benefits.</heading>
-        <text>Notwithstanding§ 36 as it applies to excess earnings, the amount of excess investment earnings available as of each June 30 for an increase in benefits will be equal to the product of items (i), (ii), and (iii) of this subsection.  Each item, except for item (ii), is determined as of each June 30 beginning with June 30, 1983, and any benefit increase becomes effective as of the following January 1.  Item (ii) is determined as of the June 30 that is 18 months prior to the effective date of the benefit increase, beginning with June 30, 1982.</text>
-        <para>
-          <num>(i)</num>
-          <text>The dollar amount of net excess investment earnings determined on the following basis:</text>
-          <text>Before the Reserve for Book Value is paid off, net excess investment earnings shall be that portion of total fund earnings between 8% and 10½% of average market value, plus ½ of the fund earnings in excess of 10½%.</text>
-          <text>After the Reserve for Book Value is paid off, net excess investment earnings shall be that portion of total fund earnings between 7½% and 10% of average market value, plus ½ of fund earnings in excess of 10%.</text>
-          <text>For purposes of the above calculations, earnings shall be net of investment expenses and include realized and unrealized gains and losses and all other sources of investment gains and losses as shown in the actuary's report.  The investment return used in this section shall be based on the annual return as of each June 30, commencing with the year ending June 30, 1983.  The average market value for the year shall equal ½ of the market value of the 4 funds as of the beginning of the year plus ½ of the market value of the funds as of the end of the year minus ½ of the earnings during the year.  The earnings and market value of the funds for the purpose of this section are assumed to be equal to the values contained in the actuary's report.  Any later audit changes shall be ignored.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>The ratio of the sum of the Annuity Reserve Fund plus the Pension Reserve Fund to the sum of all 4 funds:  Annuity Savings Fund, Annuity Reserve Fund, Pension Accumulation Fund, and the Pension Reserve Fund.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>¾ on June 30, 1983, for the initial increase (if any) and ¾ for each subsequent year until a Contingency Reserve Fund has been accumulated according to the following method.  The remaining ¼ of excess investment earnings as of June 30, 1983, and each succeeding June 30 shall be set aside as a Contingency Reserve Fund until the value of that fund is at least equal to 2½% of the Annuity Reserve Fund and the Pension Reserve Fund as of the end of the most recent June 30.  For each year in which the Contingency Reserve Fund is more than 2½% of the Annuity Reserve Fund and the Pension Reserve Fund, the ¾ fraction does not apply and the amount available to increase benefits is the product of items (i) and (ii).</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <heading>Paid-Up Benefit Fund and Contingency Reserve Fund.</heading>
-        <para>
-          <num>(i)</num>
-          <text>The existence of a Paid-Up Benefit Fund and a Contingency Reserve Fund is specifically authorized, § 36 to the contrary notwithstanding.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <para>
-            <num>(A)</num>
-            <text>The Paid-Up Benefit Fund is the primary fund from which all benefit increases provided under this section shall be paid.  The Paid-Up Benefit Fund shall be funded with excess investment earnings consistent with subsection (c) of this section.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>For any year in which the investment return of the Paid-Up Benefit Fund exceeds the interest assumption on which the purchase of paid-up benefits is based, that excess shall remain in the fund.</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>For any year in which the Paid-Up Benefit Fund experiences higher mortality rates than expected, the excess assets shall remain in the fund.</text>
-          </para>
-          <para>
-            <num>(D)</num>
-            <text>On determination of the amount of the excess assets in this Fund by the system's actuary, the Board of Trustees may allocate all or part of the excess assets to provide additional benefit increases to those retirees and beneficiaries eligible for increases under <cite path="|22|§36A|(a)|(1)">§ 36A(a)(1) of this subtitle</cite>.</text>
-          </para>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <para>
-            <num>(A)</num>
-            <text>The Contingency Reserve Fund is a reserve to insure payment of previously accrued benefit increases for any year in which the Paid-Up Benefit Fund has a deficit or does not meet its investment return assumption.  If there is a deficit in the Paid-Up Benefit Fund, the Board of Trustees shall transfer assets from the Contingency Reserve Fund to the Paid-Up Benefit Fund to offset that deficit.  The Contingency Reserve Fund shall be funded with excess investment earnings consistent with subsection (c) of this section.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>For any year in which the value of the Contingency Reserve Fund is equal to or exceeds 2½% of the Annuity Reserve Fund and the Pension Reserve Fund, the Board of Trustees shall apply earnings on the Contingency Reserve Fund, in the amount or amounts it determines:</text>
-            <para>
-              <num>(1)</num>
-              <text>to decrease the amount contributed by the City of Baltimore; or</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>to decrease the period over which the unfunded accrued liability will be amortized.</text>
-            </para>
-          </para>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>The Board shall periodically determine investment policies for the Paid-Up Benefit Fund and the Contingency Reserve Fund.  These policies must be consistent with the limitations set forth in this section.</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <para>
-            <num>(A)</num>
-            <text>The Board shall segregate or invest separately the assets of the Paid-Up Benefit Fund and the Contingency Reserve Fund in accordance with the standards set forth in <cite path="|22|§35|(h)">§ 35(h) of this subtitle</cite>.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>The Board is specifically empowered to invest and reinvest the assets of the Paid-Up Benefit Fund and the Contingency Reserve Fund in the medium of paid-up annuity contracts or guaranteed investment contracts purchased from one or more insurance companies, as long as each insurance company has no less than the highest rating from A.M. Best Company or a comparable company.</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>If, in the purchase of an annuity contract, the single premium paid-up annuity cost offered by the insurance company results in a cost savings to this System, the Board of Trustees shall apply the amount of that cost savings, in the amount or amounts it determines:</text>
-            <para>
-              <num>(1)</num>
-              <text>to decrease the amount contributed by the City; or</text>
-            </para>
-            <para>
-              <num>(2)</num>
-              <text>to decrease the period over which the unfunded accrued liability will be amortized.</text>
-            </para>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(e)</num>
-        <heading>Benefit increases to be paid only from Paid-Up Benefit Fund and Contingency Reserve Fund.</heading>
-        <para>
-          <num>(i)</num>
-          <text>Any benefit increase provided under this section shall be funded on a single-premium paid-up annuity basis.  For this purpose, "single-premium paid-up annuity basis" has the common actuarial meaning of spreading the amount available to provide a benefit over the lifetime of an individual in the form of an annuity.  It is intended that any benefit increase continue for the lifetime of the eligible member and any beneficiary, consistent with any option elected under § 34.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>The granting of any benefit increase under this section is contingent on the performance of the Retirement System's investment funds.  The continuation of any benefit increase previously accrued under this section is specifically made contingent on the ability of the Paid-Up Benefit Fund and the Contingency Reserve Fund to provide these benefits in the future.  §§ 37 and 42 to the contrary notwithstanding, any benefit increase provided under this section is not and does not become an obligation of the City of Baltimore.  In the event of any conflict between this section and either or both § 37 or § 42, this section prevails.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>If the members' longevity or the performance of this System's investment funds causes a decline in the value of the Paid-Up Benefit Fund and the Contingency Reserve Fund, with the result that the actuarial value of benefit increases previously accrued under this section exceeds the value of the Paid-Up Benefit Fund and the Contingency Reserve Fund, the Board of Trustees shall reduce or eliminate previously accrued increases on an equal percentage basis, effective as of January 1 following the June 30 on which a deficit exists.  An equal percentage reduction shall be made to all benefits granted under this section, regardless of when those increases were granted.  If the Paid-Up Benefit Fund and the Contingency Reserve Fund become exhausted or decline in value to the point of having no value, previously accrued increases shall be eliminated in full.  Any excess investment earnings available under subsection (c) of this section in a subsequent year shall be used to provide an increase in benefits without restoration of any prior reduction or elimination of benefit increases previously accrued.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <heading>Paid-Up Benefit Fund to provide increase in widow's and children's benefit.</heading>
-        <text>Notwithstanding the provisions of subsections (d) and (e) above,  $17.2-million from the Paid-Up Benefit Fund shall be transferred to the Pension Reserve Fund effective June 30, 1993.  The purpose of the transfer is to partially fund the benefit improvements made by this Ordinance 93-262  The total $17.2-million transfer shall reduce the system's unfunded liability and shall be amortized with interest as a credit to reduce the City's contribution by $4.5-million for 4 years (beginning in fiscal year 1995) and at a reduced level dollar credit in the 5<sup>th</sup>  year.</text>
-        <text>The provisions of subsections (d) and (e) above shall remain in effect even after the changes described here in subsection (f).</text>
-      </para>
-      <para>
-        <num>(g)</num>
-        <heading>Increase for certain retirees and beneficiaries as of June 30, 2000.</heading>
-        <para>
-          <num>(i)</num>
-          <text>Retired members and beneficiaries of retired members who retired on or before June 30, 2000, and any surviving beneficiary of a member who began receiving periodically paid benefits from this System on or before June 30, 2000, will receive a 1% increase in their periodic benefits.</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>This increase is effective June 30, 2000, and payable beginning with the first full pay period that follows.</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>This increase shall be paid from the Pension Reserve Fund and may not be paid from the Paid-Up Benefit Fund or the Contingency Reserve Fund.</text>
-        </para>
-      </para>
-      <para>
-        <num>(h)</num>
         <heading>Amount of benefit increase payable for fiscal years beginning on or after July 1, 2009.</heading>
         <para>
           <num>(1)</num>
@@ -15604,7 +15370,7 @@
         </para>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(c)</num>
         <heading>Transfer of assets and liabilities.</heading>
         <para>
           <num>(1)</num>
@@ -15620,9 +15386,9 @@
         </para>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(d)</num>
         <heading>Guarantee of post-retirement increases.</heading>
-        <text>Effective June 30, 2010, all post-retirement benefit increases payable under this § 36A become the obligation of the City of Baltimore and are guaranteed under the provisions of <cite path="|22|§37">§ 37 of this subtitle</cite>.</text>
+        <text>Effective June 30, 2010, all post-retirement benefit increases payable under this § 36A become the obligation of the City of Baltimore and are guaranteed under the provisions of § 37 of this subtitle.</text>
       </para>
       <annotations>
         <annotation type="Prior Codifications">City Code, 1976/83, art. 22, §36A</annotation>
@@ -15634,6 +15400,7 @@
         <annotation doc="City of Balt., Md., Ord. 03-576" type="History">Ord. 03-576</annotation>
         <annotation doc="City of Balt., Md., Ord. 10-306" type="History">Ord. 10-306</annotation>
         <annotation doc="City of Balt., Md., Ord. 11-520" type="History">Ord. 11-520</annotation>
+        <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-379" eff="2024-11-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -16077,14 +15844,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <para>
-            <num>(i)</num>
-            <text>Except as provided in subparagraph (ii) of this paragraph, "interest" means the regular interest rate for the Annuity Savings Reserve as defined in <cite path="|22|§30|(9)">§ 30(9) of this subtitle</cite>.</text>
-          </para>
-          <para>
-            <num>(ii)</num>
-            <text>For a member of this System who, as of June 30, 2010, has acquired 15 or more years of service, interest means 5½% per annum compounded daily.</text>
-          </para>
+          <text>"Interest" means 5 1/2% per annum compounded daily.</text>
         </para>
         <para>
           <num>(8)</num>
@@ -16118,33 +15878,27 @@
       <para>
         <num>(c)</num>
         <heading>Eligibility and application.</heading>
+        <text>(1-a) Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or before June 30, 2010, are as follows:</text>
         <para>
-          <num>(1a)</num>
-          <text>Notwithstanding <cite path="|22|§30|(6)">§ 30(6) of this subtitle</cite>, the service credit requirements for DROP 2 eligibility on or before June 30, 2010, are as follows:</text>
-          <para>
-            <num>(A)</num>
-            <text>To be eligible, a member of this System as of July 1, 2003, must acquire 20 or more years of service.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>To be eligible, an employee who becomes a member of this System after July 1, 2003 and on or before December 31, 2009, must acquire 20 or more years of service, 10 or more of which must be years of service as a contributing member of this System.</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>To be eligible, an employee who becomes a member of this System on or after January 1, 2010, must acquire 20 or more years of service as a contributing member of this System.</text>
-          </para>
+          <num>(A)</num>
+          <text>To be eligible, a member of this System as of July 1, 2003, must acquire 20 or more years of service.</text>
         </para>
         <para>
-          <num>(1b)</num>
-          <text>Notwithstanding <cite path="|22|§30|(6)">§ 30(6) of this subtitle</cite>, the service credit requirements for DROP 2 eligibility on or after July 1, 2010, are as follows:</text>
-          <para>
-            <num>(A)</num>
-            <text>To be eligible, a member of this System who as of June 30, 2010, has acquired 15 or more years of service must acquire 20 or more years of service.</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>To be eligible, a member of this System who as of June 30, 2010, has not acquired 15 or more years of service must acquire 25 or more years of service as a contributing member of this System.</text>
-          </para>
+          <num>(B)</num>
+          <text>To be eligible, an employee who becomes a member of this System after July 1, 2003 and on or before December 31, 2009, must acquire 20 or more years of service, 10 or more of which must be years of service as a contributing member of this System.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>To be eligible, an employee who becomes a member of this System on or after January 1, 2010, must acquire 20 or more years of service as a contributing member of this System.</text>
+        </para>
+        <text>(1-b) Notwithstanding § 30(6) of this subtitle, the service credit requirements for DROP 2 eligibility on or after July 1, 2010, are as follows:</text>
+        <para>
+          <num>(A)</num>
+          <text>To be eligible, a member of this System who as of June 30, 2010, has acquired 15 or more years of service must acquire 20 or more years of service.</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>To be eligible, a member of this System who as of June 30, 2010, has not acquired 15 or more years of service must acquire 25 or more years of service as a contributing member of this System.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -16176,15 +15930,15 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>Any member who retires or terminates employment before the 1<sup>st</sup> anniversary of the member's DROP 2 start date is not entitled to any benefits under this § 36C and is only entitled to benefits under <cite path="|22|§34">§ 34 of this subtitle</cite>, calculated as if the member did not participate in DROP 2.</text>
+          <text>Any member who retires or terminates employment before the 1<sup>st</sup> anniversary of the member's DROP 2 start date is not entitled to any benefits under this § 36C and is only entitled to benefits under § 34 of this subtitle, calculated as if the member did not participate in DROP 2.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>The beneficiary of any member who dies before the 1<sup>st</sup> anniversary of the member's DROP 2 start date is not entitled to benefits under this § 36C and is only entitled to benefits under <cite path="|22|§34">§ 34 of this subtitle</cite>, calculated as if the member did not participate in DROP 2.</text>
+          <text>The beneficiary of any member who dies before the 1<sup>st</sup> anniversary of the member's DROP 2 start date is not entitled to benefits under this § 36C and is only entitled to benefits under § 34 of this subtitle, calculated as if the member did not participate in DROP 2.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Unless stated within this § 36C, the application requirements of <cite path="|22|§34">§ 34 of this subtitle</cite> apply to the applicable service retirement, disability retirement, and death benefits provided by this section.</text>
+          <text>Unless stated within this § 36C, the application requirements of § 34 of this subtitle apply to the applicable service retirement, disability retirement, and death benefits provided by this section.</text>
         </para>
         <para>
           <num>(9)</num>
@@ -16200,7 +15954,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of <cite path="|22">this article</cite> concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
+          <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of <cite path="|22" doc="City of Balt., Md., Ord. 24-379">this article</cite> concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
         </para>
       </para>
       <para>
@@ -16224,7 +15978,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>Notwithstanding paragraph (4) of this subsection, a DROP 2 participant may continue making voluntary contributions for the purchase of additional service credits as provided by <cite path="|22|§32">§ 32 of this subtitle</cite> and subsection (f)(6) of this section.</text>
+          <text>Notwithstanding paragraph (4) of this subsection, a DROP 2 participant may continue making voluntary contributions for the purchase of additional service credits as provided by § 32 of this subtitle and subsection (f)(6) of this section.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -16252,7 +16006,7 @@
         <heading>Member contributions by DROP 2 participants.</heading>
         <para>
           <num>(1)</num>
-          <text>A member who becomes a DROP 2 participant must continue to make the regular mandatory member contributions required by <cite path="|22|§36|(h)">§ 36(h) of this subtitle</cite> for members earning service credit.</text>
+          <text>A member who becomes a DROP 2 participant must continue to make the regular mandatory member contributions required by § 36(h) of this subtitle for members earning service credit.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -16263,7 +16017,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>are not considered "accumulated contributions", as defined in <cite path="|22|§30|(10)">§ 30(10) of this subtitle</cite>.</text>
+            <text>are not considered "accumulated contributions", as defined in § 30(10) of this subtitle.</text>
           </para>
         </para>
         <para>
@@ -16272,7 +16026,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Contributions that, under <cite path="|22|§36|(h)">§ 36(h) of this subtitle</cite>, are required of any member entitled to protection of retirement benefits and credits on account of military service under <cite path="|22|§32|(e)">§ 32(e) of this subtitle</cite>, shall be paid on behalf of the member by the System into the member's DROP 2 account should the member be absent from employment on account of military service during the member's DROP 2 participation period.</text>
+          <text>Contributions that, under § 36(h) of this subtitle, are required of any member entitled to protection of retirement benefits and credits on account of military service under § 32(e) of this subtitle, shall be paid on behalf of the member by the System into the member's DROP 2 account should the member be absent from employment on account of military service during the member's DROP 2 participation period.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -16280,7 +16034,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>During a member's DROP 2 participation period, the member may continue to make voluntary contributions for the purchase or the transfer-in of service credits under <cite path="|22|§32">§ 32 of this subtitle</cite>.  Voluntary contributions may not be credited to the member's DROP 2 account.</text>
+          <text>During a member's DROP 2 participation period, the member may continue to make voluntary contributions for the purchase or the transfer-in of service credits under § 32 of this subtitle.  Voluntary contributions may not be credited to the member's DROP 2 account.</text>
         </para>
         <para>
           <num>(7)</num>
@@ -16311,26 +16065,26 @@
           <para>
             <num>(A)</num>
             <text>The benefits credited to the DROP 2 account are as follows:</text>
-            <para>
-              <num>(i)</num>
-              <text>for each full 12-month period ending June 30 during a member's DROP 2 participation period, an amount equal to the annual service retirement allowance that the member would have received under <cite path="|22|§34|(b)|(4)" proof="needed">§ 34(b)(4) of this subtitle</cite> had the member retired from service and began receiving the maximum service retirement allowance under the provisions of this section and this subtitle on the member's DROP 2 start date, plus interest; plus</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>for each full month of a member's DROP 2 participation period that does not fall within item (i) of this paragraph (3)(A), an amount equal to one-twelfth of the member's annual benefit calculated in accordance with item (i), plus interest; plus</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>for each day of a month not falling within item (i) or (ii) of this paragraph (3)(A), an amount equal to one three hundred sixty-fifths of the member's annual benefit calculated in accordance with item (i), plus interest.</text>
-            </para>
+          </para>
+          <para>
+            <num>(i)</num>
+            <text>for each full 12-month period ending June 30 during a member's DROP 2 participation period, an amount equal to the annual service retirement allowance that the member would have received under § 34(b)(4) of this subtitle had the member retired from service and began receiving the maximum service retirement allowance under the provisions of this section and this subtitle on the member's DROP 2 start date, plus interest; plus</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>for each full month of a member's DROP 2 participation period that does not fall within item (i) of this paragraph (3)(A), an amount equal to one-twelfth of the member's annual benefit calculated in accordance with item (i), plus interest; plus</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>for each day of a month not falling within item (i) or (ii) of this paragraph (3)(A), an amount equal to one three hundred sixty-fifths of the member's annual benefit calculated in accordance with item (i), plus interest.</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Notwithstanding paragraph (3)(A)(i) of this section or <cite path="|22|§32|(f)">§ 32(f) of this subtitle</cite>, if a member fails to properly apply for credit for pre-employment military service and to supply to this System the proper and complete documentation for the member's pre-employment military service prior to the member's DROP 2 participation start date, that credit may not be included in the calculation of the member's "service retirement allowance", as used in this subsection (g), to calculate the member's DROP 2 benefits for credit to the member's DROP 2 account.</text>
+            <text>Notwithstanding paragraph (3)(A)(i) of this section or § 32(f) of this subtitle, if a member fails to properly apply for credit for pre-employment military service and to supply to this System the proper and complete documentation for the member's pre-employment military service prior to the member's DROP 2 participation start date, that credit may not be included in the calculation of the member's "service retirement allowance", as used in this subsection (g), to calculate the member's DROP 2 benefits for credit to the member's DROP 2 account.</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Notwithstanding paragraph (3)(B) of this section, a member who, subsequent to the member's DROP 2 start date, properly applies for credit and provides this System the proper and complete documentation for pre-employment military service will have credit for his or her pre-employment military service, as provided in <cite path="|22|§32|(f)">§ 32(f) of this subtitle</cite>, included in the calculation of the member's retirement pension under subsections (h), (i), and (j) of this section.</text>
+            <text>Notwithstanding paragraph (3)(B) of this section, a member who, subsequent to the member's DROP 2 start date, properly applies for credit and provides this System the proper and complete documentation for pre-employment military service will have credit for his or her pre-employment military service, as provided in § 32(f) of this subtitle, included in the calculation of the member's retirement pension under subsections (h), (i), and (j) of this section.</text>
           </para>
         </para>
         <para>
@@ -16400,7 +16154,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>any contributions made on behalf of a member who served in the military service during employment as those contributions would be credited to the member's accumulated contributions according to <cite path="|22|§32|(e)">§ 32(e) of this subtitle</cite>, plus interest; and</text>
+              <text>any contributions made on behalf of a member who served in the military service during employment as those contributions would be credited to the member's accumulated contributions according to § 32(e) of this subtitle, plus interest; and</text>
             </para>
           </para>
           <para>
@@ -16408,11 +16162,11 @@
             <text>a pension that, together with the member's annuity, equals:</text>
             <para>
               <num>(i)</num>
-              <text>2.5% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of the first 20 years of service; plus</text>
+              <text>2.5% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with § 30(11) of this subtitle, for each year of the first 20 years of service; plus</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of service over 20 years, prorated for partial years, up to but not including the member's DROP 2 start date.</text>
+              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, up to but not including the member's DROP 2 start date.</text>
             </para>
           </para>
         </para>
@@ -16424,7 +16178,7 @@
         <para>
           <num>(5)</num>
           <heading>Optional survivorship elections.</heading>
-          <text>The benefits payable under this subsection (h) are subject to the member's election of optional forms of payment under <cite path="|22|§34|(k)">§ 34(k) of this subtitle</cite>.</text>
+          <text>The benefits payable under this subsection (h) are subject to the member's election of optional forms of payment under § 34(k) of this subtitle.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -16502,7 +16256,7 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>any voluntary contributions made to purchase additional service credits under <cite path="|22|§32">§ 32 of this subtitle</cite> before, during, or after the member's DROP 2 participation period, plus interest; plus</text>
+              <text>any voluntary contributions made to purchase additional service credits under § 32 of this subtitle before, during, or after the member's DROP 2 participation period, plus interest; plus</text>
             </para>
             <para>
               <num>(iv)</num>
@@ -16518,45 +16272,43 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of service over 20 years, prorated for partial years, up to but not including the member's DROP 2 start date; plus</text>
+              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, up to but not including the member's DROP 2 start date; plus</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of service, prorated for partial years, not already included in the calculation of the member's retirement allowance under items (i) and (ii) of this paragraph (3)(b), for service purchased or granted under § 32 during or after the member's DROP 2 participation period; plus</text>
+              <text>2.0% of the member's average final compensation, calculated as of the day before the member's DROP 2 start date in accordance with § 30(11) of this subtitle, for each year of service, prorated for partial years, not already included in the calculation of the member's retirement allowance under items (i) and (ii) of this paragraph (3)(b), for service purchased or granted under § 32 during or after the member's DROP 2 participation period; plus</text>
             </para>
             <para>
               <num>(iv)</num>
-              <heading>Police Department member.</heading>
               <para>
                 <num>1.</num>
-                <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each full year of service credit, prorated for partial years, up to 3½ years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; or</text>
+                <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with § 30(11) of this subtitle, for each full year of service credit, prorated for partial years, up to 3½ years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; or</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <para>
+                <num>a.</num>
+                <text>for a Fire Department member:</text>
               </para>
               <para>
-                <num>2.</num>
-                <heading>Fire Department member.</heading>
+                <num>(1)</num>
+                <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with § 30(11) of this subtitle, for each full year of service credit, prorated for partial years, up to 5 years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; plus</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>The total of the Recovery rate will be limited to:</text>
                 <para>
-                  <num>a.</num>
-                  <text>for a Fire Department member:</text>
-                  <para>
-                    <num>(1)</num>
-                    <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from City employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each full year of service credit, prorated for partial years, up to 5 years, earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period; plus</text>
-                  </para>
-                  <para>
-                    <num>(2)</num>
-                    <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
-                  </para>
+                  <num>(1)</num>
+                  <text>2.0%, if the member elected to discontinue participation in DROP 2 after 1 year of DROP 2 participation in accordance with subsection (e) of this section; or</text>
                 </para>
                 <para>
-                  <num>b.</num>
-                  <text>The total of the Recovery rate will be limited to:</text>
-                  <para>
-                    <num>(1)</num>
-                    <text>2.0%, if the member elected to discontinue participation in DROP 2 after 1 year of DROP 2 participation in accordance with subsection (e) of this section; or</text>
-                  </para>
-                  <para>
-                    <num>(2)</num>
-                    <text>4.0%, if the member elected to discontinue participation in DROP 2 after 2 years of DROP 2 participation in accordance with subsection (e) of this section.</text>
-                  </para>
+                  <num>(2)</num>
+                  <text>4.0%, if the member elected to discontinue participation in DROP 2 after 2 years of DROP 2 participation in accordance with subsection (e) of this section.</text>
                 </para>
               </para>
             </para>
@@ -16570,7 +16322,7 @@
         <para>
           <num>(5)</num>
           <heading>Optional survivorship elections.</heading>
-          <text>The benefits payable under this subsection (i) are subject to the member's election of optional forms of payment under <cite path="|22|§34|(k)">§ 34(k) of this subtitle</cite>.</text>
+          <text>The benefits payable under this subsection (i) are subject to the member's election of optional forms of payment under § 34(k) of this subtitle.</text>
         </para>
       </para>
       <para>
@@ -16635,11 +16387,11 @@
             </para>
             <para>
               <num>(iii)</num>
-              <text>any voluntary contributions made to purchase additional service credits under <cite path="|22|§32">§ 32 of this subtitle</cite> before, during, or after the member's DROP 2 participation period, plus interest; plus</text>
+              <text>any voluntary contributions made to purchase additional service credits under § 32 of this subtitle before, during, or after the member's DROP 2 participation period, plus interest; plus</text>
             </para>
             <para>
               <num>(iv)</num>
-              <text>any contributions made on behalf of a member who served in the military service during employment, as those contributions would be credited to the member's accumulated contributions according to <cite path="|22|§32|(e)">§ 32(e) of this subtitle</cite>, plus interest; and</text>
+              <text>any contributions made on behalf of a member who served in the military service during employment, as those contributions would be credited to the member's accumulated contributions according to § 32(e) of this subtitle, plus interest; and</text>
             </para>
           </para>
           <para>
@@ -16647,41 +16399,39 @@
             <text>a pension that, together with the member's annuity, equals:</text>
             <para>
               <num>(i)</num>
-              <text>2.5% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of the first 20 years of service; plus</text>
+              <text>2.5% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of the first 20 years of service; plus</text>
             </para>
             <para>
               <num>(ii)</num>
-              <heading>Police Department member.</heading>
               <para>
                 <num>1.</num>
-                <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; or</text>
+                <text>for a Police Department member, 2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; or</text>
+              </para>
+            </para>
+            <para>
+              <num>2.</num>
+              <para>
+                <num>a.</num>
+                <text>for a Fire Department member:</text>
               </para>
               <para>
-                <num>2.</num>
-                <heading>Fire Department member.</heading>
+                <num>(1)</num>
+                <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; plus</text>
+              </para>
+              <para>
+                <num>(2)</num>
+                <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with § 30(11) of this subtitle, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
+              </para>
+              <para>
+                <num>b.</num>
+                <text>The total of the Recovery rate will be limited to:</text>
                 <para>
-                  <num>a.</num>
-                  <text>for a Fire Department member:</text>
-                  <para>
-                    <num>(1)</num>
-                    <text>2.0% of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each year of service over 20 years, prorated for partial years, but excluding from this calculation the member's employment covered by this System during the member's DROP 2 participation period; plus</text>
-                  </para>
-                  <para>
-                    <num>(2)</num>
-                    <text>a Recovery rate, subject to the limitations of subparagraph b, of 6.0% (1.5% for each of 4 years) of the member's average final compensation, calculated as of the member's date of termination from employment covered by this System in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>, for each of the 4 years of service credit earned by the member through continuous employment as a contributing member of this System immediately following the end of the member's DROP 2 participation period.</text>
-                  </para>
+                  <num>(1)</num>
+                  <text>2.0%, if the member elected to discontinue participation in DROP 2 after 1 year of DROP 2 participation in accordance with subsection (e) of this section; or</text>
                 </para>
                 <para>
-                  <num>b.</num>
-                  <text>The total of the Recovery rate will be limited to:</text>
-                  <para>
-                    <num>(1)</num>
-                    <text>2.0%, if the member elected to discontinue participation in DROP 2 after 1 year of DROP 2 participation in accordance with subsection (e) of this section; or</text>
-                  </para>
-                  <para>
-                    <num>(2)</num>
-                    <text>4.0%, if the member elected to discontinue participation in DROP 2 after 2 years of DROP 2 participation in accordance with subsection (e) of this section.</text>
-                  </para>
+                  <num>(2)</num>
+                  <text>4.0%, if the member elected to discontinue participation in DROP 2 after 2 years of DROP 2 participation in accordance with subsection (e) of this section.</text>
                 </para>
               </para>
             </para>
@@ -16695,24 +16445,24 @@
         <para>
           <num>(5)</num>
           <heading>Optional survivorship elections.</heading>
-          <text>The benefits payable under this subsection (j) are subject to the member's election of optional forms of payment under <cite path="|22|§34|(k)">§ 34(k) of this subtitle</cite>.</text>
+          <text>The benefits payable under this subsection (j) are subject to the member's election of optional forms of payment under § 34(k) of this subtitle.</text>
         </para>
       </para>
       <para>
         <num>(k)</num>
         <heading>DROP 2 non-line-of-duty disability benefit.</heading>
-        <text>Notwithstanding <cite path="|22|§34|(d)">§ 34(d) of this subtitle</cite>, any member who retires on a non-line-of-duty disability after becoming a DROP 2 participant and who meets the qualifications of subsection (h), (i), or (j), shall receive a DROP 2 retirement benefit pursuant to that subsection.</text>
+        <text>Notwithstanding § 34(d) of this subtitle, any member who retires on a non-line-of-duty disability after becoming a DROP 2 participant and who meets the qualifications of subsection (h), (i), or (j), shall receive a DROP 2 retirement benefit pursuant to that subsection.</text>
       </para>
       <para>
         <num>(l)</num>
         <heading>DROP 2 non-line-of-duty death benefits.</heading>
         <para>
           <num>(1)</num>
-          <text>The non-line-of-duty death benefit payable on the death of a member who dies either during or after the member's DROP 2 participation period shall be determined by the beneficiary eligibility and benefit provisions of <cite path="|22|§34|(h)">§ 34(h) of this subtitle</cite> and shall be subject to the following.</text>
+          <text>The non-line-of-duty death benefit payable on the death of a member who dies either during or after the member's DROP 2 participation period shall be determined by the beneficiary eligibility and benefit provisions of § 34(h) of this subtitle and shall be subject to the following.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>A beneficiary who elects to receive lump-sum non-line-of-duty death benefits under <cite path="|22|§34|(h)|(2)">§ 34(h)(2) of this subtitle</cite> shall receive the deceased member's DROP 2 account only if:</text>
+          <text>A beneficiary who elects to receive lump-sum non-line-of-duty death benefits under § 34(h)(2) of this subtitle shall receive the deceased member's DROP 2 account only if:</text>
           <para>
             <num>(A)</num>
             <text>the member participated in DROP 2 for a minimum of 1 year; and</text>
@@ -16738,7 +16488,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>be paid under the 100% survivorship option of <cite path="|22|§34|(k)">§ 34(k) of this subtitle</cite>; and</text>
+              <text>be paid under the 100% survivorship option of § 34(k) of this subtitle; and</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -16748,7 +16498,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>A beneficiary who elects to receive the 25% plus non-line-of-duty death benefits under <cite path="|22|§34|(h)|(4)">§ 34(h)(4) of this subtitle</cite> shall receive DROP 2 benefits as follows:</text>
+          <text>A beneficiary who elects to receive the 25% plus non-line-of-duty death benefits under § 34(h)(4) of this subtitle shall receive DROP 2 benefits as follows:</text>
           <para>
             <num>(A)</num>
             <text>If the member dies within the 1<sup>st</sup> year of the DROP 2 participation period, the beneficiary is only entitled to benefits under § 34(h)(4) and is not entitled to any benefits accumulated in the member's DROP 2 account.</text>
@@ -16762,7 +16512,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>be paid under the 25% plus non-line-of-duty death benefits under <cite path="|22|§34|(h)|(4)">§ 34(h)(4) of this subtitle</cite>; and</text>
+              <text>be paid under the 25% plus non-line-of-duty death benefits under § 34(h)(4) of this subtitle; and</text>
             </para>
             <para>
               <num>(iii)</num>
@@ -16796,13 +16546,13 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Beneficiaries applying for and receiving line-of-duty death benefits under <cite path="|22|§34|(i)">§ 34(i) of this subtitle</cite> are not entitled to DROP 2 benefits under this § 36C.</text>
+          <text>Beneficiaries applying for and receiving line-of-duty death benefits under § 34(i) of this subtitle are not entitled to DROP 2 benefits under this § 36C.</text>
         </para>
       </para>
       <para>
         <num>(n)</num>
         <heading>Conflicts in elections for death benefits.</heading>
-        <text>In the event of conflicting death benefit elections under <cite path="|22|§34">§ 34 of this subtitle</cite>, an election for line-of-duty death benefits made by an eligible spouse under § 34(i) overrides an election for non-line-of-duty death benefits made by a designated beneficiary.</text>
+        <text>In the event of conflicting death benefit elections under § 34 of this subtitle, an election for line-of-duty death benefits made by an eligible spouse under § 34(i) overrides an election for non-line-of-duty death benefits made by a designated beneficiary.</text>
       </para>
       <para>
         <num>(o)</num>
@@ -16819,7 +16569,7 @@
             <text>a lump sum, which can be:</text>
             <para>
               <num>(i)</num>
-              <text>transferred in total or in part to 1 or more financial institutions or pension plans in accordance with <cite path="|22|§34|(w)">§ 34(w) of this subtitle</cite>; or</text>
+              <text>transferred in total or in part to 1 or more financial institutions or pension plans in accordance with § 34(w) of this subtitle; or</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -16845,7 +16595,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Any benefit payment made directly to the member, the member's beneficiary, or an alternate payee (as defined in <cite path="|22|§38|(d)">§ 38(d) of this subtitle</cite>) shall be subject to Federal and Maryland state income tax withholding if applicable.</text>
+          <text>Any benefit payment made directly to the member, the member's beneficiary, or an alternate payee (as defined in § 38(d) of this subtitle) shall be subject to Federal and Maryland state income tax withholding if applicable.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -16854,15 +16604,10 @@
       </para>
       <para>
         <num>(p)</num>
-        <heading>DROP 2 benefit recipients and post-retirement increase eligibility.</heading>
-        <text>Eligibility for post-retirement increases payable under <cite path="|22|§36A">§ 36A of this subtitle</cite> shall be determined pursuant to § 36A(a)(1)(i).</text>
-      </para>
-      <para>
-        <num>(q)</num>
         <heading>Retirement benefits for reemployed DROP 2 retiree.</heading>
         <para>
           <num>(1)</num>
-          <text>Notwithstanding <cite path="|22|§31|(1)">§ 31(1) of this subtitle</cite>, if a member retires and receives a DROP 2 account distribution or DROP 2 annuity payments under this § 36C and is subsequently reemployed by the City of Baltimore in a position covered by this system, the member:</text>
+          <text>Notwithstanding § 31(1) of this subtitle, if a member retires and receives a DROP 2 account distribution or DROP 2 annuity payments under this § 36C and is subsequently reemployed by the City of Baltimore in a position covered by this system, the member:</text>
           <para>
             <num>(A)</num>
             <text>shall have his or her retirement benefit payments suspended as of the date of the member's reemployment; and</text>
@@ -16886,15 +16631,15 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For purposes of this subsection (q), if a member retires less than 18 months after reemployment, "average final compensation" shall include compensation earned immediately before the member's initial retirement date and shall be calculated in accordance with <cite path="|22|§30|(11)">§ 30(11) of this subtitle</cite>.</text>
+          <text>For purposes of this subsection (q), if a member retires less than 18 months after reemployment, "average final compensation" shall include compensation earned immediately before the member's initial retirement date and shall be calculated in accordance with § 30(11) of this subtitle.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>If a retired member receiving benefits under this § 36C is subsequently reemployed in a position covered by this System and dies during employment as the result of a line-of-duty injury, and if the member's beneficiary is awarded a line-of-duty death benefit by the hearing examiner, the beneficiary shall be paid the line-of-duty death benefit determined as of the member's date of death and payable in accordance with <cite path="|22|§34|(i)">§ 34(i) of this subtitle</cite>.</text>
+          <text>If a retired member receiving benefits under this § 36C is subsequently reemployed in a position covered by this System and dies during employment as the result of a line-of-duty injury, and if the member's beneficiary is awarded a line-of-duty death benefit by the hearing examiner, the beneficiary shall be paid the line-of-duty death benefit determined as of the member's date of death and payable in accordance with § 34(i) of this subtitle.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>If a retired member receiving benefits under this § 36C is subsequently reemployed in a position covered by this System and dies during employment as the result of a non-line-of-duty illness or injury, and if the member's beneficiary applies for benefits under <cite path="|22|§34|(h)">§ 34(h) of this subtitle</cite> as a result of the member's death, the beneficiary shall be paid the non-line-of-duty death benefit determined as of the member's date of death and payable in accordance with § 34(h), subject to the following qualifications:</text>
+          <text>If a retired member receiving benefits under this § 36C is subsequently reemployed in a position covered by this System and dies during employment as the result of a non-line-of-duty illness or injury, and if the member's beneficiary applies for benefits under § 34(h) of this subtitle as a result of the member's death, the beneficiary shall be paid the non-line-of-duty death benefit determined as of the member's date of death and payable in accordance with § 34(h), subject to the following qualifications:</text>
           <para>
             <num>(A)</num>
             <text>For lump-sum benefits payable under § 34(h)(2):</text>
@@ -16926,11 +16671,11 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>On the subsequent retirement of a member who has returned to employment under this subsection (q), the retiring member or beneficiary will again have to meet the post-retirement eligibility requirements of <cite path="|22|§36A">§ 36A of this subtitle</cite>.</text>
+          <text>On the subsequent retirement of a member who has returned to employment under this subsection (q), the retiring member or beneficiary will again have to meet the post-retirement eligibility requirements of § 36A of this subtitle.</text>
         </para>
       </para>
       <para>
-        <num>(r)</num>
+        <num>(q)</num>
         <heading>DROP 2 experience reports and savings tests.</heading>
         <para>
           <num>(1)</num>
@@ -17000,6 +16745,7 @@
         <annotation doc="City of Balt., Md., Ord. 10-306" type="History">Ord. 10-306</annotation>
         <annotation doc="City of Balt., Md., Ord. 10-357" type="History">Ord. 10-357</annotation>
         <annotation doc="City of Balt., Md., Ord. 11-520" type="History">Ord. 11-520</annotation>
+        <annotation app="2024-11-01" doc="City of Balt., Md., Ord. 24-379" eff="2024-11-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
