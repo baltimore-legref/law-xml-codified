@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:insert doc="City of Baltimore, Md., Code" path="1" before="55">
+    <codify:insert doc="City of Baltimore, Md., Code" path="1" before="55" codified:doc="City of Baltimore, Md., Code" codified:path="1|§54-1">
       <container>
         <prefix>Subtitle</prefix>
         <num>54</num>
@@ -226,7 +226,7 @@
         </section>
       </container>
     </codify:insert>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|53 to 54" warning="false">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|53 to 54" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|53">
       <container>
         <prefix>Subtitle</prefix>
         <num>53</num>
