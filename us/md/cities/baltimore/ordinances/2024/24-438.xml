@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="4|§2-4|(5)">
+    <codify:replace path="4|§2-4|(5)" codified:doc="City of Baltimore, Md., Code" codified:path="4|§2-4|(5)">
       <para>
         <num>(5)</num>
         <text>receive and investigate and seek to resolve all complaints of unlawful practices forbidden by <cite doc="City of Baltimore, Md., Code" path="|4">this article</cite>, but no complaints shall be received unless made to the Commission within 300 days of such alleged unlawful practice;</text>
