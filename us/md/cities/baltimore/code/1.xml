@@ -10777,10 +10777,10 @@
         <num>(e)</num>
         <heading>Provisions and penalties enumerated.</heading>
         <para>
-          <num>(.5)</num>
+          <num>(1)</num>
           <text>
             <strong>
-              <em><cite path="|2">Article 2</cite>.  Consumer Protections</em>
+              <em><cite path="|2" doc="City of Balt., Md., Ord. 24-403">Article 2</cite>.  Consumer Protections</em>
             </strong>
           </text>
           <text>
@@ -10799,10 +10799,10 @@
           </text>
         </para>
         <para>
-          <num>(.5a)</num>
+          <num>(2)</num>
           <text>
             <strong>
-              <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
+              <em><cite path="|5" doc="City of Balt., Md., Ord. 24-403">Article 5</cite>.  Finance, Property, and Procurement</em>
             </strong>
           </text>
           <text>
@@ -10821,10 +10821,10 @@
           </text>
         </para>
         <para>
-          <num>(.5b)</num>
+          <num>(3)</num>
           <text>
             <strong>
-              <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
+              <em><cite path="|7" doc="City of Balt., Md., Ord. 24-403">Article 7</cite>.  Natural Resources</em>
             </strong>
           </text>
           <text>
@@ -10859,10 +10859,10 @@
           </text>
         </para>
         <para>
-          <num>(1)</num>
+          <num>(4)</num>
           <text>
             <strong>
-              <em><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</em>
+              <em><cite path="|13" doc="City of Balt., Md., Ord. 24-403">Article 13</cite>.  Housing and Urban Renewal</em>
             </strong>
           </text>
           <text>
@@ -10892,6 +10892,10 @@
                   <td>$1,000</td>
                 </tr>
                 <tr>
+                  <td class="text-indent-1">§ 5-11.  Posting license; license number</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
                   <td class="text-indent-1">§ 5-15.  {Offenses there listed as cause for} Denial, suspension, or revocation of license</td>
                   <td>$750</td>
                 </tr>
@@ -10908,10 +10912,10 @@
           </text>
         </para>
         <para>
-          <num>(2)</num>
+          <num>(5)</num>
           <text>
             <strong>
-              <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
+              <em><cite path="|15" doc="City of Balt., Md., Ord. 24-403">Article 15</cite>.  Licensing and Regulation</em>
             </strong>
           </text>
           <text>
@@ -10978,10 +10982,10 @@
           </text>
         </para>
         <para>
-          <num>(3)</num>
+          <num>(6)</num>
           <text>
             <strong>
-              <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
+              <em><cite path="|19" doc="City of Balt., Md., Ord. 24-403">Article 19</cite>.  Police Ordinances</em>
             </strong>
           </text>
           <text>
@@ -11108,10 +11112,10 @@
           </text>
         </para>
         <para>
-          <num>(4)</num>
+          <num>(7)</num>
           <text>
             <strong>
-              <em><cite path="|23">Article 23</cite>.  Sanitation</em>
+              <em><cite path="|23" doc="City of Balt., Md., Ord. 24-403">Article 23</cite>.  Sanitation</em>
             </strong>
           </text>
           <text>
@@ -11158,10 +11162,10 @@
           </text>
         </para>
         <para>
-          <num>(4a)</num>
+          <num>(8)</num>
           <text>
             <strong>
-              <em><cite path="|24">Article 24</cite>.  Water</em>
+              <em><cite path="|24" doc="City of Balt., Md., Ord. 24-403">Article 24</cite>.  Water</em>
             </strong>
           </text>
           <text>
@@ -11236,10 +11240,10 @@
           </text>
         </para>
         <para>
-          <num>(4b)</num>
+          <num>(9)</num>
           <text>
             <strong>
-              <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
+              <em><cite path="|26" doc="City of Balt., Md., Ord. 24-403">Article 26</cite>.  Surveys, Streets, and Highways</em>
             </strong>
           </text>
           <text>
@@ -11258,10 +11262,10 @@
           </text>
         </para>
         <para>
-          <num>(5a)</num>
+          <num>(10)</num>
           <text>
             <strong>
-              <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
+              <em><cite path="|31" doc="City of Balt., Md., Ord. 24-403">Article 31</cite>.  Transit and Traffic</em>
             </strong>
           </text>
           <text>
@@ -11535,10 +11539,10 @@
           </text>
         </para>
         <para>
-          <num>(5b)</num>
+          <num>(11)</num>
           <text>
             <strong>
-              <em><cite path="|32">Article 32</cite>.  Zoning</em>
+              <em>Article 32.  Zoning</em>
             </strong>
           </text>
           <text>
@@ -11553,7 +11557,7 @@
           </text>
         </para>
         <para>
-          <num>(5c)</num>
+          <num>(12)</num>
           <text>
             <strong>
               <em>Building, Fire, and Related Codes Article – Building Code</em>
@@ -11627,10 +11631,10 @@
           </text>
         </para>
         <para>
-          <num>(6)</num>
+          <num>(13)</num>
           <text>
             <strong>
-              <em><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed">Fire Code</cite></em>
+              <em><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VIII" proof="needed" doc="City of Balt., Md., Ord. 24-403">Fire Code</cite></em>
             </strong>
           </text>
           <text>
@@ -11677,16 +11681,16 @@
           </text>
         </para>
         <para>
-          <num>(6a)</num>
+          <num>(14)</num>
           <text>
             <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
+              <em><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
               <em>
-                <cite path="|building-codes|VII">Property Maintenance Code</cite>
+                <cite path="|codes|VII" proof="needed" doc="City of Balt., Md., Ord. 24-403">Property Maintenance Code</cite>
               </em>
             </strong>
           </text>
@@ -11698,7 +11702,71 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
+                  <td class="text-indent-1">§ 304.4.  Structural members</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.5.  Foundation walls</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.7.  Roofs and drainage</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.10.  Stairways, floors, decks</td>
+                  <td>$300</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.12.  Handrails and guards</td>
+                  <td>$50</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.13.  Window, skylight, and door frames</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.15.  Doors</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.15.2.  Interior (Doors)</td>
+                  <td>$50</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.20.  Interior surfaces</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.23.  Exhaust vents</td>
+                  <td>$250</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.28.  Rat proofing</td>
+                  <td>$100</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.29.  Equipment</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 304.30.  Fire protection</td>
+                  <td>$500</td>
+                </tr>
+                <tr>
                   <td class="text-indent-1">§ 305.5.1.  Motor vehicles and trailers: Registered owner responsible</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 307.1.  General</td>
+                  <td>$50</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 307.3.  Walls, ceilings, and openings</td>
+                  <td>$150</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">§ 307.7.  Pest control</td>
                   <td>$150</td>
                 </tr>
                 <tr>
@@ -11718,16 +11786,16 @@
           </text>
         </para>
         <para>
-          <num>(6b)</num>
+          <num>(15)</num>
           <text>
             <strong>
-              <em><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</em>
+              <em><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> –</em>
             </strong>
           </text>
           <text>
             <strong>
               <em>
-                <cite path="|building-codes|X">International Residential Code</cite>
+                <cite path="|codes|X" proof="needed" doc="City of Balt., Md., Ord. 24-403">International Residential Code</cite>
               </em>
             </strong>
           </text>
@@ -11743,11 +11811,11 @@
           </text>
         </para>
         <para>
-          <num>(7)</num>
+          <num>(16)</num>
           <text>
             <strong>
               <em>
-                <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
+                <cite path="|health" doc="City of Balt., Md., Ord. 24-403">Health Code</cite>
               </em>
             </strong>
           </text>
@@ -12197,6 +12265,7 @@
         <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+        <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
@@ -12649,10 +12718,10 @@
       <num>41-14</num>
       <heading>Offenses to which subtitle applies – Listing.</heading>
       <para>
-        <num>(.25)</num>
+        <num>(1)</num>
         <text>
           <strong>
-            <em><cite path="|1">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</em>
+            <em><cite path="|1" doc="City of Balt., Md., Ord. 24-403">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</em>
           </strong>
         </text>
         <text>
@@ -12667,10 +12736,10 @@
         </text>
       </para>
       <para>
-        <num>(.5)</num>
+        <num>(2)</num>
         <text>
           <strong>
-            <em><cite path="|2">Article 2</cite>  Consumer Protections</em>
+            <em><cite path="|2" doc="City of Balt., Md., Ord. 24-403">Article 2</cite>  Consumer Protections</em>
           </strong>
         </text>
         <text>
@@ -12711,10 +12780,10 @@
         </text>
       </para>
       <para>
-        <num>(.5a)</num>
+        <num>(3)</num>
         <text>
           <strong>
-            <em><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</em>
+            <em><cite path="|5" doc="City of Balt., Md., Ord. 24-403">Article 5</cite>.  Finance, Property, and Procurement</em>
           </strong>
         </text>
         <text>
@@ -12729,10 +12798,10 @@
         </text>
       </para>
       <para>
-        <num>(.5b)</num>
+        <num>(4)</num>
         <text>
           <strong>
-            <em><cite path="|7">Article 7</cite>.  Natural Resources</em>
+            <em><cite path="|7" doc="City of Balt., Md., Ord. 24-403">Article 7</cite>.  Natural Resources</em>
           </strong>
         </text>
         <text>
@@ -12747,10 +12816,28 @@
         </text>
       </para>
       <para>
-        <num>(1)</num>
+        <num>(5)</num>
         <text>
           <strong>
-            <em><cite path="|15">Article 15</cite>.  Licensing and Regulation</em>
+            <em><cite path="|13" doc="City of Balt., Md., Ord. 24-403">Article 13</cite>.  Housing and Urban Renewal</em>
+          </strong>
+        </text>
+        <text>
+          <table>
+            <tbody>
+              <tr>
+                <td>§ 5-4.  License Required</td>
+                <td>$1000</td>
+              </tr>
+            </tbody>
+          </table>
+        </text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>
+          <strong>
+            <em><cite path="|15" doc="City of Balt., Md., Ord. 24-403">Article 15</cite>.  Licensing and Regulation</em>
           </strong>
         </text>
         <text>
@@ -12785,10 +12872,10 @@
         </text>
       </para>
       <para>
-        <num>(2)</num>
+        <num>(7)</num>
         <text>
           <strong>
-            <em><cite path="|19">Article 19</cite>.  Police Ordinances</em>
+            <em><cite path="|19" doc="City of Balt., Md., Ord. 24-403">Article 19</cite>.  Police Ordinances</em>
           </strong>
         </text>
         <text>
@@ -12993,10 +13080,10 @@
         </text>
       </para>
       <para>
-        <num>(3)</num>
+        <num>(8)</num>
         <text>
           <strong>
-            <em><cite path="|24">Article 24</cite>.  Water</em>
+            <em><cite path="|24" doc="City of Balt., Md., Ord. 24-403">Article 24</cite>.  Water</em>
           </strong>
         </text>
         <text>
@@ -13070,10 +13157,10 @@
         </text>
       </para>
       <para>
-        <num>(3a)</num>
+        <num>(9)</num>
         <text>
           <strong>
-            <em><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</em>
+            <em><cite path="|26" doc="City of Balt., Md., Ord. 24-403">Article 26</cite>.  Surveys, Streets, and Highways</em>
           </strong>
         </text>
         <text>
@@ -13088,10 +13175,10 @@
         </text>
       </para>
       <para>
-        <num>(4)</num>
+        <num>(10)</num>
         <text>
           <strong>
-            <em><cite path="|31">Article 31</cite>.  Transit and Traffic</em>
+            <em><cite path="|31" doc="City of Balt., Md., Ord. 24-403">Article 31</cite>.  Transit and Traffic</em>
           </strong>
         </text>
         <text>
@@ -13218,10 +13305,10 @@
         </text>
       </para>
       <para>
-        <num>(4a)</num>
+        <num>(11)</num>
         <text>
           <strong>
-            <em><cite path="|32">Article 32</cite>.  Zoning</em>
+            <em><cite path="|32" doc="City of Balt., Md., Ord. 24-403">Article 32</cite>.  Zoning</em>
           </strong>
         </text>
         <text>
@@ -13236,10 +13323,10 @@
         </text>
       </para>
       <para>
-        <num>(5)</num>
+        <num>(12)</num>
         <text>
           <strong>
-            <em><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed">Fire Code</cite></em>
+            <em><cite path="|codes">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VIII" proof="needed" doc="City of Balt., Md., Ord. 24-403">Fire Code</cite></em>
           </strong>
         </text>
         <text>
@@ -13278,10 +13365,10 @@
         </text>
       </para>
       <para>
-        <num>(5a)</num>
+        <num>(13)</num>
         <text>
           <strong>
-            <em><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></em>
+            <em><cite path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VII" proof="needed" doc="City of Balt., Md., Ord. 24-403">Property Maintenance Code</cite></em>
           </strong>
         </text>
         <text>
@@ -13304,11 +13391,11 @@
         </text>
       </para>
       <para>
-        <num>(6)</num>
+        <num>(14)</num>
         <text>
           <strong>
             <em>
-              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-403">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -13647,6 +13734,7 @@
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-335" eff="2024-05-24" path="§1" type="History"/>
         <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+        <annotation app="2026-01-01" doc="City of Balt., Md., Ord. 24-403" eff="2026-01-01" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
