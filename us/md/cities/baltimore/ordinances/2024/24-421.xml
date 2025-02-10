@@ -21,13 +21,13 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="1|§40-14|(e)|(7)">
+    <codify:replace path="1|§40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(7)">
       <para>
         <num>(7)</num>
         <text>
           <strong>
             <em>
-              <cite path="|health">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -375,13 +375,13 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§41-14|(6)">
+    <codify:replace path="1|§41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(6)">
       <para>
         <num>(6)</num>
         <text>
           <strong>
             <em>
-              <cite path="|health">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -657,7 +657,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="health|8|3" warning="false">
+    <codify:replace path="health|8|3" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-401">
       <container>
         <prefix>Subtitle</prefix>
         <num>4</num>
@@ -672,11 +672,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+              <text>an environmental citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+              <text>a civil citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
             </para>
           </para>
           <para>
@@ -715,7 +715,7 @@
         </section>
       </container>
     </codify:replace>
-    <codify:insert path="health|8" after="2">
+    <codify:insert path="health|8" after="2" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-301">
       <container>
         <prefix>Subtitle</prefix>
         <num>3</num>
