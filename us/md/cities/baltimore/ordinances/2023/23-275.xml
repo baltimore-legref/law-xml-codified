@@ -21,12 +21,12 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:remove doc="City of Baltimore, Md., Code" path="|13|II|6" warning="false"/>
+    <codify:remove doc="City of Baltimore, Md., Code" path="|13|II|6" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§4-1|annos"/>
   </section>
   <section>
     <prefix>Section</prefix>
     <num>2</num>
-    <codify:insert doc="City of Baltimore, Md., Code" path="|13|II" after="|13|II|5">
+    <codify:insert doc="City of Baltimore, Md., Code" path="|13|II" after="|13|II|5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§6-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>6</num>
