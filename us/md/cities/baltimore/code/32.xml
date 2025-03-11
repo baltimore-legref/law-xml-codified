@@ -19995,17 +19995,31 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Reductions – Affordable housing.</text>
-          <text>No more than 1 parking space need be provided for every 2 dwelling units in dwellings that are erected or rehabilitated subject to a restriction that the units be leased to residents with incomes at or below 60% of the Area Median Income, with that restriction being for a term of not less than 15 years from the date of the issuance of a use permit and recorded in the Land Records of Baltimore City.  The Housing Commissioner must verify, by letter to the Planning Director and the Zoning Administrator, the recordation, term, and tenor of the restriction.</text>
+          <text>
+            <em>Residential projects subject to inclusionary housing.</em>
+          </text>
+          <text>Off-street parking is not required for a residential project that is subject to the inclusionary requirements under <cite path="|13|§2B-21">§ 2B-21 {"Inclusionary Requirements"} of Article 13</cite> of this Code.</text>
         </para>
         <para>
           <num>(h)</num>
-          <text>Reductions – Small dwellings.</text>
-          <text>No more than 0.5 parking spaces need be provided for every dwelling unit that is 500 square feet or smaller.</text>
+          <text><em>Reductions - Affordable housing</em>.</text>
+          <para>
+            <num>(1)</num>
+            <text>No more than 1 parking space need be provided for every 2 dwelling units in dwellings that are erected or rehabilitated subject to a restriction that the units be leased to residents with incomes at or below 60% of the Area Median Income, with that restriction being for a term of not less than 15 years from the date of the issuance of a use permit and recorded in the Land Records of Baltimore City.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The Housing Commissioner must verify, by letter to the Planning Director and the Zoning Administrator, the recordation, term, and tenor of the restriction.</text>
+          </para>
         </para>
         <para>
           <num>(i)</num>
-          <text>Reductions – Housing for elderly.</text>
+          <text><em>Reductions - Small dwellings</em>.</text>
+          <text>No more than 0.5 parking spaces need be provided for every dwelling unit that is 500 square feet or smaller.</text>
+        </para>
+        <para>
+          <num>(j)</num>
+          <text><em>Reductions - Housing for elderly</em>.</text>
           <text>For units designed for occupancy by the elderly in a government-assisted private or public housing dwelling, no more than 1 space need be provided for every 4 units.</text>
         </para>
         <annotations>
@@ -20013,6 +20027,7 @@
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-332" eff="2024-05-24" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
