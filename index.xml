@@ -16,11 +16,11 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="6ea7428d304a6901603d75f3cede231a69c628f8"/>
+        <repository name="baltimore-legref/law-xml" commit="b1c608558270f1b001d44ad4005d061bbfd9024a"/>
       </repositories>
-      <platform version="2.15.14" reproducible="true"/>
-      <build-date>2025-03-11</build-date>
-      <codified-date>2025-01-01</codified-date>
+      <platform version="2.15.15" reproducible="true"/>
+      <build-date>2025-03-17</build-date>
+      <codified-date>2025-03-06</codified-date>
       <publication>publication/2025-03-11</publication>
     </build>
   </meta>
@@ -30,6 +30,7 @@
   <xi:include href="./us/md/cities/baltimore/council/sessions/2024/rules/index.xml"/>
   <collection name="us/md/cities/baltimore/ordinances">
     <heading>Ordinances</heading>
+    <xi:include href="./us/md/cities/baltimore/ordinances/2025/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2024/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2023/index.xml"/>
     <xi:include href="./us/md/cities/baltimore/ordinances/2022/index.xml"/>
