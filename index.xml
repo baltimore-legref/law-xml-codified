@@ -19,8 +19,8 @@
         <repository name="baltimore-legref/law-xml" commit="05235b7a1fac99e54ef10bd07ebbaea2f895fd37"/>
       </repositories>
       <platform version="2.15.18" reproducible="true"/>
-      <build-date>2025-04-13</build-date>
-      <codified-date>2024-12-15</codified-date>
+      <build-date>2025-04-14</build-date>
+      <codified-date>2025-01-01</codified-date>
       <publication>publication/2025-04-13</publication>
     </build>
   </meta>
