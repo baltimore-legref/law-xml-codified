@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-2|(a)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
       <para>
         <num>(a)</num>
         <text>
@@ -32,7 +32,7 @@
         <text>Provided, however, that the following property is included in the described area: 1801 Falls Road (Block 387, Lots 25b, 26, 35, 36, 37, and 38).</text>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-6|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-6|(e)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-6|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
       <para>
         <num>(e)</num>
         <text>
@@ -124,7 +124,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-8|(b)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
       <para>
         <num>(b)</num>
         <text>
@@ -144,7 +144,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-8|(c)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="14|7|7-8|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="14|§7-1|annos">
       <para>
         <num>(c)</num>
         <text>
