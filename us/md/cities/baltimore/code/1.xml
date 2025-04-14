@@ -11515,7 +11515,7 @@
         </para>
         <para>
           <num>(5c)</num>
-          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|II">Building Code</cite></heading>
+          <heading>Building, Fire, and Related Codes Article – Building Code</heading>
           <text>
             <table>
               <tbody>
@@ -11564,7 +11564,7 @@
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td class="text-indent-1">§ 1209.4  Diaper-Changing Amenities</td>
+                  <td class="text-indent-1">§ 1210.4  Diaper-Changing Amenities</td>
                   <td>$500</td>
                 </tr>
                 <tr>
@@ -11585,7 +11585,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII">Fire Code</cite></heading>
+          <heading><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -11606,7 +11606,7 @@
                   <td>$1,000</td>
                 </tr>
                 <tr>
-                  <td>§ 916.4  Telephone Access to City's 9-1-1 System: General</td>
+                  <td>§ 918.4  Telephone Access to City's 9-1-1 System: General</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
@@ -11618,7 +11618,7 @@
                   <td>$200</td>
                 </tr>
                 <tr>
-                  <td>§ 1111.  Unsafe buildings: General</td>
+                  <td>§ 111.1  Unsafe buildings: General</td>
                   <td>$250</td>
                 </tr>
                 <tr>
@@ -12128,6 +12128,7 @@
         <annotation doc="City of Balt., Md., Ord. 23-218" type="History">Ord. 23-218</annotation>
         <annotation doc="City of Balt., Md., Ord. 23-252" type="History">Ord. 23-252</annotation>
         <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+        <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
@@ -13106,14 +13107,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
-        <text>
-          <strong>
-            <em>
-              <cite path="|building-codes|VIII">Fire Code</cite>
-            </em>
-          </strong>
-        </text>
+        <heading><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
         <text>
           <table>
             <tbody>
@@ -13134,6 +13128,14 @@
                 <td>$1,000</td>
               </tr>
               <tr>
+                <td>§ 405.2.  Emergency Evacuation Drills: Frequency</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-1">405.2.3.  Buildings housing seniors and individuals requiring mobility devices</td>
+                <td>$1000</td>
+              </tr>
+              <tr>
                 <td>§ 1001.2.  Means of Egress: Minimum requirements</td>
                 <td>$250</td>
               </tr>
@@ -13143,19 +13145,12 @@
       </para>
       <para>
         <num>(5a)</num>
-        <heading><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> –</heading>
-        <text>
-          <strong>
-            <em>
-              <cite path="|building-codes|VII">Property Maintenance Code</cite>
-            </em>
-          </strong>
-        </text>
+        <heading><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></heading>
         <text>
           <table>
             <tbody>
               <tr>
-                <td>§ 305.8.  Snow and ice on sidewalks</td>
+                <td>§ 305.9.  Snow and ice on sidewalks</td>
                 <td proof="needed"/>
               </tr>
               <tr>
@@ -13499,6 +13494,7 @@
         <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-170" type="History">Ord. 22-170</annotation>
         <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" type="History"/>
+        <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
