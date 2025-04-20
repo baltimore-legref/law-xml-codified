@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|§22-21|(a)|(2)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§22-21|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§22-21|(a)|(2)">
       <para>
         <num>(2)</num>
         <text>
