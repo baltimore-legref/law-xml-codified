@@ -6489,14 +6489,14 @@
             <text>Within 15 business days of receiving a completed application, the Zoning Administrator or the BMZA, as the case might be, must refer the application and all accompanying documents to the Director of Transportation, if:</text>
             <para>
               <num>(i)</num>
-              <text>traffic-mitigation requirements for the proposed structure or use have not already been complied with in accordance with this Code or the <cite path="|building-codes">City Building, Fire, and Related Codes Article</cite>; and</text>
+              <text>traffic-mitigation requirements for the proposed structure or use have not already been complied with in accordance with this Code or the <cite path="|building-codes" proof="needed">City Building, Fire, and Related Codes Article</cite>; and</text>
             </para>
             <para>
               <num>(ii)</num>
               <text>the proposed structure or use:</text>
               <para>
                 <num>(A)</num>
-                <text>is in a Traffic-Mitigation Zone designated in <cite path="|building-codes|II">Building Code</cite> <cite path="|building-codes|II|3805" proof="needed">§ 3805</cite> {"Traffic-Mitigation Zone"} and involves 10 or more dwelling units;</text>
+                <text>is in a Traffic-Mitigation Zone designated in <cite path="|building-codes|II" proof="needed">Building Code</cite> <cite path="|building-codes|II|3805" proof="needed">§ 3805</cite> {"Traffic-Mitigation Zones"} and involves 10 or more dwelling units;</text>
               </para>
               <para>
                 <num>(B)</num>
@@ -6511,17 +6511,17 @@
           <para>
             <num>(2)</num>
             <heading>Mitigation required.</heading>
-            <text>A Traffic-Impact Study or the payment of a Traffic-Mitigation Fee is required if any 1 of the criteria specified in <cite path="|building-codes|II">Building Code</cite> <cite path="|building-codes|II|3802" proof="needed">§ 3802</cite> {"Scope of Chapter"} applies.</text>
+            <text>A Traffic-Impact Study or the payment of a Traffic-Mitigation Fee is required if any 1 of the criteria specified in <cite path="|building-codes|II" proof="needed">Building Code</cite> <cite path="|building-codes|II|3802" proof="needed">§ 3802</cite> {"Scope of Chapter"} applies.</text>
           </para>
           <para>
             <num>(3)</num>
             <heading>Procedures and conduct.</heading>
-            <text>The Director of Transportation must review the application as provided in <cite path="|building-codes|II">Building Code</cite>  <cite path="|building-codes|II|3802" proof="needed">3802</cite> {"Scope of Chapter"}.</text>
+            <text>The Director of Transportation must review the application as provided in <cite path="|building-codes|II" proof="needed">Building Code</cite>  <cite path="|building-codes|II|3802" proof="needed">3802</cite> {"Scope of Chapter"}.</text>
           </para>
           <para>
             <num>(4)</num>
             <heading>Mitigation procedure.</heading>
-            <text>If the Director of Transportation informs the applicant that traffic mitigation is required under <cite path="|building-codes|II">Building Code</cite> Chapter 38 {"Traffic Impact and Mitigation"}, the applicant must comply with the applicable procedures and requirements of that chapter.</text>
+            <text>If the Director of Transportation informs the applicant that traffic mitigation is required under <cite path="|building-codes|II" proof="needed">Building Code</cite> Chapter 38 {"Traffic Impact and Mitigation"}, the applicant must comply with the applicable procedures and requirements of that chapter.</text>
           </para>
         </para>
         <para>
@@ -6559,6 +6559,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
