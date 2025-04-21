@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:insert doc="City of Baltimore, Md., Code" path="6|18A">
+    <codify:insert doc="City of Baltimore, Md., Code" path="6|18A" codified:doc="City of Baltimore, Md., Code" codified:path="6|§18A-9">
       <section>
         <prefix>§</prefix>
         <num>18A-9</num>
