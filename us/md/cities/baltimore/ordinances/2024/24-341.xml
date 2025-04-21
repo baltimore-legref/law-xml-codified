@@ -8069,7 +8069,7 @@
         <text>comply with § 3318 {"Rodenticide Procedure"} of the <cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§40-14|(e)|(5c)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(5c)">
+    <codify:replace path="1|§40-14|(e)|(5c)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
       <para>
         <num>(5c)</num>
         <heading>Building, Fire, and Related Codes Article – Building Code</heading>
@@ -8141,7 +8141,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§40-14|(e)|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(6)">
+    <codify:replace path="1|§40-14|(e)|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
       <para>
         <num>(6)</num>
         <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
@@ -8189,7 +8189,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§41-14|(5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(5)">
+    <codify:replace path="1|§41-14|(5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
       <para>
         <num>(5)</num>
         <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
@@ -8229,7 +8229,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§41-14|(5a)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(5a)">
+    <codify:replace path="1|§41-14|(5a)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
       <para>
         <num>(5a)</num>
         <heading><cite doc="City of Baltimore, Md., Code" path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite doc="City of Baltimore, Md., Code" path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></heading>
