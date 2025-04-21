@@ -8243,10 +8243,179 @@
     <container>
       <prefix>Subtitle</prefix>
       <num>3</num>
-      <heading>Penalties.</heading>
+      <heading>Gas-Powered Debris Removal Equipment</heading>
       <section>
         <prefix>§</prefix>
         <num>8-301</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>In this subtitle, the following words have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Air pollution.</heading>
+          <text>"Air pollution" has the meaning stated in § 8-101(b) of this title</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Contractor.</heading>
+          <text>"Contractor" means a person, firm, or legal entity with which the City has entered into an agreement.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Debris.</heading>
+          <text>"Contractor" means a person, firm, or legal entity with which the City has entered into an agreement.</text>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Debris" means any solid material or portion of a solid material intended for disposal.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Debris" includes:</text>
+            <para>
+              <num>(i)</num>
+              <text>manufactured objects;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>plant materials;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>animal materials; and</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>natural geologic materials.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Enforcement officer.</heading>
+          <text>"Enforcement officer" has the meaning stated in City Code Article 1 § 41-1(c) {"Definitions: Enforcement officer"}.</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <heading>Gas-powered debris removal equipment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Gas-powered debris removal equipment" means any device powered by an internal combustion or rotary engine using gasoline, alcohol, or any other fuel that is used to blow, vacuum, displace, or gather debris.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusions.</heading>
+            <text>"Gas-powered debris removal equipment" includes handheld leaf blowers       with a vacuum function.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusions.</heading>
+            <text>"Gas-powered debris removal equipment" does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>lawn mowers;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>lawn trimmers;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>snow blowers;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>pressure washers; or</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>self-propelled motorized leaf vacuums, including walk-behind, riding, and hitch mount leaf vacuums; and</text>
+            </para>
+            <para>
+              <num>(vi)</num>
+              <text>leaf vacuum trucks.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <heading>Landscape maintenance company.</heading>
+          <text>"Landscape maintenance company" means a person who receives compensation, including money or material goods, in exchange for services that include:</text>
+          <para>
+            <num>(1)</num>
+            <heading>Caring for:</heading>
+            <para>
+              <num>(i)</num>
+              <text>lawns;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>gardens;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>trees;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>plants; and</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>hardscape features; or</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>otherwise enhancing the aesthetics and functionality of an outdoor space.</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Person.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Person" has the meaning stated in § 1-107(a) {"Person: In general"} of the City Code's General Provisions Article.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Inclusion of governmental entities.</heading>
+            <text>Notwithstanding § 1-107(b) {"Person: Exclusion"} of the General Provisions Article, in this subtitle "person" also includes a governmental entity or an instrumentality or unit of a governmental entity.</text>
+          </para>
+        </para>
+        <para>
+          <num>(i)</num>
+          <heading>Subcontractor.</heading>
+          <text>"Subcontractor" means a business enterprise that has a direct contract with a contractor to perform part of the work on a contract.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>8-302</num>
+        <heading>Prohibition of gas-powered debris removal equipment.</heading>
+        <text>A person, individual, contractor, or subcontractor may not use gas-powered debris removal equipment in Baltimore City.</text>
+        <annotations>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
+    </container>
+    <container>
+      <prefix>Subtitle</prefix>
+      <num>4</num>
+      <heading>Penalties.</heading>
+      <section>
+        <prefix>§</prefix>
+        <num>8-401</num>
         <heading>Enforcement by citation.</heading>
         <para>
           <num>(a)</num>
@@ -8254,11 +8423,11 @@
           <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
           <para>
             <num>(1)</num>
-            <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
+            <text>an environmental citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 40 {"Environmental Control Board"}; or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
+            <text>a civil citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 41 {"Civil Citations"}.</text>
           </para>
         </para>
         <para>
@@ -8269,28 +8438,51 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
           <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
+          <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
-        <num>8-302</num>
-        <heading>Criminal penalties: $1,000.</heading>
+        <num>8-402</num>
+        <heading>Civil penalties: gas-powered debris removal equipment.</heading>
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Except as otherwise specified, any person who violates any provision of this title is guilty of a misdemeanor and, on conviction, is subject to a fine of not more than $1,000 for each offense.</text>
+          <text>Except as otherwise specified in this subtitle, an enforcement officer may issue a civil citation for the use of gas-powered debris removal equipment if the enforcement officer:</text>
+          <para>
+            <num>(1)</num>
+            <text>witnesses the violation; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>receives from at least 1 witness a written complaint accompanied by photographic evidence.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
-          <heading>Each day a separate offense.</heading>
-          <text>Each day that a violation continues is a separate offense.</text>
+          <heading>Warning to cease and desist.</heading>
+          <text>An enforcement officer who finds any  person person, individual, contractor, or subcontractor violating this subtitle shall order, on a first offense, that the person cease and desist the use of gas-powered debris removal equipment.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Subsequent offense.</heading>
+          <text>A person, individual, contractor, or subcontractor who commits a subsequent offense is subject to a fine of $250 for each subsequent offense.</text>
         </para>
         <annotations>
-          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
           <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+          <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
+          <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
+          <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
         </annotations>
       </section>
+      <annotation doc="City of Balt., Md., Ord. 99-548" type="History">Ord. 99-548</annotation>
+      <annotation doc="City of Balt., Md., Ord. 03-595" type="History">Ord. 03-595</annotation>
+      <annotation type="Prior Codifications">City Code, 1976/83, art. 11, §§10(2nd sen.), 16, 21</annotation>
+      <annotation doc="City of Balt., Md., Ord. 19-232" type="History">Ord. 19-232</annotation>
+      <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" type="History"/>
     </container>
   </container>
   <container>
