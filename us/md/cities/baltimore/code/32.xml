@@ -9667,6 +9667,16 @@
         </para>
         <para>
           <num>(g)</num>
+          <heading>Non-water dependent project</heading>
+          <text>"Non-water dependent project" has the meaning stated in COMAR 27.01.13.01.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <heading>Non-water dependent structure</heading>
+          <text>"Non-water dependent structure" means a temporary or permanent structure or activity which, by reason of its intrinsic nature or operation, is not required to be located in or over State or private tidal wetlands.</text>
+        </para>
+        <para>
+          <num>(i)</num>
           <heading>Significant development.</heading>
           <text>"Significant development" means any development that would:</text>
           <para>
@@ -9687,7 +9697,7 @@
           </para>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(j)</num>
           <heading>Water-dependent facilities.</heading>
           <para>
             <num>(1)</num>
@@ -9745,6 +9755,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-374" type="History">Ord. 20-374</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-464" type="History">Ord. 20-464</annotation>
+          <annotation app="2024-04-16" doc="City of Balt., Md., Ord. 24-322" eff="2024-04-16" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9781,7 +9792,7 @@
           <text>The 2 types of Development Areas specified in the Critical Area Management Program are:</text>
           <para>
             <num>(1)</num>
-            <text>"Resource Conservation Areas"; and</text>
+            <text>"Resource Conservation Areas, which include the subarea designated as "Shoreline Conservation Area"; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -9792,17 +9803,19 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>"Waterfront Revitalization Areas", which include subareas designated as:</text>
-              <para>
-                <num>(A)</num>
-                <text>"Waterfront Industrial Areas".</text>
-              </para>
+              <text>"Waterfront Revitalization Areas."</text>
             </para>
           </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Area Boundaries</heading>
+          <text>Development area boundaries exist as established on the Baltimore City CAMP Map as provided for under § 7-405(a) of this subtitle {“Boundaries delineated on Map”}.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-374" type="History">Ord. 20-374</annotation>
+          <annotation app="2024-04-16" doc="City of Balt., Md., Ord. 24-322" eff="2024-04-16" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -9874,7 +9887,7 @@
           <text>Except as specified in subsection (d) of this section, the following uses are prohibited within the Critical Area:</text>
           <para>
             <num>(1)</num>
-            <text>a dwelling unit or other non-water dependent structure on a pier, wharf, dock, walkway, bulkhead, breakwater, piles, or other similar structure, except as authorized under State Natural Resources Article § 8-1808.4 {"Critical Area Protection Program: Nonwater-dependent projects"};</text>
+            <text>a non-water dependent structure, except as authorized under State Natural Resources Article § 8-1808.4 {"Critical Area Protection Program: Nonwater-dependent projects"};</text>
           </para>
           <para>
             <num>(2)</num>
@@ -9906,7 +9919,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>solid waste acceptance facilities, as defined in City Code <cite path="|23">Article 23</cite>, except for facilities approved as a conditional use under this subtitle; and</text>
+            <text>solid waste acceptance facilities, as defined in City Code <cite path="|23" doc="City of Balt., Md., Ord. 24-322">Article 23</cite>, except for facilities approved as a conditional use under this subtitle; and</text>
           </para>
           <para>
             <num>(10)</num>
@@ -9936,7 +9949,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <heading>Exceptions.</heading>
+          <heading>Exceptions - In general.</heading>
           <text>The prohibitions in subsections (b) and (c) of this section do not apply if the following standards are met:</text>
           <para>
             <num>(1)</num>
@@ -9958,6 +9971,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-374" type="History">Ord. 20-374</annotation>
+          <annotation app="2024-04-16" doc="City of Balt., Md., Ord. 24-322" eff="2024-04-16" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
