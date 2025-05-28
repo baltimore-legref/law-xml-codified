@@ -16,11 +16,11 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="b1a886d8eaa5e2382f998924c7068aab60d82b58"/>
+        <repository name="baltimore-legref/law-xml" commit="20c2b7000281fdd8cc753ecbee27e32848141113"/>
       </repositories>
-      <platform version="2.15.19" reproducible="true"/>
-      <build-date>2025-05-01</build-date>
-      <codified-date>2025-03-06</codified-date>
+      <platform version="2.16.0" reproducible="true"/>
+      <build-date>2025-05-28</build-date>
+      <codified-date>2025-05-01</codified-date>
       <publication>publication/2025-05-01</publication>
     </build>
   </meta>
