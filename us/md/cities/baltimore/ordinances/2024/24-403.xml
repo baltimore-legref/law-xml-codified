@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-1">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-1" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-1" codified:citation=" Article 13, § 5-1" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-1</num>
@@ -194,7 +194,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-2">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-2" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-2" codified:citation=" Article 13, § 5-2" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-2</num>
@@ -202,7 +202,7 @@
         <text>Subject to <cite doc="City of Baltimore, Md., Code" path="|general|4">Title 4 {"Administrative Procedure Act – Regulations"}</cite> of the <cite doc="City of Baltimore, Md., Code" path="|general">City General Provisions Article</cite>, the Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-4">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-4" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-4" codified:citation=" Article 13, § 5-4" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-4</num>
@@ -264,7 +264,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-5">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-5" codified:citation=" Article 13, § 5-5" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-5</num>
@@ -316,7 +316,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-6">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-6" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-6" codified:citation=" Article 13, § 5-6" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-6</num>
@@ -356,7 +356,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-7">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-7" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-7" codified:citation=" Article 13, § 5-7" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-7</num>
@@ -516,14 +516,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:repeal doc="City of Baltimore, Md., Code" path="13|§5-8"/>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-8" warning="false">
+    <codify:repeal doc="City of Baltimore, Md., Code" path="13|§5-8" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-8" codified:citation=" Article 13, 5-8" codified:display="Repeal"/>
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-8" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-8" codified:citation=" Article 13, 5-8" codified:display="Amend">
       <section>
         <num>5-8</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-9">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-9" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-9" codified:citation=" Article 13, § 5-9" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-9</num>
@@ -531,7 +531,7 @@
         <text>Each rental dwelling license and rental dwelling renewal license issued under this subtitle expires 2 years from the date of issuance.</text>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-10" warning="false">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-10" codified:citation=" Article 13, § 5-10" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-10</num>
@@ -695,7 +695,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-11">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-11" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-11" codified:citation=" Article 13, § 5-11" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-11</num>
@@ -772,7 +772,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-12">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-12" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-12" codified:citation=" Article 13, § 5-12" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-12</num>
@@ -797,7 +797,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-15">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-15" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-15" codified:citation=" Article 13, § 5-15" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-15</num>
@@ -882,7 +882,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-16">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-16" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-16" codified:citation=" Article 13, § 5-16" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-16</num>
@@ -907,7 +907,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-20">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-20" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-20" codified:citation=" Article 13, § 5-20" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-20</num>
@@ -932,7 +932,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-22">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-22" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-22" codified:citation=" Article 13, § 5-22" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-22</num>
@@ -989,7 +989,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-25">
+    <codify:replace doc="City of Baltimore, Md., Code" path="13|§5-25" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-25" codified:citation=" Article 13, § 5-25" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>5-25</num>
@@ -1016,7 +1016,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5">
+    <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-27" codified:citation=" Article 13, § 5-27" codified:display="New">
       <section>
         <prefix>§</prefix>
         <num>5-27</num>
@@ -1033,7 +1033,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5">
+    <codify:insert doc="City of Baltimore, Md., Code" path="13|II|5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§5-28" codified:citation=" Article 13, § 5-28" codified:display="New">
       <section>
         <prefix>§</prefix>
         <num>5-28</num>
@@ -1262,7 +1262,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|§40-14|(e)">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§40-14|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)" codified:citation=" Article 1, § 40-14" codified:display="Amend">
       <para>
         <num>(e)</num>
         <heading>Provisions and penalties enumerated.</heading>
@@ -2590,7 +2590,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|§41-14">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§41-14" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14" codified:citation=" Article 1, § 41-14" codified:display="Amend">
       <section>
         <prefix>§</prefix>
         <num>41-14</num>
@@ -3300,7 +3300,7 @@
                   <td proof="needed"/>
                 </tr>
                 <tr>
-                  <td class="text-indent-2">§ 8-303.  Prohibition of gas-powered debris removal equipment</td>
+                  <td class="text-indent-2">§ 8-302.  Prohibition of gas-powered debris removal equipment</td>
                   <td proof="needed"/>
                 </tr>
                 <tr>
