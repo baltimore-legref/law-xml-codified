@@ -3,8 +3,8 @@
   <heading>Baltimore City Code</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-11-27">
-      <doc id="City of Balt., Md., Ord. 24-429" type="ordinance"/>
+    <recency through="2024-12-02">
+      <doc id="City of Balt., Md., Ord. 24-437" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./building-codes.xml"/>
