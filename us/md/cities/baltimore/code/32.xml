@@ -130,69 +130,47 @@
       <section>
         <prefix>§</prefix>
         <num>1-205</num>
-        <heading>Tables.</heading>
+        <heading>Use symbology.</heading>
         <para>
           <num>(a)</num>
-          <heading>In general.</heading>
+          <heading>Use symbology.</heading>
+          <text>In Tables of Uses:</text>
           <para>
             <num>(1)</num>
-            <text>Except for the Cumulative Table of Uses, the "Tables" contained in this Code and the statutory references to them are part of this Code and of the laws enacted by it.</text>
+            <text>a "P" indicates that a use is permitted within that zoning district;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>The Cumulative Table of Uses that accompanies this Code:</text>
-            <para>
-              <num>(i)</num>
-              <text>is for convenience of reference only, intended as a guide to this Code; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>is not law and is not to be taken as affecting the meaning or effect of the law.</text>
-            </para>
+            <text>a  "CB" indicates that a use is a conditional use within that zoning district requiring approval by the Board of Municipal and Zoning Appeals;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a "CO" indicates that a use is a conditional use within that zoning district requiring approval by Ordinance of the Mayor and City Council;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>no letter (that is, a blank space) or the absence of the use from the table indicates that the use is not allowed within that zoning district; and</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>each Table of Uses organizes its lists of uses under the following "Use Categories":  "Residential", "Institutional", "Open-Space",  "Commercial", "Industrial", and "Other".</text>
           </para>
         </para>
         <para>
           <num>(b)</num>
-          <heading>Use symbology.</heading>
+          <heading>Signage symbology</heading>
+          <text>In Signage Tables</text>
           <para>
             <num>(1)</num>
-            <text>In Tables of Uses:</text>
-            <para>
-              <num>(i)</num>
-              <text>a "P" indicates that a use is permitted within that zoning district;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>a  "CB" indicates that a use is a conditional use within that zoning district requiring approval by the Board of Municipal and Zoning Appeals;</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>a "CO" indicates that a use is a conditional use within that zoning district requiring approval by Ordinance of the Mayor and City Council;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>no letter (that is, a blank space) or the absence of the use from the table indicates that the use is not allowed within that zoning district; and</text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>each Table of Uses organizes its lists of uses under the following "Use Categories":  "Residential", "Institutional", "Open-Space",  "Commercial", "Industrial", and "Other".</text>
-            </para>
+            <text>an "A" indicates that a sign type is allowed in that Zoning District;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>In Signage Tables</text>
-            <para>
-              <num>(i)</num>
-              <text>an "A" indicates that a  sign type is allowed in that Zoning District;</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>an "ASSC Only" indicates that a sign type is only allowed in an approved Area of Special Signage Control; and</text>
-            </para>
-            <para>
-              <num>(iii)</num>
-              <text>a "CB" indicates that a sign type requires conditional approval by the Board of Municipal and Zoning Appeals.</text>
-            </para>
+            <text>an "ASSC Only" indicates that a sign type is only allowed in an approved Area of Special Signage Control; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a "CB" indicates that a sign type requires conditional approval by the Board of Municipal and Zoning Appeals.</text>
           </para>
         </para>
         <annotations>
@@ -200,6 +178,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2038,7 +2017,7 @@
           <para>
             <num>(2)</num>
             <heading>Inclusions.</heading>
-            <text>"Government facility" includes agency offices, storage yards, public works facilities, recreation: indoor, and utility facilities.</text>
+            <text>"Government facility" includes agency offices, storage yards, public works facilities, recreation: indoor, and utility facilities that are operated by a government agency.</text>
           </para>
         </para>
         <para>
@@ -2328,6 +2307,7 @@
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -4036,21 +4016,42 @@
         </para>
         <para>
           <num>(g)</num>
+          <heading>Shared-use path.</heading>
+          <text>"Shared-use path" means a dedicated way that:</text>
+          <para>
+            <num>(i)</num>
+            <text>has a paved or hard surface;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>is designed for individual travel or recreational use;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>accommodates walking, running, biking, use of a mobility device, scooter, or other recreational vehicle; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>is not for vehicular traffic</text>
+          </para>
+        </para>
+        <para>
+          <num>(h)</num>
           <heading>Shielded lighting.</heading>
           <text><em>See</em> "Lighting: Shielded".</text>
         </para>
         <para>
-          <num>(h)</num>
+          <num>(i)</num>
           <heading>Shipyard.</heading>
           <text>"Shipyard" means any facility or area that is designed or used for the manufacture, assembly, or repair of ships, barges, or boats.</text>
         </para>
         <para>
-          <num>(i)</num>
+          <num>(j)</num>
           <heading>Side lot line.</heading>
           <text><em>See</em> "Lot line: Side".</text>
         </para>
         <para>
-          <num>(j)</num>
+          <num>(k)</num>
           <heading>Sign.</heading>
           <para>
             <num>(1)</num>
@@ -4076,27 +4077,27 @@
           </para>
         </para>
         <para>
-          <num>(k)</num>
+          <num>(l)</num>
           <heading>Significant development.</heading>
           <text>"Significant development", as it applies to the Chesapeake Bay Critical Area, has the meaning stated in § 7-402 {"CBCA Overlay: Definitions"} of this Code.</text>
         </para>
         <para>
-          <num>(l)</num>
+          <num>(m)</num>
           <heading>Social club.</heading>
           <text><em>See </em>"Lodge or social club"<strong>.</strong></text>
         </para>
         <para>
-          <num>(m)</num>
+          <num>(n)</num>
           <heading>Solid waste sanitary landfill.</heading>
           <text><em>See </em>"Landfill: Solid waste sanitary".</text>
         </para>
         <para>
-          <num>(n)</num>
+          <num>(o)</num>
           <heading>Special exception.</heading>
           <text><em>See </em>"Use: Conditional".</text>
         </para>
         <para>
-          <num>(o)</num>
+          <num>(p)</num>
           <heading>Stadium.</heading>
           <para>
             <num>(1)</num>
@@ -4126,17 +4127,17 @@
           </para>
         </para>
         <para>
-          <num>(p)</num>
+          <num>(q)</num>
           <heading>Stacking space.</heading>
           <text>"Stacking space" means a space specifically designated as a waiting area for vehicles patronizing a drive-through establishment.</text>
         </para>
         <para>
-          <num>(q)</num>
+          <num>(r)</num>
           <heading>Stormwater.</heading>
           <text>"Stormwater" means the water running off the surface of a drainage area during and immediately following rain or as a result of other precipitation.</text>
         </para>
         <para>
-          <num>(r)</num>
+          <num>(s)</num>
           <heading>Story.</heading>
           <text>"Story" means that portion of a building, other than a basement, that is:</text>
           <para>
@@ -4147,10 +4148,6 @@
             <num>(2)</num>
             <text>if there is no floor above it, then the space between the floor and the ceiling next above it.</text>
           </para>
-        </para>
-        <para name="(s)">
-          <num>(s)</num>
-          <reason>Repealed</reason>
         </para>
         <para>
           <num>(t)</num>
@@ -4210,6 +4207,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “street”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-109">§ 1-109</cite>, .</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5259,15 +5257,20 @@
           </para>
           <para>
             <num>(7)</num>
-            <text>to begin the next comprehensive rezoning process by January 1, 2024, and submit a bill by June 30, 2025, and to repeat the process every 10 years; and</text>
+            <text>to conduct from time to time a comprehensive rezoning process in conformance with the Comprehensive Master Plan for the City of Baltimore, which includes the Land Use Map;</text>
           </para>
           <para>
             <num>(8)</num>
+            <text>to review and propose updates to the Land Use Map, no less than quadrennially; and</text>
+          </para>
+          <para>
+            <num>(9)</num>
             <text>to perform all other functions assigned to the Commission by this Code.</text>
           </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5532,17 +5535,22 @@
         </para>
         <para>
           <num>(8)</num>
-          <text>urban agriculture or community-managed open-space farm; and</text>
+          <text>urban agriculture or community-managed open-space farm;</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>any development within the C-5-IH Subdistrict.</text>
+          <text>any development within the C-5-IH Subdistrict; and</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>multiple principal structures on a residential lot per <cite path="32|§15-203">§ 15-203</cite>.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 21-020" type="History">Ord. 21-020</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -5867,65 +5875,63 @@
           <text>Except as provided in subsection (b) of this section, design review is required for the following types of development:</text>
           <para>
             <num>(1)</num>
-            <text>new construction of dwellings, excluding additions;</text>
+            <text>new construction of dwellings;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>new construction of rowhouses;</text>
-          </para>
-          <para>
-            <num>(3)</num>
             <text>upper floor additions and roof decks on existing rowhouses;</text>
           </para>
           <para>
-            <num>(4)</num>
-            <text>deck, porch, and balcony additions on street-front facades;</text>
+            <num>(3)</num>
+            <text>additions on street-front facades, to include deck, porch, and balcony additions;</text>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(4)</num>
             <text>when exterior modifications are proposed for residential conversions in the R-7, R-8, R-9, and R-10 Districts;</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(5)</num>
             <text>the establishment of a non-residential use within the R-MU Overlay District;</text>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(6)</num>
             <text>all new construction and additions in the C-5 District;</text>
           </para>
           <para>
-            <num>(8)</num>
+            <num>(7)</num>
             <text>all substantial modifications of the facade of a structure in the C-5 District;</text>
           </para>
           <para>
-            <num>(9)</num>
+            <num>(8)</num>
             <text>planned unit development;</text>
           </para>
           <para>
-            <num>(10)</num>
+            <num>(9)</num>
             <text>any sign that is conditional on Board of Municipal and Zoning Appeals approval, but without regard to its copy or message;</text>
           </para>
           <para>
-            <num>(11)</num>
+            <num>(10)</num>
             <text>any painted/mural sign, but without regard to its copy or message;</text>
           </para>
           <para>
-            <num>(12)</num>
+            <num>(11)</num>
             <text>any sign over 100 square feet in area;</text>
           </para>
           <para>
-            <num>(13)</num>
+            <num>(12)</num>
             <text>any electronic sign, freestanding sign, or roof sign, but without regard to its copy or message;</text>
           </para>
           <para>
+            <num>(13)</num>
+            <text>any freestanding sign in the C-5 or PC District, and any banner sign,   projecting sign, or wall sign above the ground floor in the C-5 or PC District, but without regard to its copy or message;</text>
+          </para>
+          <para>
             <num>(14)</num>
-            <text>any freestanding sign in the C-5 or PC District, and any banner sign,   projecting sign, or</text>
-            <text>wall sign above the ground floor in the C-5 or PC District, but without regard to its copy</text>
-            <text>or message;</text>
+            <text>any Signage Plan and any sign, but without regard to its copy or message, within an Area of Special Sign Control; and</text>
           </para>
           <para>
             <num>(15)</num>
-            <text>any Signage Plan and any sign, but without regard to its copy or message, within an Area of Special Sign Control; and</text>
+            <text>multiple principal structures on a residential lot per <cite path="32|§15-203">§ 15-203</cite>;</text>
           </para>
           <para>
             <num>(16)</num>
@@ -5944,8 +5950,12 @@
             </para>
             <para>
               <num>(iv)</num>
-              <text>construction in a TOD District or in the W Overlay District.</text>
+              <text>construction in a TOD District or in the W Overlay District; and</text>
             </para>
+          </para>
+          <para>
+            <num>(17)</num>
+            <text>new construction or substantive modifications that include a shared-use path.</text>
           </para>
         </para>
         <para>
@@ -5959,6 +5969,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6431,14 +6442,14 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>An application for a variance, conditional use, use permit, or zoning appeal must be filed by:</text>
+            <text>An application for a variance, conditional use, use permit, or zoning appeal must be filed in writing by:</text>
             <para>
               <num>(i)</num>
               <text>the owner of property to which the application applies; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>a person expressly authorized by the owner in writing.</text>
+              <text>a person expressly authorized by the owner.</text>
             </para>
           </para>
           <para>
@@ -6566,6 +6577,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" type="History"/>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6657,12 +6669,39 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The purpose of the variance procedure is to afford a property owner relief from certain regulations of the Zoning Code when unnecessary hardship or practical difficulty exists.</text>
+          <text>The purpose of the variance procedure is to afford a property owner relief from certain regulations of this Code when practical difficulty exists.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Application.</heading>
-          <text>The variance procedure applies only to changes in bulk and yard regulations and to changes in signage, parking, and loading requirements.  It does not apply to changes in the uses, the maximum quantity of signs, the location requirements of signs, or the types of signs allowed within a zoning district.</text>
+          <text>The Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council may grant variances from the provisions of this Code pursuant to the standards set forth in this subtitle.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Exceptions to variance procedure provisions: Signs.</heading>
+          <text>The variance procedure provisions in this title do not apply to applications requesting an exemption from:</text>
+          <para>
+            <num>(1)</num>
+            <text>the maximum quantity of signs;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the location requirements of signs; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>the types of signs allowed within a zoning district.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Use may not change by variance.</heading>
+          <text>The variance procedure provisions may not be used to authorize a use not otherwise permitted in the zoning district.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Authority not exclusive.</heading>
+          <text>The authority granted in this Subtitle 3 to the Zoning Administrator or the Board of Municipal and Zoning Appeals to grant a variance from provisions of this Code is not intended to limit any other authority that may exist elsewhere within this Code to provide relief or modification from the Code's requirements.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
@@ -6670,6 +6709,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-216" type="History">Ord. 18-216</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-350" type="History">Ord. 20-350</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6708,7 +6748,7 @@
               <text>a variance to bulk or yard regulations if:</text>
               <para>
                 <num>(A)</num>
-                <text>the parcel of land is improved with a nonconforming structure    that has been in existence for at least 50 years;</text>
+                <text>the parcel of land is improved with a nonconforming structure that has been in existence for at least 50 years;</text>
               </para>
               <para>
                 <num>(B)</num>
@@ -6722,7 +6762,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The Zoning Administrator may grant minor variances from the regulations of this Code.</text>
+            <text>The Zoning Administrator or the Board of Municipal and Zoning Appeals may grant minor variances from the regulations of this Code.</text>
           </para>
         </para>
         <para>
@@ -6740,6 +6780,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -6963,8 +7004,16 @@
         <heading>Approval standards.</heading>
         <para>
           <num>(a)</num>
-          <heading>Required finding of unnecessary hardship or practical difficulty.</heading>
-          <text>In order to grant a variance, the Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council, as the case may be, must find that, because of the particular physical surroundings, shape, or topographical conditions of the specific structure or land involved, an unnecessary hardship or practical difficulty, as distinguished from a mere inconvenience, would result if the strict letter of the applicable requirement were carried out.</text>
+          <heading>Required finding of practical difficulty.</heading>
+          <text>To grant a variance, the Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council, as the case may be, shall find that:</text>
+          <para>
+            <num>(1)</num>
+            <text>because of the conditions peculiar to the property, including particular physical surroundings, shape, or topographical conditions of the specific structure or land involved, a practical difficulty, as distinguished from a mere inconvenience, would result if the strict letter of the applicable requirement were carried out; or</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>because of exceptional circumstances related to the specific structure or land involved, a practical difficulty, as distinguished from a mere inconvenience, would result if the strict letter of the applicable requirement were carried out.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -6972,18 +7021,14 @@
           <text>The Zoning Administrator, the Board of Municipal and Zoning Appeals, or the City Council, as the case may be, must also find that:</text>
           <para>
             <num>(1)</num>
-            <text>the conditions on which the application is based are unique to the property for which the variance is sought and are not generally applicable to other property within the same zoning classification;</text>
+            <text>the practical difficulty is caused by this Code and has not been created by the intentional action or inaction of any person who has a present interest in the property;</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>the unnecessary hardship or practical difficulty is caused by this Code and has not been created by the intentional action or inaction of any person who has a present interest in the property;</text>
-          </para>
-          <para>
-            <num>(3)</num>
             <text>the purpose of the variance is not based exclusively on a desire to increase the value or income potential of the property;</text>
           </para>
           <para>
-            <num>(4)</num>
+            <num>(3)</num>
             <text>the variance will not:</text>
             <para>
               <num>(i)</num>
@@ -6995,11 +7040,11 @@
             </para>
           </para>
           <para>
-            <num>(5)</num>
+            <num>(4)</num>
             <text>the variance is in harmony with the purpose and intent of this Code;</text>
           </para>
           <para>
-            <num>(6)</num>
+            <num>(5)</num>
             <text>the variance is not precluded by and will not adversely affect:</text>
             <para>
               <num>(i)</num>
@@ -7015,7 +7060,7 @@
             </para>
           </para>
           <para>
-            <num>(7)</num>
+            <num>(6)</num>
             <text>the variance will not otherwise:</text>
             <para>
               <num>(i)</num>
@@ -7030,16 +7075,17 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>5-309</num>
-        <heading>Expiration of approval.</heading>
+        <heading>Time limit for utilization of variance; Extensions.</heading>
         <para>
           <num>(a)</num>
-          <heading>Exercise within year required.</heading>
-          <text>A variance lapses and becomes void 1 year from the date of its final approval, unless substantial construction has occurred within that year.</text>
+          <heading>Exercise of approval required.</heading>
+          <text>A variance lapses and becomes void 2 years from the date of its final order granting unless substantial construction has occurred within that same 2-year period.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -7048,6 +7094,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7057,15 +7104,24 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Neither the Zoning Administrator nor the Executive Director of the Board of Municipal and Zoning Appeals may process any application for variance if the subject property has any outstanding notices of violation, fines, or fees that are either unresolved or unpaid.</text>
+          <text>Neither the Zoning Administrator nor the Executive Director of the Board of Municipal and Zoning Appeals may approve any application for a variance or a conditional use if the subject property has any outstanding notices of violation, fines, or fees that are either unresolved or unpaid.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Exception.</heading>
-          <text>The Zoning Administrator or the Executive Director of the Board of Municipal and Zoning Appeals may process the application for variance if the variance applied for is required to resolve an outstanding notice of violation, fine, or fee that is either unresolved or unpaid.</text>
+          <text>The Zoning Administrator or the Executive Director of the Board of Municipal and Zoning Appeals may approve:</text>
+          <para>
+            <num>(1)</num>
+            <text>the application for variance or conditional use if that application is required to resolve an outstanding notice of violation, fine, or fee that is either unresolved or unpaid; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the application for a variance or conditional use if an outstanding violation or fine is the subject of a still pending administrative appeal or judicial review.</text>
+          </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -7243,7 +7299,7 @@
         <para>
           <num>(a)</num>
           <heading>Evaluation criteria.</heading>
-          <text>As a guide to its decision on the facts of each case, the Board of Municipal and Zoning Appeals must consider the following, where appropriate:</text>
+          <text>As a guide to its decision on the facts of each case, the Board of Municipal and Zoning Appeals or the City Council must consider the following, where appropriate:</text>
           <para>
             <num>(1)</num>
             <text>the nature of the proposed site, including its size and shape and the proposed size, shape, and arrangement of structures;</text>
@@ -7326,19 +7382,20 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>5-407</num>
-        <heading>Expiration of approval.</heading>
+        <heading>Time limit for utilization of conditional use; Extensions.</heading>
         <para>
           <num>(a)</num>
-          <heading>Exercise within year required.</heading>
-          <text>A conditional use and a conditional sign approval lapses and becomes void 1 year from the date of its final approval unless, within that year:</text>
+          <heading>Exercise of approval required.</heading>
+          <text>A conditional use and a conditional sign approval lapses and becomes void in 2 years from the date of its final order granting same unless, within that period:</text>
           <para>
             <num>(1)</num>
-            <text>a use permit under this Code and an occupancy permit under the Baltimore City <cite path="|building-codes|II">Building Code</cite> have been obtained for that use;</text>
+            <text>a use permit under this Code and an occupancy permit under the Baltimore City <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 25-015">Building Code</cite> have been obtained for that use;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7350,7 +7407,7 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>a building permit under this Code and any other applicable Codes has been obtained for the sign.</text>
+            <text>a building permit under this Code and any other applicable Codes has been obtained for the use or the sign, as the case may be.</text>
           </para>
         </para>
         <para>
@@ -7362,6 +7419,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7575,9 +7633,47 @@
         </annotations>
       </section>
       <section>
+        <prefix>§</prefix>
         <num>5-503</num>
-        <reason>Reserved</reason>
-        <annotations/>
+        <heading>Introductory statement of intent.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Statement required.</heading>
+          <text>On introduction of a bill proposing a legislative authorization under <cite path="32|§5-501|(2)">§ 5-501(2)</cite> {"'Legislative authorization' defined"} of this subtitle, the applicant shall submit a written statement in the form provided by the Department of Legislative Reference that informs the City Council, the agencies to which the proposed bill is referred, and the public of the changes sought and intended uses.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Contents.</heading>
+          <text>The statement shall contain, at a minimum:</text>
+          <para>
+            <num>(1)</num>
+            <text>a description of all proposed changes to the subject property;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>property information, including the name of the owner and deed reference as recorded among the Land Records of Baltimore City;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>a description of any contract that is contingent on the proposed legislative authorization, including the names and contact information of all parties;</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>the names and contact information of all individuals for whom the application benefits, including the names and contact information of individuals holding a majority stake in a corporate entity;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>an affidavit executed by the applicant stating the following:</text>
+            <text>"I, [applicant name], solemnly affirm under the penalties of perjury that the information given in this Statement of Intent is true and complete to the best of my knowledge, information, and belief."; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>any other information required to verify compliance with the standards for conditional uses, variances, and other provisions of this Code.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
+        </annotations>
       </section>
       <section>
         <prefix>§</prefix>
@@ -7985,7 +8081,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>by first-class mailing of a written notice, on forms provided by the Zoning Administrator, to each person who appears on the tax records of the City as an owner of the property to be rezoned; and</text>
+              <text>by first-class mailing of a written notice, on forms provided by the Zoning Administrator, to each person who appears on the tax records of the City as an owner of the property to be rezoned and each person that appears on the tax records of the City as an owner of property that is within the planned unit development to be amended; and</text>
             </para>
           </para>
           <para>
@@ -8085,6 +8181,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-252" type="History">Ord. 19-252</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8240,7 +8337,7 @@
           <text>The posted notice must be:</text>
           <para>
             <num>(1)</num>
-            <text>posted at least 10 days before the Zoning Administrator makes a decision on the application; and</text>
+            <text>posted at least 21 days before the Zoning Administrator makes a decision on the application; and</text>
           </para>
           <para>
             <num>(2)</num>
@@ -8250,6 +8347,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8272,7 +8370,24 @@
         <para>
           <num>(b)</num>
           <heading>Notice of hearing.</heading>
-          <text>In addition to any other form of notice required by law or regulation, notice of the hearing must be given by posting in conspicuous places within and around the perimeter of the subject property or area.</text>
+          <para>
+            <num>(1)</num>
+            <heading>In general</heading>
+            <text>In addition to any other form of notice required by law or regulation, notice of the hearing must be given by posting in conspicuous places within and around the perimeter of the subject property or area.</text>
+          </para>
+          <para>
+            <num>(1)</num>
+            <heading>Exceptions</heading>
+            <text>Where a property is added to a proposal by amendment, the requirements of paragraph (1) of this subsection (b) do not apply if:</text>
+            <para>
+              <num>(i)</num>
+              <text>a notice was previously mailed to the owner of record of the property about the proposed inclusion; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the property owner of record has agreed to the proposed inclusion by amendment either in person at a public meeting or in writing.</text>
+            </para>
+          </para>
         </para>
         <para>
           <num>(c)</num>
@@ -8343,6 +8458,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-252" type="History">Ord. 19-252</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -8560,10 +8676,32 @@
         <prefix>§</prefix>
         <num>5-901</num>
         <heading>Purpose.</heading>
-        <text>A zoning verification is a document issued by the Zoning Administrator, at an applicant's request and for the applicant's own use, that states whether a property complies with the use regulations or bulk and yard regulations of the district in which it is located.  It is not required by this Code.</text>
+        <para>
+          <num>(a)</num>
+          <heading>In general</heading>
+          <text>A zoning verification is a document issued by the Zoning Administrator, at an applicant's request and for the applicant's own use, that:</text>
+          <para>
+            <num>(1)</num>
+            <text>states whether a property complies with the use regulations of the district in which it is located;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>states whether a property complies with the bulk and yard regulations of the district in which it is located; or</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>states whether a requested variance qualifies as a minor variance or as a major variance in the district in which the property is located.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Not required by Code</heading>
+          <text>A zoning verification is not required by this Code.</text>
+        </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -10865,82 +11003,23 @@
         </para>
         <para>
           <num>(b)</num>
-          <heading>Existing dwelling.</heading>
-          <para>
-            <num>(1)</num>
-            <text>The existing dwelling must be:</text>
-            <para>
-              <num>(i)</num>
-              <text>a structure originally constructed as a single-family dwelling; and</text>
-            </para>
-            <para>
-              <num>(ii)</num>
-              <text>1,500 square feet or more in gross floor area.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>For purposes of this subsection, gross floor area does not include any basement area.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <heading>GFA per dwelling unit.</heading>
-          <text>The converted dwelling must meet the following gross floor area per unit type:</text>
-          <text>
-            <table class="layout-table">
-              <tbody>
-                <tr>
-                  <td>
-                    <p class="text-indent-2"><span class="level-num">(1)</span> 1-bedroom unit:</p>
-                  </td>
-                  <td>
-                    <p>750 square feet.</p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p class="text-indent-2"><span class="level-num">(2)</span> 2-bedroom unit:</p>
-                  </td>
-                  <td>
-                    <p>1,000 square feet.</p>
-                  </td>
-                </tr>
-                <tr>
-                  <td>
-                    <p class="text-indent-2"><span class="level-num">(3)</span> 3- or more bedroom unit:</p>
-                  </td>
-                  <td>
-                    <p>1,250 square feet.</p>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </text>
-        </para>
-        <para>
-          <num>(d)</num>
           <heading>Bulk and yard regulations.</heading>
           <text>The dwelling must continue to conform to the applicable bulk and yard regulations, including lot area per dwelling unit, for the district in which the building is located.</text>
         </para>
         <para>
-          <num>(e)</num>
+          <num>(c)</num>
           <heading>Occupancy regulations.</heading>
           <text>No residential conversion may violate any dwelling unit occupancy regulations or restrictions of the City Code.</text>
         </para>
         <para>
-          <num>(f)</num>
-          <heading>Off-street parking.</heading>
-          <text>At least 1 off-street parking space must be provided for each dwelling unit.</text>
-        </para>
-        <para>
-          <num>(g)</num>
+          <num>(d)</num>
           <heading>Residential character.</heading>
           <text>Following the conversion, the exterior of the dwelling must retain its existing residential character.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -12231,11 +12310,12 @@
         <para>
           <num>(i)</num>
           <heading>Residential conversions.</heading>
-          <text>The conversion of a single-family dwelling to a multi-family dwelling is allowed in an OR Zoning District, subject to the requirements of § 9-702 {"Residential Conversions: Design review"} and § 9-703 {"Residential Conversions: Conversion standards"} of this Code.</text>
+          <text>The conversion of a single-family dwelling to a multi-family dwelling is allowed in an OR Zoning District, subject to the requirements of § 9-702 {"Residential Conversions: Design review"} of this Code.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
@@ -12355,11 +12435,12 @@
         <para>
           <num>(e)</num>
           <heading>Ingress and egress.</heading>
-          <text>Where feasible, ingress to and egress from parking must be from side streets or alleys.</text>
+          <text>Ingress to and egress from parking must be from side streets or alleys.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -16330,19 +16411,11 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>be on the interior of the property;</text>
+              <text>be on the interior of the property; and</text>
             </para>
             <para>
               <num>(iii)</num>
-              <text>be in the rear yard of the property;</text>
-            </para>
-            <para>
-              <num>(iv)</num>
-              <text>be on the deck above the ground floor; and</text>
-            </para>
-            <para>
-              <num>(v)</num>
-              <text>be on the roof of the property.</text>
+              <text>be in the rear yard of the property.</text>
             </para>
           </para>
           <para>
@@ -16358,29 +16431,50 @@
           <annotation doc="City of Balt., Md., Ord. 20-360" type="History">Ord. 20-360</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-370" type="History">Ord. 20-370</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>14-329</num>
-        <heading>Outdoor dining.</heading>
+        <heading>Outdoor dining and rooftop dining.</heading>
         <para>
           <num>(a)</num>
           <heading>Nature of use.</heading>
           <para>
             <num>(1)</num>
-            <text>Outdoor dining is considered an accessory use to a principal use and may be located on either the property for which the permit is approved or extend into the public rights-of-way immediately adjoining the building frontage or street corner side of the property.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>Rooftop dining is allowed in all non-residential zoning districts.</text>
+            <heading>Outdoor dining</heading>
             <para>
               <num>(i)</num>
-              <text>Rooftop dining is a permitted use in all non-residential zoning districts, except in the C-1, C-1-VC, and C-2 zoning districts.</text>
+              <text>Outdoor dining is considered an accessory use to a principal use and may be located on either the property for which the permit is approved or extend into the public rights of way immediately adjoining the building frontage or street corner side of the property.</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>Outdoor dining in a C-1, C-1-V, or C-2 zoning district requires approval as a conditional use by the Board of Municipal and Zoning Appeals.</text>
+              <text>Outdoor dining on the property for which the permit is approved in a C-1, C-1-E, C-1-VC, or C-2 zoning district requires approval as a conditional use by the Board of Municipal and Zoning Appeals:</text>
+              <para>
+                <num>(A)</num>
+                <text>where it adjoins a residential zoning district on the side in which the outdoor dining is proposed; and</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>where it is separated from the residential district by an alley or street of less than 20 feet in width on the side in which the outdoor dining is proposed, or if no alley or street is present.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Rooftop dining.</heading>
+            <para>
+              <num>(i)</num>
+              <text>Rooftop dining is allowed in all non-residential zoning districts.</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>Rooftop dining is a permitted use in all non residential zoning districts, except in the C-1, C-1-E, C-1-VC, or C-2 zoning districts.</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>Rooftop dining in a C-1, C-1-E, C-1-VC, or C-2 zoning district requires approval as a conditional use by the Board of Municipal and Zoning Appeals.</text>
             </para>
           </para>
           <para>
@@ -16458,6 +16552,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -18099,6 +18194,56 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
         </annotations>
       </section>
+      <section>
+        <prefix>§</prefix>
+        <num>15-203</num>
+        <heading>Number of structures on a lot.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>Except in a planned unit development or as authorized in subsection (b) of this section:</text>
+          <para>
+            <num>(1)</num>
+            <text>no more than 1 principal detached structure may be located on:</text>
+            <para>
+              <num>(i)</num>
+              <text>any residential lot; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any lot adjacent to a residential lot; and</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>no principal detached structure or any other free-standing structure may be located with any other principal structure on the same:</text>
+            <para>
+              <num>(i)</num>
+              <text>residential lot, except as specified in <cite path="32|§1-210">§ 1-210</cite> {"Use and site development standards"} or <cite path="32-§15-601">§ 15-601</cite> {"Permitted projections and obstructions into required yards"}; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any lot adjacent to a residential lot.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Exceptions.</heading>
+          <text>Notwithstanding subsection (a) of this section, the Zoning Administrator shall approve the construction of more than 1 principal detached structure or other free-standing structure on a residential lot or any lot adjacent to a residential lot, if:</text>
+          <para>
+            <num>(1)</num>
+            <text>the development otherwise would conform to the requirements of this Article; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>the requirements of site plan review and design review are met.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
+        </annotations>
+      </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
@@ -19593,23 +19738,34 @@
           <heading>Computation standards.</heading>
           <para>
             <num>(1)</num>
+            <heading>In general.</heading>
             <text>In computing the number of off-street parking, loading, or bicycle spaces required by this title, the following standards of computation apply.</text>
           </para>
           <para>
             <num>(2)</num>
+            <heading>Fractions - How to compute.</heading>
             <text>A fraction of less than one-half may be disregarded, and a fraction of one-half or more is counted as 1 parking or loading space.</text>
           </para>
           <para>
             <num>(3)</num>
+            <heading>Places of assembly.</heading>
             <text>In places of assembly in which patrons or spectators occupy benches, pews or similar seating facilities, each 24 inches of the seating facility is counted as 1 seat for the purpose of determining the requirement for off-street parking facilities.  Floor area of a prayer hall is counted as one 1 seat per marked prayer mat space or, if prayer mat spaces are not marked, 1 seat for every 5 square feet in the prayer hall.</text>
           </para>
           <para>
             <num>(4)</num>
+            <heading>Employee basis.</heading>
             <text>Except as otherwise specified, parking or loading spaces required on an employee basis is based on the maximum number of employees normally present on the premises at any one time.  If the determination of the number of parking spaces is based on the number of employees, the owner and the manager are counted as employee.</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <heading>Self-zoned property.</heading>
+            <text>The number of required off-street parking, loading, or bicycle spaces required by this Title shall be calculated for a property that is split between 2 zoning districts on a ratio basis where the percent of the property within a zoning district that requires parking is multiplied against the applicable parking requirement to yield a proportional number of required parking spaces.</text>
+            <text>Example: If a property is 40% C-1 and 60% R-8, then 60% of the total parking required by land use shall be provided.</text>
           </para>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -20164,7 +20320,13 @@
           <heading>Exemptions within certain districts.</heading>
           <para>
             <num>(1)</num>
-            <text>The districts included in this paragraph are exempt from parking requirements:</text>
+            <heading>Residential uses.</heading>
+            <text>All residential uses in any zoning district with up to and including 3 dwelling units are exempt from off-street parking requirements.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Commercial districts.</heading>
+            <text>The commercial districts included in this paragraph are exempt from off-street parking requirements:</text>
             <para>
               <num>(i)</num>
               <text>C-1;</text>
@@ -20199,42 +20361,41 @@
             </para>
             <para>
               <num>(ix)</num>
-              <text>C-5-HS;</text>
+              <text>C-5-HS; and</text>
             </para>
             <para>
               <num>(x)</num>
-              <text>C-5-G;</text>
+              <text>C-5-G.</text>
             </para>
+          </para>
+          <para>
+            <num>(3)</num>
+            <heading>Overlay districts</heading>
+            <text>The overlay districts included in this paragraph are exempt from off-street parking requirements:</text>
             <para>
-              <num>(xi)</num>
+              <num>(i)</num>
               <text>Harford Road Overlay District;</text>
             </para>
             <para>
-              <num>(xii)</num>
+              <num>(ii)</num>
               <text>R-MU Overlay District (non-residential uses); and</text>
             </para>
             <para>
-              <num>(xiii)</num>
+              <num>(iii)</num>
               <text>D-MU Overlay District (non-residential uses).</text>
             </para>
           </para>
           <para>
-            <num>(2)</num>
+            <num>(4)</num>
+            <heading>PC Subdistricts.</heading>
+            <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of Table 16-406: Required Off-Street Parking:</text>
             <para>
               <num>(i)</num>
-              <text>In the PC Subdistricts, the following uses are exempt from the off-street parking requirements of <em>Table 16-406: Required Off-Street Parking</em>:</text>
-              <para>
-                <num>(A)</num>
-                <text>open-space uses (except for recreational marinas); and</text>
-              </para>
-              <para>
-                <num>(B)</num>
-                <text>commercial uses with a gross floor area of less than 25,000 square feet.</text>
-              </para>
+              <text>open-space uses (except for recreational marinas); and</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>The commercial-use exemption applies to any commercial use with a gross floor area of less than 25,000 square feet, even if there are other commercial uses located on the same lot.</text>
+              <text>commercial uses with a gross floor area of less than 25,000 square feet, even if there are other commercial uses located on the same lot.</text>
             </para>
           </para>
         </para>
@@ -20341,6 +20502,7 @@
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
           <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-332" eff="2024-05-24" path="§1" type="History"/>
           <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-436" eff="2025-01-01" path="§1" type="History"/>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -23848,11 +24010,11 @@
             <text>permits, ordinances, the Police Survey of 1931, or other records on file with the Zoning Administrator:</text>
             <para>
               <num>(i)</num>
-              <text>document the existence of a lawful nonconforming use, nonconforming density, or other nonconformance; and</text>
+              <text>document the existence of a continuing and uninterrupted lawful nonconforming use; or</text>
             </para>
             <para>
               <num>(ii)</num>
-              <text>clearly show its continued and uninterrupted use to the date of inquiry or application; and</text>
+              <text>document the existence of a lawful nonconforming density, or other nonconformance; and</text>
             </para>
           </para>
           <para>
@@ -23863,6 +24025,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -24264,10 +24427,19 @@
         <prefix>§</prefix>
         <num>18-403</num>
         <heading>Expansion of structure.</heading>
-        <text>A nonconforming structure may not be expanded if the expansion would, create a new nonconformity or increase the degree of any nonconformity.</text>
+        <text>A nonconforming structure may be expanded under:</text>
+        <para>
+          <num>(1)</num>
+          <text>Title 5, Subtitle 3 {"Variances"} of this Code; or</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>§ 18-411 {"Exceptions - Administrative bulk adjustments"} of this Code.</text>
+        </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -24491,21 +24663,8 @@
         </para>
         <para>
           <num>(b)</num>
-          <heading>Discontinuance of dwelling unit.</heading>
-          <text>Whenever the active and continuous use of a dwelling unit in a nonconforming multi-family structure subject to this section has been discontinued for 12 consecutive months:</text>
-          <para>
-            <num>(1)</num>
-            <text>the discontinuance constitutes an abandonment of that dwelling unit, regardless of any reservation of an intent to resume active use of or to reoccupy the unit or otherwise not to abandon it; and</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>the number of dwelling units allowed to continue in the structure is reduced by 1.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
           <heading>Abandonment of dwelling unit.</heading>
-          <text>If, at any time, actual abandonment is in fact is evidenced by removal of plumbing or kitchen facilities, by alterations that indicate an abandonment of any nonconforming dwelling unit, including consolidation with another dwelling unit, or by the issuance of a use permit for fewer dwelling units:</text>
+          <text>If, at any time, actual abandonment is evidenced by the issuance of a use permit for fewer dwelling units:</text>
           <para>
             <num>(1)</num>
             <text>that action constitutes an abandonment of the dwelling unit;</text>
@@ -24520,7 +24679,7 @@
           </para>
         </para>
         <para>
-          <num>(d)</num>
+          <num>(c)</num>
           <heading>Exceptions.</heading>
           <text>This section does not apply to § 18-306(c) {"Change of use . . . Reversion prohibited."} of this Code.</text>
         </para>
@@ -24528,6 +24687,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+          <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
         </annotations>
       </section>
       <section>
@@ -28111,6 +28271,7 @@
       <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
       <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
       <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-280" eff="2024-01-03" path="§1" type="History"/>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
@@ -28153,7 +28314,7 @@
               <td>200 sq.ft/du</td>
               <td>120 sq.ft/du</td>
               <td>120 sq.ft/du</td>
-              <td>120 sq.ft/du</td>
+              <td>None</td>
             </tr>
             <tr>
               <td>Rooming House</td>
@@ -28174,7 +28335,7 @@
               <td>None</td>
             </tr>
             <tr>
-              <th colspan="7">Maximum Lot Area</th>
+              <th colspan="7">Maximum Gross Floor Area by Use</th>
             </tr>
             <tr>
               <td>Restaurant</td>
@@ -28187,7 +28348,7 @@
             </tr>
             <tr>
               <td>Retail Goods Establishment (Food Store)</td>
-              <td>20,000 sq. ft.</td>
+              <td>10,000 sq. ft.</td>
               <td>15,000 sq. ft.</td>
               <td>20,000 sq. ft.</td>
               <td>None</td>
@@ -28317,10 +28478,10 @@
             </tr>
             <tr>
               <td>All Uses</td>
-              <td>If rear yard abuts an alley: None. Otherwise: 20 ft.</td>
+              <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
               <td>30 feet</td>
-              <td>If rear yard abuts an alley: None. Otherwise: 20 ft.</td>
-              <td>If rear yard abuts an alley: None. Otherwise: 20 ft.</td>
+              <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
+              <td>If rear yard abuts a street or an alley: None. Otherwise: 20 ft.</td>
               <td>20 feet</td>
               <td>20 feet</td>
             </tr>
@@ -28338,12 +28499,11 @@
           </tfoot>
         </table>
       </text>
-      <annotations>
-        <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-        <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
-        <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
-        <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
-      </annotations>
+      <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+      <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+      <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
+      <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment name="10-401~C-5">
       <prefix>Table</prefix>
@@ -29565,6 +29725,7 @@
       <annotation doc="City of Balt., Md., Ord. 19-261" type="History">Ord. 19-261</annotation>
       <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
       <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-280" eff="2024-01-03" path="§1" type="History"/>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
@@ -29833,9 +29994,24 @@
               <th colspan="3">Commercial</th>
             </tr>
             <tr>
+              <td>Art Gallery</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-328</td>
+            </tr>
+            <tr>
+              <td>Art Studio</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-328</td>
+            </tr>
+            <tr>
               <td>Broadcasting Station (TV or Radio)</td>
               <td>CB</td>
               <td/>
+            </tr>
+            <tr>
+              <td>Day Care Centers: Adult or Child</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-309</td>
             </tr>
             <tr>
               <td>Farmers Market</td>
@@ -29853,14 +30029,24 @@
               <td>Per § 14-320</td>
             </tr>
             <tr>
-              <td>Neighborhood Commercial Establishment <sup><strong>1</strong></sup></td>
-              <td>CB, P</td>
-              <td>Per § 14-328</td>
-            </tr>
-            <tr>
               <td>Office</td>
               <td>P</td>
               <td/>
+            </tr>
+            <tr>
+              <td>Personal Services Establishment</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-328</td>
+            </tr>
+            <tr>
+              <td>Restaurant</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-328</td>
+            </tr>
+            <tr>
+              <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
+              <td>CB, P<sup><strong>1</strong></sup></td>
+              <td>Per § 14-328</td>
             </tr>
             <tr>
               <th colspan="3">Other</th>
@@ -29899,7 +30085,7 @@
           <tfoot>
             <tr>
               <td colspan="3">
-                <p><sup><strong>1</strong></sup> A Neighborhood Commercial Establishment is a permitted use only if: (i) the structure has 50 or more dwelling units; and (ii) non-residential uses are limited to 10% of the structure's gross floor area.</p>
+                <p><sup><strong>1</strong></sup> Thes are permitted uses only if: (i) the structure has 50 or more dwelling units; and (ii) non-residential uses are limited to 10% of the structure's gross floor area.</p>
                 <p><sup><strong>2</strong></sup> Only telecommunications base stations that comply with the stealth design standards of § 14-338 are considered permitted uses.</p>
                 <p><sup><strong>3 </strong></sup>Only Wireless Communication Services that are modifications to – and do not substantially change the physical dimension of – an existing telecommunications facility, are considered permitted uses.</p>
               </td>
@@ -29907,11 +30093,10 @@
           </tfoot>
         </table>
       </text>
-      <annotations>
-        <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-        <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
-        <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
-      </annotations>
+      <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+      <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+      <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
@@ -30407,11 +30592,18 @@
           </tfoot>
         </table>
       </text>
+      <annotations>
+        <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+        <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+        <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
+        <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+      </annotations>
       <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
       <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
       <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
       <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
       <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-280" eff="2024-01-03" path="§1" type="History"/>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
@@ -32590,9 +32782,9 @@
               <td>Dwelling: Rowhouse</td>
               <td>P</td>
               <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td/>
               <td/>
             </tr>
             <tr>
@@ -32609,25 +32801,25 @@
             </tr>
             <tr>
               <td>Community Center</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
               <td>P</td>
               <td/>
             </tr>
             <tr>
               <td>Cultural Facility</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
               <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
               <td>Per § 14-308</td>
             </tr>
             <tr>
               <td>Place of Worship</td>
-              <td>CB</td>
+              <td>P</td>
               <td>CB</td>
               <td>CB</td>
               <td>CB</td>
@@ -32639,11 +32831,11 @@
             </tr>
             <tr>
               <td>Community-Managed Open-Space Farm</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
               <td>Per § 14-307</td>
             </tr>
             <tr>
@@ -32666,10 +32858,10 @@
             </tr>
             <tr>
               <td>Urban Agriculture</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
+              <td>CB</td>
               <td>P</td>
               <td>Per § 14-339</td>
             </tr>
@@ -32692,7 +32884,7 @@
               <td>P</td>
               <td>P</td>
               <td>P</td>
-              <td>P</td>
+              <td/>
             </tr>
             <tr>
               <td>Arts Studio: Industrial</td>
@@ -32723,8 +32915,8 @@
             </tr>
             <tr>
               <td>Day-Care Center: Adult or Child</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td>CB</td>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32732,8 +32924,8 @@
             </tr>
             <tr>
               <td>Entertainment: Indoor</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td>CB</td>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32741,16 +32933,16 @@
             </tr>
             <tr>
               <td>Entertainment: Live</td>
+              <td/>
+              <td/>
+              <td/>
               <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td>CB</td>
               <td>Per § 14-319</td>
             </tr>
             <tr>
               <td>Financial Institution</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32759,7 +32951,7 @@
             </tr>
             <tr>
               <td>Greenhouse or Nursery</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32769,7 +32961,7 @@
             <tr>
               <td>Health-Care Clinic</td>
               <td>P</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32777,7 +32969,7 @@
             </tr>
             <tr>
               <td>Health and Fitness Center</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32786,7 +32978,7 @@
             </tr>
             <tr>
               <td>Hotel or Motel</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32795,11 +32987,11 @@
             </tr>
             <tr>
               <td>Kennel</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td/>
+              <td/>
+              <td>CB</td>
+              <td>CB</td>
               <td>Per § 14-317</td>
             </tr>
             <tr>
@@ -32867,7 +33059,7 @@
             </tr>
             <tr>
               <td>Retail Goods Establishment (With Alcoholic Beverages Sales)</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32888,16 +33080,16 @@
             </tr>
             <tr>
               <td>Alternative Energy System: Commercial</td>
-              <td>CB</td>
-              <td>CB</td>
-              <td>CB</td>
-              <td>CB</td>
-              <td>CB</td>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
+              <td>P</td>
               <td/>
             </tr>
             <tr>
               <td>Food Processing: Light</td>
-              <td>P</td>
+              <td>CB</td>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32906,26 +33098,26 @@
             </tr>
             <tr>
               <td>Industrial: Light</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
               <td>P</td>
               <td/>
             </tr>
             <tr>
               <td>Movie Studio</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
               <td>P</td>
               <td/>
             </tr>
             <tr>
               <td>Printing Establishment</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32933,10 +33125,10 @@
             </tr>
             <tr>
               <td>Research and Development Facility</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
-              <td>P</td>
+              <td/>
+              <td/>
+              <td/>
+              <td/>
               <td>P</td>
               <td/>
             </tr>
@@ -32945,7 +33137,7 @@
             </tr>
             <tr>
               <td>Alternative Energy System: Community-Based</td>
-              <td>P</td>
+              <td/>
               <td>P</td>
               <td>P</td>
               <td>P</td>
@@ -32963,7 +33155,7 @@
             </tr>
             <tr>
               <td>Telecommunications Facility<sup><strong>1</strong></sup>
-            </td>
+              </td>
               <td>CB, P</td>
               <td>CB, P</td>
               <td>CB, P</td>
@@ -32982,7 +33174,7 @@
             </tr>
             <tr>
               <td>Wireless Communications Services<sup><strong>2</strong></sup>
-          </td>
+            </td>
               <td>CB, P</td>
               <td>CB, P</td>
               <td>CB, P</td>
@@ -33002,6 +33194,7 @@
         </table>
       </text>
       <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-436" eff="2025-01-01" path="§1" type="History"/>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
@@ -33115,10 +33308,10 @@
               <td>x</td>
             </tr>
             <tr>
-              <td>Fence or wall (Front or corner-side yard) – No more than 3.5' high</td>
+              <td>Fence or wall (Front or corner-side yard) – No more than 4' high</td>
               <td>x</td>
-              <td/>
-              <td/>
+              <td>x</td>
+              <td>x</td>
             </tr>
             <tr>
               <td>Fence or wall (Rear or interior-side yard) – No more than 6' high</td>
@@ -33312,12 +33505,11 @@
           </tbody>
         </table>
       </text>
-      <annotations>
-        <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
-        <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
-        <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
-        <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
-      </annotations>
+      <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
+      <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
+      <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
+      <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+      <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" type="History"/>
     </attachment>
     <attachment>
       <prefix>Table</prefix>
