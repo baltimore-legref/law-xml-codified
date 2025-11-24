@@ -21,14 +21,14 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="1|§41-14" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14" codified:citation=" Article 1, § 41-14" codified:display="Amend">
+    <codify:replace path="1|§41-14" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14">
       <section>
         <prefix>§</prefix>
         <num>41-14</num>
         <heading>Offenses to which subtitle applies – Listing.</heading>
         <para>
           <num>(.25)</num>
-          <heading><cite path="|1">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</heading>
+          <heading><cite path="|1" doc="City of Balt., Md., Ord. 25-013">Article 1</cite>.  Mayor, City Council, and Municipal Agencies</heading>
           <text>
             <table>
               <tbody>
@@ -59,7 +59,7 @@
           <num>(.5)</num>
           <text>
             <strong>
-              <em><cite path="|2">Article 2</cite>  Consumer Protections</em>
+              <em><cite path="|2" doc="City of Balt., Md., Ord. 25-013">Article 2</cite>  Consumer Protections</em>
             </strong>
           </text>
           <text>
@@ -105,7 +105,7 @@
         </para>
         <para>
           <num>(.5a)</num>
-          <heading><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</heading>
+          <heading><cite path="|5" doc="City of Balt., Md., Ord. 25-013">Article 5</cite>.  Finance, Property, and Procurement</heading>
           <text>
             <table>
               <tbody>
@@ -119,7 +119,7 @@
         </para>
         <para>
           <num>(.5b)</num>
-          <heading><cite path="|7">Article 7</cite>.  Natural Resources</heading>
+          <heading><cite path="|7" doc="City of Balt., Md., Ord. 25-013">Article 7</cite>.  Natural Resources</heading>
           <text>
             <table>
               <tbody>
@@ -133,7 +133,7 @@
         </para>
         <para>
           <num>(1)</num>
-          <heading><cite path="|15">Article 15</cite>.  Licensing and Regulation</heading>
+          <heading><cite path="|15" doc="City of Balt., Md., Ord. 25-013">Article 15</cite>.  Licensing and Regulation</heading>
           <text>
             <table>
               <tbody>
@@ -167,7 +167,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <heading><cite path="|19">Article 19</cite>.  Police Ordinances</heading>
+          <heading><cite path="|19" doc="City of Balt., Md., Ord. 25-013">Article 19</cite>.  Police Ordinances</heading>
           <text>
             <table>
               <tbody>
@@ -371,7 +371,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading><cite path="|24">Article 24</cite>.  Water</heading>
+          <heading><cite path="|24" doc="City of Balt., Md., Ord. 25-013">Article 24</cite>.  Water</heading>
           <text>
             <table>
               <tbody>
@@ -444,7 +444,7 @@
         </para>
         <para>
           <num>(3a)</num>
-          <heading><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</heading>
+          <heading><cite path="|26" doc="City of Balt., Md., Ord. 25-013">Article 26</cite>.  Surveys, Streets, and Highways</heading>
           <text>
             <table>
               <tbody>
@@ -458,7 +458,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <heading><cite path="|31">Article 31</cite>.  Transit and Traffic</heading>
+          <heading><cite path="|31" doc="City of Balt., Md., Ord. 25-013">Article 31</cite>.  Transit and Traffic</heading>
           <text>
             <table>
               <tbody>
@@ -584,7 +584,7 @@
         </para>
         <para>
           <num>(4a)</num>
-          <heading><cite path="|32">Article 32</cite>.  Zoning</heading>
+          <heading><cite path="|32" doc="City of Balt., Md., Ord. 25-013">Article 32</cite>.  Zoning</heading>
           <text>
             <table>
               <tbody>
@@ -598,7 +598,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <heading><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed">Fire Code</cite></heading>
+          <heading><cite path="|building-codes" proof="needed" doc="City of Balt., Md., Ord. 25-013">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII" proof="needed" doc="City of Balt., Md., Ord. 25-013">Fire Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -636,7 +636,7 @@
         </para>
         <para>
           <num>(5a)</num>
-          <heading><cite path="|building-codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VII" proof="needed">Property Maintenance Code</cite></heading>
+          <heading><cite path="|building-codes" proof="needed" doc="City of Balt., Md., Ord. 25-013">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VII" proof="needed" doc="City of Balt., Md., Ord. 25-013">Property Maintenance Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -938,7 +938,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="1" after="41" codified:doc="City of Baltimore, Md., Code" codified:path="1|§42-1|annos" codified:citation=" Article 1, § 42-1" codified:display="New">
+    <codify:insert path="1" after="41" codified:doc="City of Baltimore, Md., Code" codified:path="1|§42-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>42</num>
@@ -1787,28 +1787,28 @@
         </container>
       </container>
     </codify:insert>
-    <codify:replace path="1|42to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to48" codified:citation=" Article 1, Subtitles 43 to 48" codified:display="Amend">
+    <codify:replace path="1|42to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to48">
       <container name="43to48">
         <prefix>Subtitles</prefix>
         <num>43 to 48</num>
         <reason>Reserved</reason>
       </container>
     </codify:replace>
-    <codify:replace path="2|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-1" codified:citation=" Article 2, § 1-1" codified:display="Amend">
+    <codify:replace path="2|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-1">
       <section>
         <prefix>§</prefix>
         <num>1-1</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace path="2|§1-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-2" codified:citation=" Article 2, § 1-2" codified:display="Amend">
+    <codify:replace path="2|§1-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-2">
       <section>
         <prefix>§</prefix>
         <num>1-2</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace path="2|§1-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-4" codified:citation=" Article 2, § 1-4" codified:display="Amend">
+    <codify:replace path="2|§1-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-4">
       <section>
         <prefix>§</prefix>
         <num>1-4</num>
@@ -1825,7 +1825,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§1-6" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-6" codified:citation=" Article 2, § 1-6" codified:display="Amend">
+    <codify:replace path="2|§1-6" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-6">
       <section>
         <prefix>§</prefix>
         <num>1-6</num>
@@ -1833,7 +1833,7 @@
         <text>Within 30 days of his appointment, and upon any change thereafter, every auctioneer shall deposit with the Director of the Department of Consumer Protection and Business Licensing the names of all officers, associates, partners, or employees designated by him to conduct auction sales.</text>
       </section>
     </codify:replace>
-    <codify:replace path="2|§1-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-8" codified:citation=" Article 2, § 1-8" codified:display="Amend">
+    <codify:replace path="2|§1-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-8">
       <section>
         <prefix>§</prefix>
         <num>1-8</num>
@@ -1862,7 +1862,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§1-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-9|(a)" codified:citation=" Article 2, § 1-9" codified:display="Amend">
+    <codify:replace path="2|§1-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-9|(a)">
       <para>
         <num>(a)</num>
         <heading>Fee; term.</heading>
@@ -1880,14 +1880,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§1-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-11|(a)" codified:citation=" Article 2, § 1-11" codified:display="Amend">
+    <codify:replace path="2|§1-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-11|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>On timely notice and hearing by the Board of Consumer Protection and Business Licensing, and receipt of the Board's recommendation, the Director of the Department of Consumer Protection and Business Licensing may suspend or revoke the license of any auctioneer for any violation of this subtitle for which a civil liability or criminal penalty may be imposed.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§1-18" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-18" codified:citation=" Article 2, § 1-18" codified:display="Amend">
+    <codify:replace path="2|§1-18" codified:doc="City of Baltimore, Md., Code" codified:path="2|§1-18">
       <section>
         <prefix>§</prefix>
         <num>1-18</num>
@@ -2038,29 +2038,29 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§6-1|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§6-1|(e)" codified:citation=" Article 2, § 6-1" codified:display="Amend">
+    <codify:replace path="2|§6-1|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§6-1|(e)">
       <para>
         <num>(e)</num>
         <heading>Licensor.</heading>
         <text>"Licensor" shall mean the Director of the Department of Consumer Protection and Business Licensing of Baltimore City.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§6-11|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§6-11|(c)" codified:citation=" Article 2, § 6-11" codified:display="Amend">
+    <codify:replace path="2|§6-11|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§6-11|(c)">
       <para>
         <num>(c)</num>
         <heading>Renewal fee.</heading>
         <text>The fee for this renewal of license shall be $50 payable to the Director of Finance.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§7-3" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-3" codified:citation=" Article 2, § 7-3" codified:display="Amend">
+    <codify:replace path="2|§7-3" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-3">
       <section>
         <prefix>§</prefix>
         <num>7-3</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing in consultation with the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing in consultation with the Police Commissioner may adopt rules and regulations to carry out this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="2|§7-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-4" codified:citation=" Article 2, § 7-4" codified:display="Amend">
+    <codify:replace path="2|§7-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-4">
       <section>
         <prefix>§</prefix>
         <num>7-4</num>
@@ -2076,7 +2076,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§7-5" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-5" codified:citation=" Article 2, § 7-5" codified:display="Amend">
+    <codify:replace path="2|§7-5" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-5">
       <section>
         <prefix>§</prefix>
         <num>7-5</num>
@@ -2120,7 +2120,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§7-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-8" codified:citation=" Article 2, § 7-8" codified:display="Amend">
+    <codify:replace path="2|§7-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-8">
       <section>
         <prefix>§</prefix>
         <num>7-8</num>
@@ -2144,7 +2144,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§7-9|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-9|(b)" codified:citation=" Article 2, § 7-9" codified:display="Amend">
+    <codify:replace path="2|§7-9|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§7-9|(b)">
       <para>
         <num>(b)</num>
         <heading>Hours — Special permissions.</heading>
@@ -2159,15 +2159,15 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§8-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-2" codified:citation=" Article 2, § 8-2" codified:display="Amend">
+    <codify:replace path="2|§8-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-2">
       <section>
         <prefix>§</prefix>
         <num>8-2</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of the Department of Consumer Protection and Business Licensing may adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director of the Department of Consumer Protection and Business Licensing may adopt rules and regulations to carry out this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="2|§8-6" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-6" codified:citation=" Article 2, § 8-6" codified:display="Amend">
+    <codify:replace path="2|§8-6" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-6">
       <section>
         <prefix>§</prefix>
         <num>8-6</num>
@@ -2183,7 +2183,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§8-7" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-7" codified:citation=" Article 2, § 8-7" codified:display="Amend">
+    <codify:replace path="2|§8-7" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-7">
       <section>
         <prefix>§</prefix>
         <num>8-7</num>
@@ -2199,14 +2199,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§8-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-8|(a)" codified:citation=" Article 2, § 8-8" codified:display="Amend">
+    <codify:replace path="2|§8-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-8|(a)">
       <para>
         <num>(a)</num>
         <heading>Amount.</heading>
         <text>The application fee and annual license fee for each place of business are as set by the Department of Consumer Protection and Business Licensing, with the approval of the Board of Estimates.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§8-11" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-11" codified:citation=" Article 2, § 8-11" codified:display="Amend">
+    <codify:replace path="2|§8-11" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-11">
       <section>
         <prefix>§</prefix>
         <num>8-11</num>
@@ -2242,7 +2242,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§8-12" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-12" codified:citation=" Article 2, § 8-12" codified:display="Amend">
+    <codify:replace path="2|§8-12" codified:doc="City of Baltimore, Md., Code" codified:path="2|§8-12">
       <section>
         <prefix>§</prefix>
         <num>8-12</num>
@@ -2250,7 +2250,7 @@
         <para>
           <num>(a)</num>
           <heading>Judicial review.</heading>
-          <text>A person aggrieved by a decision of the Department of Consumer Protection and Business Licensing under <cite path="|2|§8-11">§ 8-11 {"Denial, suspension, etc., of license"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
+          <text>A person aggrieved by a decision of the Department of Consumer Protection and Business Licensing under <cite path="|2|§8-11" doc="City of Balt., Md., Ord. 25-013">§ 8-11 {"Denial, suspension, etc., of license"} of this subtitle</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -2259,7 +2259,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§10-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-2" codified:citation=" Article 2, § 10-2" codified:display="Amend">
+    <codify:replace path="2|§10-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-2">
       <section>
         <prefix>§</prefix>
         <num>10-2</num>
@@ -2307,7 +2307,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§10-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8|(a)" codified:citation=" Article 2, § 10-8" codified:display="Amend">
+    <codify:replace path="2|§10-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8|(a)">
       <para>
         <num>(a)</num>
         <text>
@@ -2327,7 +2327,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§11-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-2" codified:citation=" Article 2, § 11-2" codified:display="Amend">
+    <codify:replace path="2|§11-2" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-2">
       <section>
         <prefix>§</prefix>
         <num>11-2</num>
@@ -2351,7 +2351,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>The annual license fee shall be collectible pursuant to <cite path="|15">Article 15</cite>, Subtitles 46 and 47 of the City Code.</text>
+            <text>The annual license fee shall be collectible pursuant to <cite path="|15" doc="City of Balt., Md., Ord. 25-013">Article 15</cite>, Subtitles 46 and 47 of the City Code.</text>
           </para>
         </para>
         <para>
@@ -2366,7 +2366,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§11-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-3|(a)" codified:citation=" Article 2, § 11-3" codified:display="Amend">
+    <codify:replace path="2|§11-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-3|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -2380,7 +2380,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§11-6|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-6|(a)" codified:citation=" Article 2, § 11-6" codified:display="Amend">
+    <codify:replace path="2|§11-6|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-6|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -2390,11 +2390,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The pawnbroker shall forward the daily report to the Police Department and the Department of Consumer Protection and Business Licensing, as provided in <cite path="|2|§11-7">§ 11-7 of this subtitle</cite>.</text>
+          <text>The pawnbroker shall forward the daily report to the Police Department and the Department of Consumer Protection and Business Licensing, as provided in <cite path="|2|§11-7" doc="City of Balt., Md., Ord. 25-013">§ 11-7 of this subtitle</cite>.</text>
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§11-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-7|(a)" codified:citation=" Article 2, § 11-7" codified:display="Amend">
+    <codify:replace path="2|§11-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-7|(a)">
       <para>
         <num>(a)</num>
         <heading>How.</heading>
@@ -2409,14 +2409,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§11-12|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-12|(a)" codified:citation=" Article 2, § 11-12" codified:display="Amend">
+    <codify:replace path="2|§11-12|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-12|(a)">
       <para>
         <num>(a)</num>
         <heading>Dealer to allow inspection.</heading>
         <text>A pawnbroker shall allow an authorized law enforcement officer or a special enforcement officer, as defined in City Code Article 19 § 71-1 {"Appointment; Duties"}, on request to enter the place of business or storage premises of the dealer during business hours to inspect a record of transactions and/or items as part of an investigation of stolen property.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§11-17" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-17" codified:citation=" Article 2, § 11-17" codified:display="Amend">
+    <codify:replace path="2|§11-17" codified:doc="City of Baltimore, Md., Code" codified:path="2|§11-17">
       <section>
         <prefix>§</prefix>
         <num>11-17</num>
@@ -2424,14 +2424,14 @@
         <text>The license of any pawnbroker who has violated 2 or more provisions of this subtitle within a 12-month period may be suspended or revoked by the Director of the Department of Consumer Protection and Business Licensing if there appears to him sufficient cause for so doing.</text>
       </section>
     </codify:replace>
-    <codify:replace path="2|§12-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-3|(b)" codified:citation=" Article 2, § 12-3" codified:display="Amend">
+    <codify:replace path="2|§12-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-3|(b)">
       <para>
         <num>(b)</num>
         <heading>Director of Consumer Protection and Business Licensing to issue.</heading>
         <text>The license shall be issued by the Director of the Department of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§12-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-4" codified:citation=" Article 2, § 12-4" codified:display="Amend">
+    <codify:replace path="2|§12-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-4">
       <section>
         <prefix>§</prefix>
         <num>12-4</num>
@@ -2472,7 +2472,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§12-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-7|(a)" codified:citation=" Article 2, § 12-7" codified:display="Amend">
+    <codify:replace path="2|§12-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-7|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -2482,11 +2482,11 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The dealer shall forward the daily report to the Police Department and Department of Consumer Protection and Business Licensing, as provided in <cite path="|2|§12-8">§ 12-8 of this subtitle</cite>.</text>
+          <text>The dealer shall forward the daily report to the Police Department and Department of Consumer Protection and Business Licensing, as provided in <cite path="|2|§12-8" doc="City of Balt., Md., Ord. 25-013">§ 12-8 of this subtitle</cite>.</text>
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§12-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-8|(a)" codified:citation=" Article 2, § 12-8" codified:display="Amend">
+    <codify:replace path="2|§12-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-8|(a)">
       <para>
         <num>(a)</num>
         <heading>How.</heading>
@@ -2501,7 +2501,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§12-12" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-12" codified:citation=" Article 2, § 12-12" codified:display="Amend">
+    <codify:replace path="2|§12-12" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-12">
       <section>
         <prefix>§</prefix>
         <num>12-12</num>
@@ -2517,7 +2517,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§12-13|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-13|(a)" codified:citation=" Article 2, § 12-13" codified:display="Amend">
+    <codify:replace path="2|§12-13|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-13|(a)">
       <para>
         <num>(a)</num>
         <heading>Dealer to allow inspection.</heading>
@@ -2532,15 +2532,15 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="2|§12-15" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-15" codified:citation=" Article 2, § 12-15" codified:display="Amend">
+    <codify:replace path="2|§12-15" codified:doc="City of Baltimore, Md., Code" codified:path="2|§12-15">
       <section>
         <prefix>§</prefix>
         <num>12-15</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Police Commissioner, in consultation with the Director of Consumer Protection and Business Licensing may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Police Commissioner, in consultation with the Director of Consumer Protection and Business Licensing may adopt rules and regulations to implement this subtitle and shall make these rules and regulations available to dealers and the general public.</text>
       </section>
     </codify:replace>
-    <codify:replace path="8|§7-8" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8" codified:citation=" Article 8, § 7-8" codified:display="Amend">
+    <codify:replace path="8|§7-8" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8">
       <section>
         <prefix>§</prefix>
         <num>7-8</num>
@@ -3486,14 +3486,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-1|(b)" codified:citation=" Article 13, § 13-1" codified:display="Amend">
+    <codify:replace path="13|§13-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-1|(b)">
       <para>
         <num>(b)</num>
         <heading>Director.</heading>
         <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
       </para>
     </codify:replace>
-    <codify:replace path="13|§13-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-3" codified:citation=" Article 13, § 13-3" codified:display="Amend">
+    <codify:replace path="13|§13-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-3">
       <section>
         <prefix>§</prefix>
         <num>13-3</num>
@@ -3509,7 +3509,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-5" codified:citation=" Article 13, § 13-5" codified:display="Amend">
+    <codify:replace path="13|§13-5" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-5">
       <section>
         <prefix>§</prefix>
         <num>13-5</num>
@@ -3528,7 +3528,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>the <cite path="|health">Health Code of Baltimore City;</cite></text>
+            <text>the <cite path="|health" doc="City of Balt., Md., Ord. 25-013">Health Code of Baltimore City;</cite></text>
           </para>
           <para>
             <num>(iii)</num>
@@ -3541,7 +3541,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-6" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-6" codified:citation=" Article 13, § 13-6" codified:display="Amend">
+    <codify:replace path="13|§13-6" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-6">
       <section>
         <prefix>§</prefix>
         <num>13-6</num>
@@ -3549,7 +3549,7 @@
         <text>The Director must issue or renew the license if, on investigation, the Director finds that all the requirements of this subtitle are met.</text>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-7" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-7" codified:citation=" Article 13, § 13-7" codified:display="Amend">
+    <codify:replace path="13|§13-7" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-7">
       <section>
         <prefix>§</prefix>
         <num>13-7</num>
@@ -3566,7 +3566,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-8" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-8" codified:citation=" Article 13, § 13-8" codified:display="Amend">
+    <codify:replace path="13|§13-8" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-8">
       <section>
         <prefix>§</prefix>
         <num>13-8</num>
@@ -3588,7 +3588,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the <cite path="|health">Health Code of Baltimore City;</cite></text>
+              <text>the <cite path="|health" doc="City of Balt., Md., Ord. 25-013">Health Code of Baltimore City;</cite></text>
             </para>
             <para>
               <num>(iii)</num>
@@ -3619,20 +3619,20 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="13|§13-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-9|(a)" codified:citation=" Article 13, § 13-9" codified:display="Amend">
+    <codify:replace path="13|§13-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-9|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>Before the Director denies, suspends, or revokes any license or license renewal, the Director must notify the applicant or licensee in writing that a hearing will be held to determine whether grounds exist for the denial, suspension, or revocation.</text>
       </para>
     </codify:replace>
-    <codify:replace path="13|§13-11|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-11|(a)|(2)" codified:citation=" Article 13, § 13-11" codified:display="Amend">
+    <codify:replace path="13|§13-11|(a)|(2)" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-11|(a)|(2)">
       <para>
         <num>(2)</num>
         <text>has attached to it a permit tag issued by the Director.</text>
       </para>
     </codify:replace>
-    <codify:replace path="13|§13-16" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-16" codified:citation=" Article 13, § 13-16" codified:display="Amend">
+    <codify:replace path="13|§13-16" codified:doc="City of Baltimore, Md., Code" codified:path="13|§13-16">
       <section>
         <prefix>§</prefix>
         <num>13-16</num>
@@ -3640,27 +3640,27 @@
         <text>In addition to any other remedy provided in this subtitle or otherwise by law, this subtitle may be enforced by the Director of Consumer Protection and Business Licensing in the manner provided in Baltimore City Code Article 1, Subtitle 42.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-1|(a)" codified:citation=" Article 15, § 2-1" codified:display="Amend">
+    <codify:replace path="15|§2-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-1|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>No billiard, bagatelle, pool, manhattan, klondike, or rondo table may be erected, set up, kept, or in any respect whatever used for the purpose of gain or public entertainment within the City without a license previously obtained from the Director of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§2-11|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-11|(c)" codified:citation=" Article 15, § 2-11" codified:display="Amend">
+    <codify:replace path="15|§2-11|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-11|(c)">
       <para>
         <num>(c)</num>
         <heading>Director.</heading>
         <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§2-15|(e)|(1)|(iii)|(B)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-15|(e)|(1)|(iii)|(B)" codified:citation=" Article 15, § 2-15" codified:display="Amend">
+    <codify:replace path="15|§2-15|(e)|(1)|(iii)|(B)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-15|(e)|(1)|(iii)|(B)">
       <para>
         <num>(B)</num>
         <text>submits to the Director of Finance the full amount of that year's 1<sup>st</sup> quarterly installment plus the applicable service charge.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§2-31" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-31" codified:citation=" Article 15, § 2-31" codified:display="Amend">
+    <codify:replace path="15|§2-31" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-31">
       <section>
         <prefix>§</prefix>
         <num>2-31</num>
@@ -3668,14 +3668,14 @@
         <text>It shall be the duty of the owner of a for profit theater, motion picture theater, hall used for entertainment, sports center, or museum, before permitting any person to use such facility for gain, to obtain a license from the Director of the Department of Consumer Protection and Business Licensing for an annual fee of $165.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-37|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-37|(b)" codified:citation=" Article 15, § 2-37" codified:display="Amend">
+    <codify:replace path="15|§2-37|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-37|(b)">
       <para>
         <num>(b)</num>
         <heading>Charitable exceptions.</heading>
         <text>But the Director of Consumer Protection and Business Licensing is authorized to grant, free of expense, all applications for license for concerts or performances of any kind, where the proceeds are intended for charitable purposes.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§2-43" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-43" codified:citation=" Article 15, § 2-43" codified:display="Amend">
+    <codify:replace path="15|§2-43" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-43">
       <section>
         <prefix>§</prefix>
         <num>2-43</num>
@@ -3692,7 +3692,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-44" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-44" codified:citation=" Article 15, § 2-44" codified:display="Amend">
+    <codify:replace path="15|§2-44" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-44">
       <section>
         <prefix>§</prefix>
         <num>2-44</num>
@@ -3709,7 +3709,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-45" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-45" codified:citation=" Article 15, § 2-45" codified:display="Amend">
+    <codify:replace path="15|§2-45" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-45">
       <section>
         <prefix>§</prefix>
         <num>2-45</num>
@@ -3734,7 +3734,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-52" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-52" codified:citation=" Article 15, § 2-52" codified:display="Amend">
+    <codify:replace path="15|§2-52" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-52">
       <section>
         <prefix>§</prefix>
         <num>2-52</num>
@@ -3751,7 +3751,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-53" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-53" codified:citation=" Article 15, § 2-53" codified:display="Amend">
+    <codify:replace path="15|§2-53" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-53">
       <section>
         <prefix>§</prefix>
         <num>2-53</num>
@@ -3768,7 +3768,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§2-54" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-54" codified:citation=" Article 15, § 2-54" codified:display="Amend">
+    <codify:replace path="15|§2-54" codified:doc="City of Baltimore, Md., Code" codified:path="15|§2-54">
       <section>
         <prefix>§</prefix>
         <num>2-54</num>
@@ -3793,21 +3793,21 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§3-1|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-1|(c)" codified:citation=" Article 15, § 3-1" codified:display="Amend">
+    <codify:replace path="15|§3-1|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-1|(c)">
       <para>
         <num>(c)</num>
         <heading>Director.</heading>
         <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§3-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-2|(a)" codified:citation=" Article 15, § 3-2" codified:display="Amend">
+    <codify:replace path="15|§3-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-2|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>Except as specified in subsection (b) of this section, any person who proposes to locate 1 or more amusement devices in an establishment for the use of the general public must first obtain an amusement device location permit from the Director.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§3-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-3" codified:citation=" Article 15, § 3-3" codified:display="Amend">
+    <codify:replace path="15|§3-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-3">
       <section>
         <prefix>§</prefix>
         <num>3-3</num>
@@ -3815,7 +3815,7 @@
         <text>The application must be in the form and contain the information that the Director requires.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§3-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-4" codified:citation=" Article 15, § 3-4" codified:display="Amend">
+    <codify:replace path="15|§3-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-4">
       <section>
         <prefix>§</prefix>
         <num>3-4</num>
@@ -3837,7 +3837,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§3-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-5|(a)" codified:citation=" Article 15, § 3-5" codified:display="Amend">
+    <codify:replace path="15|§3-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-5|(a)">
       <para>
         <num>(a)</num>
         <heading>Public hearing required.</heading>
@@ -3851,7 +3851,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§3-6|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-6|(b)" codified:citation=" Article 15, § 3-6" codified:display="Amend">
+    <codify:replace path="15|§3-6|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-6|(b)">
       <para>
         <num>(b)</num>
         <heading>Application for renewal.</heading>
@@ -3873,13 +3873,13 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§3-9|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-9|(b)" codified:citation=" Article 15, § 3-9" codified:display="Amend">
+    <codify:replace path="15|§3-9|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§3-9|(b)">
       <para>
         <num>(b)</num>
         <heading>Director to adopt administrative regulations.</heading>
         <para>
           <num>(1)</num>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the administrative provisions of this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director may adopt rules and regulations to carry out the administrative provisions of this subtitle.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3887,7 +3887,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§6-1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-1" codified:citation=" Article 15, § 6-1" codified:display="Amend">
+    <codify:replace path="15|§6-1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-1">
       <section>
         <prefix>§</prefix>
         <num>6-1</num>
@@ -3895,7 +3895,7 @@
         <text>The Director of Consumer Protection and Business Licensing shall issue all licenses for and numbers of carriages, wagons, and other vehicles, boats, and scows as enumerated in § 6-2.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§6-2|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-2|(b)" codified:citation=" Article 15, § 6-2" codified:display="Amend">
+    <codify:replace path="15|§6-2|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-2|(b)">
       <para>
         <num>(b)</num>
         <heading>Owners to register annually.</heading>
@@ -3926,14 +3926,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§6-5|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-5|(c)" codified:citation=" Article 15, § 6-5" codified:display="Amend">
+    <codify:replace path="15|§6-5|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-5|(c)">
       <para>
         <num>(c)</num>
         <heading>Transfer of license.</heading>
         <text>Transfer of any of these licenses must be made at the Department of Consumer Protection and Business Licensing Collector, and no charge will be made therefor.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§6-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-8" codified:citation=" Article 15, § 6-8" codified:display="Amend">
+    <codify:replace path="15|§6-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-8">
       <section>
         <prefix>§</prefix>
         <num>6-8</num>
@@ -3973,7 +3973,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§6-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-9" codified:citation=" Article 15, § 6-9" codified:display="Amend">
+    <codify:replace path="15|§6-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-9">
       <section>
         <prefix>§</prefix>
         <num>6-9</num>
@@ -3990,13 +3990,13 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§6-11|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-11|(a)|(1)" codified:citation=" Article 15, § 6-11" codified:display="Amend">
+    <codify:replace path="15|§6-11|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-11|(a)|(1)">
       <para>
         <num>(1)</num>
         <text>appear at the office of the Director of Consumer Protection and Business Licensing and make entry and take out license as aforesaid;</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§6-13" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-13" codified:citation=" Article 15, § 6-13" codified:display="Amend">
+    <codify:replace path="15|§6-13" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-13">
       <section>
         <prefix>§</prefix>
         <num>6-13</num>
@@ -4004,7 +4004,7 @@
         <text>It shall be the duty of the Director of Consumer Protection and Business Licensing to withdraw the license from any vehicle licensed by the City, the driver of which shall violate a 2<sup>nd</sup> time any of the provisions of this Code regulating the speed of horses and vehicles.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§6-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-14" codified:citation=" Article 15, § 6-14" codified:display="Amend">
+    <codify:replace path="15|§6-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§6-14">
       <section>
         <prefix>§</prefix>
         <num>6-14</num>
@@ -4012,7 +4012,7 @@
         <text>It shall be the duty of the Director of Consumer Protection and Business Licensing to notify all persons annually of the necessity of attending to the provisions of this subtitle, by advertising the same at least 10 days previous to January 1 in a daily paper of general circulation in Baltimore City, and of the privilege accorded by § 6-9 by advertising the same at least 5 days previous to December 20 in a daily paper of the City.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§7-2|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§7-2|(b)" codified:citation=" Article 15, § 7-2" codified:display="Amend">
+    <codify:replace path="15|§7-2|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§7-2|(b)">
       <para>
         <num>(b)</num>
         <heading>Issuance, fees, records.</heading>
@@ -4031,7 +4031,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§7-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§7-3" codified:citation=" Article 15, § 7-3" codified:display="Amend">
+    <codify:replace path="15|§7-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§7-3">
       <section>
         <prefix>§</prefix>
         <num>7-3</num>
@@ -4055,7 +4055,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-1" codified:citation=" Article 15, § 9-1" codified:display="Amend">
+    <codify:replace path="15|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-1">
       <section>
         <prefix>§</prefix>
         <num>9-1</num>
@@ -4112,15 +4112,15 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-3" codified:citation=" Article 15, § 9-3" codified:display="Amend">
+    <codify:replace path="15|§9-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-3">
       <section>
         <prefix>§</prefix>
         <num>9-3</num>
         <heading>Rules, regulations, and forms.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department must adopt rules, regulations, and forms to carry out this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-6.1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-6.1" codified:citation=" Article 15, § 9-6.1" codified:display="Amend">
+    <codify:replace path="15|§9-6.1" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-6.1">
       <section>
         <prefix>§</prefix>
         <num>9-6.1</num>
@@ -4128,14 +4128,14 @@
         <text>The Department may issue a late-night operations license for a business to operate a late-night delivery-only service, conditioned upon all indoor sales and dining areas being closed to the public during late-night hours.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-7|(a)" codified:citation=" Article 15, § 9-7" codified:display="Amend">
+    <codify:replace path="15|§9-7|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-7|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>Every application for an initial or renewal license must be in the form and contain the information that the Department requires.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§9-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-8" codified:citation=" Article 15, § 9-8" codified:display="Amend">
+    <codify:replace path="15|§9-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-8">
       <section>
         <prefix>§</prefix>
         <num>9-8</num>
@@ -4165,7 +4165,7 @@
             <text>A denial must be based solely on one or more of the following factors:</text>
             <para>
               <num>(i)</num>
-              <text>any cause for denial that is specified in <cite path="|15|§9-16">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
+              <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -4219,7 +4219,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-9" codified:citation=" Article 15, § 9-9" codified:display="Amend">
+    <codify:replace path="15|§9-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-9">
       <section>
         <prefix>§</prefix>
         <num>9-9</num>
@@ -4247,7 +4247,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>any cause for denial that is specified in <cite path="|15|§9-16">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
+            <text>any cause for denial that is specified in <cite path="|15|§9-16" doc="City of Balt., Md., Ord. 25-013">§ 9-16 {"Denial, suspension, or revocation"} of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(3)</num>
@@ -4264,7 +4264,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§9-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-10" codified:citation=" Article 15, § 9-10" codified:display="Amend">
+    <codify:replace path="15|§9-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§9-10">
       <section>
         <prefix>§</prefix>
         <num>9-10</num>
@@ -4317,19 +4317,19 @@
           </para>
           <para>
             <num>(4)</num>
-            <text>The considerations and decision of the Director shall be as provided in <cite path="|15|§9-9">§ 9-9 of this subtitle</cite>.</text>
+            <text>The considerations and decision of the Director shall be as provided in <cite path="|15|§9-9" doc="City of Balt., Md., Ord. 25-013">§ 9-9 of this subtitle</cite>.</text>
           </para>
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-1|(a)" codified:citation=" Article 15, § 11-1" codified:display="Amend">
+    <codify:replace path="15|§11-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-1|(a)">
       <para>
         <num>(a)</num>
         <heading>Board.</heading>
         <text>"Board" means the Board of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§11-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-5" codified:citation=" Article 15, § 11-5" codified:display="Amend">
+    <codify:replace path="15|§11-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-5">
       <section>
         <prefix>§</prefix>
         <num>11-5</num>
@@ -4337,7 +4337,7 @@
         <text>No person shall maintain, operate, or conduct a massage establishment within the City of Baltimore without a license previously issued by the Director of Consumer Protection and Business Licensing.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-6" codified:citation=" Article 15, § 11-6" codified:display="Amend">
+    <codify:replace path="15|§11-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-6">
       <section>
         <prefix>§</prefix>
         <num>11-6</num>
@@ -4345,15 +4345,15 @@
         <text>No person maintaining, operating, or conducting a massage establishment shall employ, or otherwise allow, any individual to perform as a massagist, and no individual shall perform as a massagist, unless such individual shall have first been duly registered as a massagist for that particular massage establishment with the Department of Consumer Protection and Business Licensing.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-7" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-7" codified:citation=" Article 15, § 11-7" codified:display="Amend">
+    <codify:replace path="15|§11-7" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-7">
       <section>
         <prefix>§</prefix>
         <num>11-7</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing is authorized and empowered to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing is authorized and empowered to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-8" codified:citation=" Article 15, § 11-8" codified:display="Amend">
+    <codify:replace path="15|§11-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-8">
       <section>
         <prefix>§</prefix>
         <num>11-8</num>
@@ -4419,14 +4419,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-9|(a)" codified:citation=" Article 15, § 11-9" codified:display="Amend">
+    <codify:replace path="15|§11-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-9|(a)">
       <para>
         <num>(a)</num>
         <heading>Referral to Board.</heading>
         <text>The application shall be referred by the Director of Consumer Protection and Business Licensing to the Board of Consumer Protection and Business Licensing for investigation and recommendation.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§11-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-11" codified:citation=" Article 15, § 11-11" codified:display="Amend">
+    <codify:replace path="15|§11-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-11">
       <section>
         <prefix>§</prefix>
         <num>11-11</num>
@@ -4448,14 +4448,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-13|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-13|(d)" codified:citation=" Article 15, § 11-13" codified:display="Amend">
+    <codify:replace path="15|§11-13|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-13|(d)">
       <para>
         <num>(d)</num>
         <heading>Penalties.</heading>
         <text>Any person violating the provisions of this section shall, upon conviction, be punished as hereinafter provided in this subtitle and, in addition to such penalty, it shall be the duty of the Director of Consumer Protection and Business Licensing to revoke the license of the establishment wherein the provisions of this section shall have been violated.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§11-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-14" codified:citation=" Article 15, § 11-14" codified:display="Amend">
+    <codify:replace path="15|§11-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-14">
       <section>
         <prefix>§</prefix>
         <num>11-14</num>
@@ -4477,7 +4477,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-15" codified:citation=" Article 15, § 11-15" codified:display="Amend">
+    <codify:replace path="15|§11-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-15">
       <section>
         <prefix>§</prefix>
         <num>11-15</num>
@@ -4499,14 +4499,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§11-17|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-17|(b)" codified:citation=" Article 15, § 11-17" codified:display="Amend">
+    <codify:replace path="15|§11-17|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§11-17|(b)">
       <para>
         <num>(b)</num>
         <heading>License revocation.</heading>
         <text>Conviction for any violation of the provisions of this subtitle shall constitute cause for immediate revocation of the license by the Director of Consumer Protection and Business Licensing upon the recommendation of the Board.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§12-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-4" codified:citation=" Article 15, § 12-4" codified:display="Amend">
+    <codify:replace path="15|§12-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-4">
       <section>
         <prefix>§</prefix>
         <num>12-4</num>
@@ -4562,15 +4562,15 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§12-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-8" codified:citation=" Article 15, § 12-8" codified:display="Amend">
+    <codify:replace path="15|§12-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-8">
       <section>
         <prefix>§</prefix>
         <num>12-8</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Director of Consumer Protection and Business Licensing may adopt rules and regulations for the administration and enforcement of this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Director of Consumer Protection and Business Licensing may adopt rules and regulations for the administration and enforcement of this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§12-13" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-13" codified:citation=" Article 15, § 12-13" codified:display="Amend">
+    <codify:replace path="15|§12-13" codified:doc="City of Baltimore, Md., Code" codified:path="15|§12-13">
       <section>
         <prefix>§</prefix>
         <num>12-13</num>
@@ -4599,14 +4599,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§13-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§13-1|(b)" codified:citation=" Article 15, § 13-1" codified:display="Amend">
+    <codify:replace path="15|§13-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§13-1|(b)">
       <para>
         <num>(b)</num>
         <heading>Director.</heading>
         <text>"Director" means the Director of the Department of Consumer Protection and Business Licensing of the Director's designee.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§13-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§13-10" codified:citation=" Article 15, § 13-10" codified:display="Amend">
+    <codify:replace path="15|§13-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§13-10">
       <section>
         <prefix>§</prefix>
         <num>13-10</num>
@@ -4634,43 +4634,43 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-1|(b)" codified:citation=" Article 15, § 15-1" codified:display="Amend">
+    <codify:replace path="15|§15-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-1|(b)">
       <para>
         <num>(b)</num>
         <heading>Department.</heading>
         <text>"Department" means the Department of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§15-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-4" codified:citation=" Article 15, § 15-4" codified:display="Amend">
+    <codify:replace path="15|§15-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-4">
       <section>
         <prefix>§</prefix>
         <num>15-4</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-5" codified:citation=" Article 15, § 15-5" codified:display="Amend">
+    <codify:replace path="15|§15-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-5">
       <section>
         <prefix>§</prefix>
         <num>15-5</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-6" codified:citation=" Article 15, § 15-6" codified:display="Amend">
+    <codify:replace path="15|§15-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-6">
       <section>
         <prefix>§</prefix>
         <num>15-6</num>
         <reason>Reserved</reason>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-7" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-7" codified:citation=" Article 15, § 15-7" codified:display="Amend">
+    <codify:replace path="15|§15-7" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-7">
       <section>
         <prefix>§</prefix>
         <num>15-7</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department shall adopt rules and regulations to carry out this subtitle.</text>
+        <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department shall adopt rules and regulations to carry out this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-9" codified:citation=" Article 15, § 15-9" codified:display="Amend">
+    <codify:replace path="15|§15-9" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-9">
       <section>
         <prefix>§</prefix>
         <num>15-9</num>
@@ -4678,7 +4678,7 @@
         <text>No person may perform as a street entertainer without first having obtained a license to do so from the Department.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-10" codified:citation=" Article 15, § 15-10" codified:display="Amend">
+    <codify:replace path="15|§15-10" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-10">
       <section>
         <prefix>§</prefix>
         <num>15-10</num>
@@ -4735,7 +4735,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-11" codified:citation=" Article 15, § 15-11" codified:display="Amend">
+    <codify:replace path="15|§15-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-11">
       <section>
         <prefix>§</prefix>
         <num>15-11</num>
@@ -4743,7 +4743,7 @@
         <text>The Department may impose reasonable limitations on any license issued under this subtitle, as necessary or proper to carry out the purpose and intent of this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-12" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-12" codified:citation=" Article 15, § 15-12" codified:display="Amend">
+    <codify:replace path="15|§15-12" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-12">
       <section>
         <prefix>§</prefix>
         <num>15-12</num>
@@ -4790,14 +4790,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-13|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-13|(b)" codified:citation=" Article 15, § 15-13" codified:display="Amend">
+    <codify:replace path="15|§15-13|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-13|(b)">
       <para>
         <num>(b)</num>
         <heading>Renewal.</heading>
         <text>Before a license expires, a licensee may renew it for an additional 1-year term, if the licensee submits to the Department a renewal application in the form the Department requires.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§15-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-14" codified:citation=" Article 15, § 15-14" codified:display="Amend">
+    <codify:replace path="15|§15-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-14">
       <section>
         <prefix>§</prefix>
         <num>15-14</num>
@@ -4856,7 +4856,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-15" codified:citation=" Article 15, § 15-15" codified:display="Amend">
+    <codify:replace path="15|§15-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-15">
       <section>
         <prefix>§</prefix>
         <num>15-15</num>
@@ -4872,7 +4872,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-18" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-18" codified:citation=" Article 15, § 15-18" codified:display="Amend">
+    <codify:replace path="15|§15-18" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-18">
       <section>
         <prefix>§</prefix>
         <num>15-18</num>
@@ -4906,7 +4906,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§15-19" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-19" codified:citation=" Article 15, § 15-19" codified:display="Amend">
+    <codify:replace path="15|§15-19" codified:doc="City of Baltimore, Md., Code" codified:path="15|§15-19">
       <section>
         <prefix>§</prefix>
         <num>15-19</num>
@@ -4944,14 +4944,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§17-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-1|(b)" codified:citation=" Article 15, § 17-1" codified:display="Amend">
+    <codify:replace path="15|§17-1|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-1|(b)">
       <para>
         <num>(b)</num>
         <heading>Department.</heading>
         <text>"Department" means the Baltimore City Department of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-4" codified:citation=" Article 15, § 17-4" codified:display="Amend">
+    <codify:replace path="15|§17-4" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-4">
       <section>
         <prefix>§</prefix>
         <num>17-4</num>
@@ -4959,12 +4959,12 @@
         <para>
           <num>(a)</num>
           <heading>Department may adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing, in consultation with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department of Consumer Protection and Business Licensing, in consultation with the Department of Transportation may adopt rules and regulations to carry out this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Public hearing and comment.</heading>
-          <text>In accordance with <cite path="|general">General Provisions Article</cite> <cite path="|general|4|3|4-301">§ 4-301</cite>, the Department of Consumer Protection and Business Licensing must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
+          <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department of Consumer Protection and Business Licensing must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -4973,7 +4973,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§17-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-5" codified:citation=" Article 15, § 17-5" codified:display="Amend">
+    <codify:replace path="15|§17-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-5">
       <section>
         <prefix>§</prefix>
         <num>17-5</num>
@@ -5043,7 +5043,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§17-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-15" codified:citation=" Article 15, § 17-15" codified:display="Amend">
+    <codify:replace path="15|§17-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-15">
       <section>
         <prefix>§</prefix>
         <num>17-15</num>
@@ -5051,7 +5051,7 @@
         <text>No street vendor may operate in Baltimore City without first having obtained a license to do so from the Department of Consumer Protection and Business Licensing.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§17-16|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-16|(b)" codified:citation=" Article 15, § 17-16" codified:display="Amend">
+    <codify:replace path="15|§17-16|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-16|(b)">
       <para>
         <num>(b)</num>
         <heading>Required considerations.</heading>
@@ -5078,14 +5078,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-17|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-17|(a)" codified:citation=" Article 15, § 17-17" codified:display="Amend">
+    <codify:replace path="15|§17-17|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-17|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>The Department of Consumer Protection and Business Licensing may impose reasonable limitations and conditions on any license issued under this subtitle, as necessary or proper to carry out the purpose and intent of this subtitle.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-18" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-18" codified:citation=" Article 15, § 17-18" codified:display="Amend">
+    <codify:replace path="15|§17-18" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-18">
       <section>
         <prefix>§</prefix>
         <num>17-18</num>
@@ -5138,46 +5138,46 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§17-19|(b)|(2)|(i)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-19|(b)|(2)|(i)" codified:citation=" Article 15, § 17-19" codified:display="Amend">
+    <codify:replace path="15|§17-19|(b)|(2)|(i)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-19|(b)|(2)|(i)">
       <para>
         <num>(i)</num>
         <text>in the form the Department of Consumer Protection and Business Licensing requires; and</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-20|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-20|(a)" codified:citation=" Article 15, § 17-20" codified:display="Amend">
+    <codify:replace path="15|§17-20|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-20|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>The Department of Consumer Protection and Business Licensing may issue a temporary license to be used in connection with a charitable, educational, artistic, civic, or other public function or activity.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-24|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-24|(b)" codified:citation=" Article 15, § 17-24" codified:display="Amend">
+    <codify:replace path="15|§17-24|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-24|(b)">
       <para>
         <num>(b)</num>
         <heading>Department to issue.</heading>
         <text>The Department of Consumer Protection and Business Licensing must issue an identification badge for each license issued.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-25|(c)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-25|(c)|(1)" codified:citation=" Article 15, § 17-25" codified:display="Amend">
+    <codify:replace path="15|§17-25|(c)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-25|(c)|(1)">
       <para>
         <num>(1)</num>
-        <text>Instead of the badge provided for in <cite path="|15|§17-24">§ 17-24 {"Vendor identification – In general"} of this subtitle</cite>, the Department of Consumer Protection and Business Licensing must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
+        <text>Instead of the badge provided for in <cite path="|15|§17-24" doc="City of Balt., Md., Ord. 25-013">§ 17-24 {"Vendor identification – In general"} of this subtitle</cite>, the Department of Consumer Protection and Business Licensing must provide the producer or grower with a sign to be displayed on his or her vehicle.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-34|(b)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-34|(b)|(1)" codified:citation=" Article 15, § 17-34" codified:display="Amend">
+    <codify:replace path="15|§17-34|(b)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-34|(b)|(1)">
       <para>
         <num>(1)</num>
         <text>be in the form the Department of Consumer Protection and Business Licensing requires; and</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-36|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-36|(b)" codified:citation=" Article 15, § 17-36" codified:display="Amend">
+    <codify:replace path="15|§17-36|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-36|(b)">
       <para>
         <num>(b)</num>
         <heading>Exception.</heading>
         <text>Subsection (a) of this section does not apply to a street vendor operating between the hours of midnight and 6 a.m. in accordance with the terms and conditions of a special event permit from the Department of Consumer Protection and Business Licensing that explicitly grants permission to operate during those hours.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§17-44|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-44|(a)" codified:citation=" Article 15, § 17-44" codified:display="Amend">
+    <codify:replace path="15|§17-44|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-44|(a)">
       <para>
         <num>(a)</num>
         <heading>Authorized suspension or revocation.</heading>
@@ -5196,8 +5196,8 @@
         </para>
       </para>
     </codify:replace>
-    <codify:repeal path="15|§17-45" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-45" codified:citation=" Article 15, 17-45" codified:display="Repeal"/>
-    <codify:replace path="15|§18-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-3" codified:citation=" Article 15, § 18-3" codified:display="Amend">
+    <codify:repeal path="15|§17-45" codified:doc="City of Baltimore, Md., Code" codified:path="15|§17-45"/>
+    <codify:replace path="15|§18-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-3">
       <section>
         <prefix>§</prefix>
         <num>18-3</num>
@@ -5243,7 +5243,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§18-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-5" codified:citation=" Article 15, § 18-5" codified:display="Amend">
+    <codify:replace path="15|§18-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-5">
       <section>
         <prefix>§</prefix>
         <num>18-5</num>
@@ -5279,7 +5279,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§18-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-8" codified:citation=" Article 15, § 18-8" codified:display="Amend">
+    <codify:replace path="15|§18-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§18-8">
       <section>
         <prefix>§</prefix>
         <num>18-8</num>
@@ -5287,7 +5287,7 @@
         <text>The Director of Consumer Protection and Business Licensing may revoke such license at any time by notice in writing whenever it shall appear to his satisfaction that the licensee has violated the provisions of this subtitle and has failed to correct same upon due notice from the Director.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§20-2" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-2" codified:citation=" Article 15, § 20-2" codified:display="Amend">
+    <codify:replace path="15|§20-2" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-2">
       <section>
         <prefix>§</prefix>
         <num>20-2</num>
@@ -5295,14 +5295,14 @@
         <text>No person shall engage in business as a transient merchant unless he shall first have obtained a license to do so from the Director of Consumer Protection and Business Licensing.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§20-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-5|(a)" codified:citation=" Article 15, § 20-5" codified:display="Amend">
+    <codify:replace path="15|§20-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-5|(a)">
       <para>
         <num>(a)</num>
         <heading>Bond required.</heading>
         <text>Before such license is issued by the Director of Consumer Protection and Business Licensing, the applicant will be required to post a surety bond in an amount of $1,000, with a surety company licensed to do business in the State of Maryland.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§20-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-6" codified:citation=" Article 15, § 20-6" codified:display="Amend">
+    <codify:replace path="15|§20-6" codified:doc="City of Baltimore, Md., Code" codified:path="15|§20-6">
       <section>
         <prefix>§</prefix>
         <num>20-6</num>
@@ -5310,21 +5310,21 @@
         <text>The owner, proprietor, or manager of any hotel, motel, rooming house, or other place of public accommodation shall report, within 6 hours after renting, to the Commissioner of Police and the Director of Consumer Protection and Business Licensing, the name of any person who has rented a room or other space for the sale and display of merchandise of a transient merchant, giving the location of the room so rented.</text>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-1|(a)" codified:citation=" Article 15, § 22-1" codified:display="Amend">
+    <codify:replace path="15|§22-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-1|(a)">
       <para>
         <num>(a)</num>
         <heading>Department.</heading>
         <text>"Department" means the Department of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-2" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-2" codified:citation=" Article 15, § 22-2" codified:display="Amend">
+    <codify:replace path="15|§22-2" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-2">
       <section>
         <prefix>§</prefix>
         <num>22-2</num>
         <reason>Reserved.</reason>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-3" codified:citation=" Article 15, § 22-3" codified:display="Amend">
+    <codify:replace path="15|§22-3" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-3">
       <section>
         <prefix>§</prefix>
         <num>22-3</num>
@@ -5332,12 +5332,12 @@
         <para>
           <num>(a)</num>
           <heading>Department shall adopt.</heading>
-          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, the Department is required to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
+          <text>Subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, the Department is required to promulgate and adopt rules and regulations to carry out the purpose and intent of this subtitle.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Public hearing and comment.</heading>
-          <text>In accordance with <cite path="|general">General Provisions Article</cite> <cite path="|general|4|3|4-301">§ 4-301</cite>, the Department must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
+          <text>In accordance with <cite path="|general" doc="City of Balt., Md., Ord. 25-013">General Provisions Article</cite> <cite path="|general|4|3|4-301" doc="City of Balt., Md., Ord. 25-013">§ 4-301</cite>, the Department must publish, for public hearing and comment, notice of all rules and regulations proposed for adoption under this subtitle.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -5346,13 +5346,13 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-4|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-4|(a)|(1)" codified:citation=" Article 15, § 22-4" codified:display="Amend">
+    <codify:replace path="15|§22-4|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-4|(a)|(1)">
       <para>
         <num>(1)</num>
         <text>It shall be unlawful for any person to engage in a towing service in Baltimore City without a valid towing license issued by the Director of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-5" codified:citation=" Article 15, § 22-5" codified:display="Amend">
+    <codify:replace path="15|§22-5" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-5">
       <section>
         <prefix>§</prefix>
         <num>22-5</num>
@@ -5405,7 +5405,7 @@
             </para>
             <para>
               <num>(v)</num>
-              <text>proof that the applicant has complied with any other rule or regulation provided in this subtitle or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general">City General Provisions Article</cite>, adopted by the Department; and</text>
+              <text>proof that the applicant has complied with any other rule or regulation provided in this subtitle or, subject to Title 4 {"Administrative Procedure Act – Regulations"} of the <cite path="|general" doc="City of Balt., Md., Ord. 25-013">City General Provisions Article</cite>, adopted by the Department; and</text>
             </para>
             <para>
               <num>(vi)</num>
@@ -5447,14 +5447,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-6|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-6|(a)" codified:citation=" Article 15, § 22-6" codified:display="Amend">
+    <codify:replace path="15|§22-6|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-6|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>On approval by the Department of a license application and payment of the applicable license fee to the Director of Finance, the Director of Consumer Protection and Business Licensing shall issue the license.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-8" codified:citation=" Article 15, § 22-8" codified:display="Amend">
+    <codify:replace path="15|§22-8" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-8">
       <section>
         <prefix>§</prefix>
         <num>22-8</num>
@@ -5483,19 +5483,19 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-9|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-9|(a)|(1)" codified:citation=" Article 15, § 22-9" codified:display="Amend">
+    <codify:replace path="15|§22-9|(a)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-9|(a)|(1)">
       <para>
         <num>(1)</num>
         <text>Every person who shall be licensed in the towing business under the provisions of this subtitle shall file with the Department of Consumer Protection and Business Licensing a bond in the amount of $20,000 to save harmless the owner of any motor vehicle for any property damage occurring thereto during the time that it is in the possession of the person engaged in providing towing services.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-10|(d)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-10|(d)|(1)" codified:citation=" Article 15, § 22-10" codified:display="Amend">
+    <codify:replace path="15|§22-10|(d)|(1)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-10|(d)|(1)">
       <para>
         <num>(1)</num>
         <text>shall make available in a reasonable time and manner, for inspection by the Department of Consumer Protection and Business Licensing or the Police Department, its records kept in the ordinary course of business pursuant to this subtitle; and</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-11|(a)" codified:citation=" Article 15, § 22-11" codified:display="Amend">
+    <codify:replace path="15|§22-11|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-11|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
@@ -5514,14 +5514,14 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-13|(h)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-13|(h)" codified:citation=" Article 15, § 22-13" codified:display="Amend">
+    <codify:replace path="15|§22-13|(h)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-13|(h)">
       <para>
         <num>(h)</num>
         <heading>Delay in delivery to storage facility.</heading>
         <text>It shall be unlawful for any towing service or tow truck operator to fail to immediately deliver any vehicle towed under this subtitle to its customarily used storage facility as provided for in the license issued by the Director of Consumer Protection and Business Licensing.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-14" codified:citation=" Article 15, § 22-14" codified:display="Amend">
+    <codify:replace path="15|§22-14" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-14">
       <section>
         <prefix>§</prefix>
         <num>22-14</num>
@@ -5564,7 +5564,7 @@
           </para>
           <para>
             <num>(6)</num>
-            <text>the licensee has failed to make available for inspection by the Department or the Police Department the daily towing log required by <cite path="|15|§22-10|(d)">§ 22-10(d) of this subtitle</cite>;</text>
+            <text>the licensee has failed to make available for inspection by the Department or the Police Department the daily towing log required by <cite path="|15|§22-10|(d)" doc="City of Balt., Md., Ord. 25-013">§ 22-10(d) of this subtitle</cite>;</text>
           </para>
           <para>
             <num>(7)</num>
@@ -5593,7 +5593,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-15" codified:citation=" Article 15, § 22-15" codified:display="Amend">
+    <codify:replace path="15|§22-15" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-15">
       <section>
         <prefix>§</prefix>
         <num>22-15</num>
@@ -5634,14 +5634,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-16|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-16|(a)" codified:citation=" Article 15, § 22-16" codified:display="Amend">
+    <codify:replace path="15|§22-16|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-16|(a)">
       <para>
         <num>(a)</num>
         <heading>Judicial review.</heading>
         <text>A person aggrieved by a decision of the Board of Consumer Protection and Business Licensing under this subtitle may seek judicial review of the decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§22-17" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-17" codified:citation=" Article 15, § 22-17" codified:display="Amend">
+    <codify:replace path="15|§22-17" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-17">
       <section>
         <prefix>§</prefix>
         <num>22-17</num>
@@ -5658,14 +5658,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="15|§22-18|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-18|(a)" codified:citation=" Article 15, § 22-18" codified:display="Amend">
+    <codify:replace path="15|§22-18|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="15|§22-18|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>Any person or his agent violating any provision of this subtitle or any rule or regulation promulgated by the Department to effectuate the provisions of this subtitle, shall be guilty of a misdemeanor and upon conviction thereof, shall be subject to a fine of not less than $50 nor more than $500 or imprisonment for not more than 60 days, or both fine and imprisonment.</text>
       </para>
     </codify:replace>
-    <codify:replace path="15|§46-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§46-11" codified:citation=" Article 15, § 46-11" codified:display="Amend">
+    <codify:replace path="15|§46-11" codified:doc="City of Baltimore, Md., Code" codified:path="15|§46-11">
       <section>
         <prefix>§</prefix>
         <num>46-11</num>
@@ -5673,7 +5673,7 @@
         <para>
           <num>(a)</num>
           <heading>Director of Finance.</heading>
-          <text>Upon the approval of the Mayor, the Director of Finance shall have full power and authority to refuse to grant licenses under the provisions of <cite path="|15">the following subtitles of this article</cite>, and also, when directed by the Mayor, shall have full power and authority to revoke any license granted by virtue of the following subtitles of <cite path="|15">this article</cite>.</text>
+          <text>Upon the approval of the Mayor, the Director of Finance shall have full power and authority to refuse to grant licenses under the provisions of <cite path="|15" doc="City of Balt., Md., Ord. 25-013">the following subtitles of this article</cite>, and also, when directed by the Mayor, shall have full power and authority to revoke any license granted by virtue of the following subtitles of <cite path="|15" doc="City of Balt., Md., Ord. 25-013">this article</cite>.</text>
           <para>
             <num>(1)</num>
             <text>Subtitle 10. Hotels; and</text>
@@ -5742,7 +5742,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="19|§71-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="19|§71-1|(a)|(7)" codified:citation=" Article 19, § 71-1" codified:display="Amend">
+    <codify:insert path="19|§71-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="19|§71-1|(a)|(7)">
       <para>
         <num>(7)</num>
         <text>Director of the Department of Consumer Protection and Business Licensing.</text>
