@@ -3,8 +3,8 @@
   <heading>Charter of Baltimore City</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2024-06-01">
-      <doc id="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)" type="mdlaw"/>
+    <recency through="2024-11-05">
+      <doc id="City of Balt., Md., Res. 24-318" type="resolution"/>
     </recency>
   </meta>
   <annotations>
@@ -178,9 +178,14 @@
       <prefix>§</prefix>
       <num>9</num>
       <heading>Inner Harbor Park.</heading>
-      <text>There is hereby dedicated to public park uses for the benefit of this and future generations of the City of Baltimore and the State of Maryland the portion of the City that lies along the north, west and south shores of the Inner Harbor, south of Pratt Street to the water's edge, east of Light Street to the water's edge and north of Key Highway to the water's edge, from the World Trade Center around the shoreline of the Inner Harbor to and including Rash Field, except that, in order to provide eating places and other commercial uses, areas totalling not more than 3.2 acres plus access thereto, within the dedicated space and north of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that in order to provide outdoor eating places for the areas known as West Shore Park and Rash Field, areas totalling not more than 0.5 acres within the dedicated space and south of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that an area of not more than 3.4 acres shall be set aside for use by the Maryland Science Center, plus access thereto.</text>
+      <text>There is hereby dedicated to public park uses for the benefit of this and future generations of the City of Baltimore and the State of Maryland the portion of the City that lies along the north, west and south shores of the Inner Harbor, south of Pratt Street to the water's edge, east of Light Street to the water's edge and north of Key Highway to the water's edge, from the World Trade Center around the shoreline of the Inner Harbor to and including Rash Field, except that, in order to provide multi-family dwellings and off-street parking, eating places and other commercial uses, areas totalling not more than 4.5 acres plus access thereto, within the dedicated space and north of an easterly extension of the south side of Conway Street shall be set aside for such purposes, except that any areas used for multi-family dwellings and off-street parking are not dedicated as a public park; and except that in order to provide outdoor eating places for the areas known as West Shore Park and Rash Field, areas totalling not more than 0.5 acres within the dedicated space and south of an easterly extension of the south side of Conway Street shall be set aside for such purposes; and except that an area of not more than 3.4 acres shall be set aside for use by the Maryland Science Center, plus access thereto.</text>
       <annotations>
+        <annotation type="Editor's Notes">
+          <text>Ordinance 24-318, known as Ballot Question F, which was ratified on November 5, 2024, enlarged the permitted acreage for development within Inner Harbor Park from 3.2 to 4.5 acres. In addition, the Ordinance added multi-family dwellings and off-street parking to the list of permitted uses within this development space, but any land occupied by those two uses would no longer be part of the public park. Section 2 of the Ordinance states "[t]hat in enacting this Resolution of the Mayor and City Council, it is the intent of the Mayor and City Council to preserve the public park known as Rash Field and to preserve the existing development restrictions within the Inner Harbor Park south of Conway Street."</text>
+          <text><strong>Litigation related to Ballot Question F.</strong> A group of 23 Baltimore City voters filed a petition for judicial review of Ballot Question F in the Circuit Court for Anne Arundel County alleging that Ballot Question F was invalid because (1) it was improper "charter material" in violation of <cite doc="Md. Const." path="XI-A|§3">Article XI-A, § 3 of the Constitution of Maryland</cite> and (2) the language of the question was not "easily understandable by voters" in violation of § 9-203(1) of the State Election Law Article, in addition to other claims. After the circuit court found that the measure could be included on the ballot but the votes for or against it could not be certified, the decision was appealed to the Maryland Supreme Court. The Supreme Court of Maryland issued a per curium order dated October 10, 2024, permitting the votes for or against Question F to be counted and certified.</text>
+        </annotation>
         <annotation type="History">Res. 16-029, ratified Nov. 8, 2016</annotation>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-318" eff="2024-11-05" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1061,6 +1066,49 @@
       </para>
       <annotations>
         <annotation type="History">Res. 22-002, ratified Nov. 8, 2022</annotation>
+      </annotations>
+    </section>
+    <section>
+      <prefix>§</prefix>
+      <num>20</num>
+      <heading>Community Reinvestment and Reparations Fund.</heading>
+      <para>
+        <num>(a)</num>
+        <heading>Purpose.</heading>
+        <text>There is a continuing, nonlapsing fund for purposes of supporting the work of the Community Reinvestment and Reparations Commission, to the extent that the work of the Commission is within the scope of the use limitations in § 1-322 {"Community Reinvestment and Repair Fund"} of the State Alcoholic Beverage and Cannabis Article.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <heading>Revenue sources.</heading>
+        <text>The fund established under this section shall comprise:</text>
+        <para>
+          <num>(1)</num>
+          <text>disbursements from the State Comptroller from the State Community Reinvestment and Repair Fund; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>future appropriations from the federal, State, or local government.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <heading>Continuing nature of Fund.</heading>
+        <text>Notwithstanding any other provision of this Charter, unspent portions of the Fund established under this section:</text>
+        <para>
+          <num>(1)</num>
+          <text>remain in the Fund, to be used exclusively for their ordained purposes;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>do not revert to the general revenues of the City; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>their appropriations do not lapse.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-08" eff="2024-11-05" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
@@ -7499,7 +7547,7 @@
       <para>
         <num>(b)</num>
         <heading>Terms of officers.</heading>
-        <text>The terms of all municipal officers appointed by the Mayor shall expire at the end of four years or at the end of the Mayor's term of office, whichever first occurs, with the exception of the terms of the City Administrator and some members of the Board of School Commissioners, the Civil Service Commission, the Planning Commission, the Board of Municipal and Zoning Appeals, the advisory board established by <cite path="X|§2">Article X, Section 2</cite> of this Charter, and those boards and commissions governed by State or federal law.  The terms of the City Administrator and the members of these boards and commissions are prescribed elsewhere in the Charter or by other law.</text>
+        <text>The terms of all municipal officers appointed by the Mayor shall expire at the end of four years or at the end of the Mayor's term of office, whichever first occurs, with the exception of the terms of the City Administrator, the Police Commissioner, and some members of the Board of School Commissioners, the Civil Service Commission, the Planning Commission, the Board of Municipal and Zoning Appeals, the advisory board established by <cite path="X|§2" doc="City of Balt., Md., Res. 24-310">Article X, Section 2</cite> of this Charter, and those boards and commissions governed by State or federal law.  The terms of the City Administrator, the Police Commissioner, and the members of these boards and commissions are prescribed elsewhere in the Charter or by other law.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -7566,6 +7614,7 @@
         <annotation type="History">Res. 20-026, ratified Nov. 3, 2020, eff. July 1, 2021</annotation>
         <annotation type="History">Res. 22-004, ratified Nov. 8, 2022</annotation>
         <annotation type="Editor's Notes">See City Code Article 1, § 7-10 {“Residency requirements for City officials”) and its accompanying Editor’s Note.  That section codifies the City’s residency requirements in accord with controlling limitations imposed by <cite doc="Md. Code" path="glg|1-201">State Local Government Article, § 1-201</cite>.</annotation>
+        <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -12076,6 +12125,319 @@
         <text>There is a Baltimore City Police Department, the head of which is the Police Commissioner.</text>
         <annotations>
           <annotation type="History">Res. 22-003, ratified Nov. 8, 2022</annotation>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>142</num>
+        <heading>Definitions.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>In general.</heading>
+          <text>For §§ 141 through 146 of this article, the following terms have the meanings indicated.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Commissioner.</heading>
+          <text>"Commissioner" means the Police Commissioner of Baltimore City.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Department.</heading>
+          <text>"Department" means the Baltimore City Police Department.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Department staff.</heading>
+          <text>"Department staff" means an individual employed by the Mayor and City Council of Baltimore assigned to work for the Department, whether a civilian or a police officer.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Police officer.</heading>
+          <text>"Police officer" means a person who is:</text>
+          <para>
+            <num>(1)</num>
+            <text>legally authorized to enforce the general criminal laws of the State;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>legally authorized to enforce the criminal and civil laws of the City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>an employee of the Mayor and City Council of Baltimore.</text>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>143</num>
+        <heading>Commissioner.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Head of Department; Qualifications.</heading>
+          <text>The Police Commissioner shall:</text>
+          <para>
+            <num>(1)</num>
+            <text>be at least 30 years of age; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>have at least 5 years of experience in law enforcement.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Appointment.</heading>
+          <text>The Commissioner shall be appointed and must be confirmed pursuant to <cite path="IV|§6|(a)">City Charter Article IV, § 6(a)</cite> {"Appointments subject to confirmation"}.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Term.</heading>
+          <text>The term of the Commissioner shall be established by the Mayor.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Salary.</heading>
+          <text>The Commissioner shall be paid a salary as provided for in the Ordinance of Estimates.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <heading>Staff.</heading>
+          <text>The Commissioner may appoint such employees as provided in the Ordinance of Estimates.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>144</num>
+        <heading>Commissioner: Powers.</heading>
+        <text>The Commissioner shall:</text>
+        <para>
+          <num>(1)</num>
+          <text>determine and establish the form and organization of the Department;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>appoint individuals above the rank of lieutenant;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>as necessary to best serve the interests of the City:</text>
+          <para>
+            <num>(i)</num>
+            <text>assign, reassign, allocate, and reallocate duties to Department staff; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>assign, reassign, allocate, and reallocate Department staff to organizational subdivisions of the Department;</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>determine and establish:</text>
+          <para>
+            <num>(i)</num>
+            <text>the classification of ranks, grades, and positions;</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>uniform insignia;</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>the powers, duties, rights, and privileges for Department staff; and</text>
+          </para>
+          <para>
+            <num>(iv)</num>
+            <text>the order of succession for positions of command;</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>with the consent of the Department of Human Resources, determine and establish positions within the Department for civilian employees;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>appoint, promote, reduce in rank, grade, or position, reassign, reclassify, retire, and discharge  Department staff  in the manner prescribed by law;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>institute a system of:</text>
+          <para>
+            <num>(i)</num>
+            <text>periodic performance evaluation for Department staff; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>regular physical examination of Department staff, as necessary for the employee to effectively perform assigned duties;</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>make and execute contracts and other instruments as may be authorized in the exercise and performance of the powers of the Commissioner and the Department;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>establish, maintain, and modify systems for the reception, processing, and maintenance of:</text>
+          <para>
+            <num>(i)</num>
+            <text>reports and records of occurrences or alleged occurrences of crime within the City; and</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>reports and records of the administration, management, and operation of the Department; and</text>
+          </para>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>adopt rules and regulations to effectively discharge the powers and
+			  duties of the Commissioner and Department.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>145</num>
+        <heading>Department: Powers and duties.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Purpose.</heading>
+          <text>The purpose of the Department is to:</text>
+          <para>
+            <num>(1)</num>
+            <text>safeguard the lives and safety of all individuals within the City;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>protect property within the City; and</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>assist in securing to all individuals the equal protection of the law.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Powers.</heading>
+          <text>The Department shall have, within the boundaries of the City, the power to:</text>
+          <para>
+            <num>(1)</num>
+            <text>maintain the orderly flow of traffic in the public right of way; and</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>assist law enforcement agencies of:</text>
+            <para>
+              <num>(i)</num>
+              <text>the State; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>any official unit of federal, tribal, state, or local government within the United States.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Duties.</heading>
+          <text>The Department shall have, within the boundaries of the City, the specific duty and responsibility to:</text>
+          <para>
+            <num>(1)</num>
+            <text>preserve the public peace;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>detect and prevent the commission of crime;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>enforce the laws of:</text>
+            <para>
+              <num>(i)</num>
+              <text>the State; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>the Mayor and City Council of Baltimore;</text>
+            </para>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>apprehend and arrest individuals who violate or are lawfully accused of violating the law;</text>
+          </para>
+          <para>
+            <num>(5)</num>
+            <text>preserve order at public places; and</text>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>discharge its duties and responsibilities with dignity and in a manner that will inspire public confidence and respect.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <heading>Duties: Outside the City.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>The Department shall perform the duties set forth in subsection (b) of this section within those areas outside the corporate limits of the City which are, from time to time, owned, controlled, operated, or leased by the Mayor and City Council of Baltimore or any unit of City government.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Concurrent jurisdiction.</heading>
+            <text>In those areas described in paragraph (1) of this subsection:</text>
+            <para>
+              <num>(i)</num>
+              <text>the authority and duties of the Department shall be concurrent with that of any police department or police agency in the jurisdiction in which such areas are located; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>nothing contained herein shall limit or adversely affect the jurisdiction and authority of any police department or police agency in the jurisdiction in which such areas are located.</text>
+            </para>
+          </para>
+        </para>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>146</num>
+        <heading>Police officers: Powers and duties.</heading>
+        <text>All police officers of the Department, including such other Department staff who may be designated by the Commissioner from time to time to exercise the powers and duties of police officers, shall have the authority conferred under Title 2 {"Law Enforcement Procedures; Arrest Process"} of the <cite doc="Md. Code" path="gcp">Criminal Procedure Article of the Annotated Code of Maryland</cite>.</text>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
+        <num>147</num>
+        <heading>Redistricting.</heading>
+        <para>
+          <num>(a)</num>
+          <heading>Commissioner to prepare plan for reallocation of boundaries.</heading>
+          <text>To ensure that the resources of the Department are efficiently allocated, following each decennial census of the United States the Commissioner shall prepare and submit a police district redistricting plan to the Mayor within 1 year from the publication of decennial census data for the reallocation of police district boundaries.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <heading>Action by the Mayor.</heading>
+          <text>Within 90 days of receipt of a police district redistricting plan from the Commissioner under subsection (a) of this section and after public hearings the Mayor shall submit a police district redistricting plan for the reallocation of police district boundaries to the City Council for adoption as a resolution of the Mayor and City Council.</text>
+        </para>
+        <para>
+          <num>(c)</num>
+          <heading>Action by the City Council.</heading>
+          <text>The police district redistricting plan, as it may be amended by the City Council, must be approved by resolution of the Mayor and City Council within 180 days from the date the plan is introduced on the Council floor.</text>
+        </para>
+        <annotations>
+          <annotation app="2024-11-05" doc="City of Balt., Md., Res. 24-310" eff="2024-11-05" path="§1" type="History"/>
         </annotations>
       </section>
     </container>
