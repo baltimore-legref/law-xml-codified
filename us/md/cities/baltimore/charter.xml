@@ -3,6 +3,9 @@
   <heading>Charter of Baltimore City</heading>
   <meta>
     <effective>0001-01-01</effective>
+    <recency through="2024-06-01">
+      <doc id="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)" type="mdlaw"/>
+    </recency>
   </meta>
   <annotations>
     <annotation type="Editor's Notes">Captions or headings for various subsections have been added for convenience of reference.  Like the preexisting headings to sections, these are intended solely for convenience of reference.  They are not part of the Charter and should not be taken as affecting the meaning or effect of the law.  Cf. <cite path="I|§2|(m)">Article I, § 2(m)</cite>.</annotation>
@@ -1580,9 +1583,10 @@
       <prefix>§</prefix>
       <num>(27)</num>
       <heading>Police power.</heading>
-      <text>To have and exercise within the limits of Baltimore City all the power commonly known as the Police Power to the same extent as the State has or could exercise that power within the limits of Baltimore City; provided, however, that no ordinance of the City or act of any municipal officer, other than an act of the Mayor pursuant to <cite path="IV">Article IV</cite> of this Charter, shall conflict, impede, obstruct, hinder or interfere with the powers of the Police Commissioner.</text>
+      <text>To have and exercise within the limits of Baltimore City all the power commonly known as the Police Power to the same extent as the State has or could exercise that power within the limits of Baltimore City.</text>
       <annotations>
         <annotation type="History">Chs. 39 and 40, Acts of 2009</annotation>
+        <annotation app="2024-06-01" doc="Laws of Md., ch. 947 (2024 Session Md. Gen. Assembly)" eff="2024-06-01" path="" type="History"/>
       </annotations>
     </section>
     <section>
