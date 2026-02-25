@@ -8,6 +8,7 @@
     <num>.01</num>
     <heading>Authority.</heading>
     <text>These rules and regulations are promulgated by the Department of Finance pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -30,6 +31,7 @@
       <num>4.</num>
       <text>"Retailer" has the meaning stated for "Dealer" in <cite doc="City of Baltimore, Md., Code" path="|7">City Code Article 7</cite>, §62-1.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -43,6 +45,7 @@
       <num>B.</num>
       <text>Only paper or compostable bags may be provided by a retailer to customers in the City of Baltimore.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,6 +92,7 @@
         <text>dry-cleaned goods.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -106,6 +110,7 @@
       <num>C.</num>
       <text>Frequently asked questions and answers are available at <u>www.baltimoresustainability.org</u>.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -123,6 +128,7 @@
       <num>C.</num>
       <text>Chain retailers must request individual tax ID per location.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -136,12 +142,14 @@
       <num>B.</num>
       <text>The report must be filed online at cityservices.baltimorecity.gov/bagtax.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.08</num>
     <heading>User Fee for Checkout Bag.</heading>
     <text>For the use of a checkout bag, a retailer must charge a user fee of $0.05, pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">Baltimore City Code Article 28</cite>, Subtitle 32.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -163,6 +171,7 @@
       <num>D.</num>
       <text>Payments must be made online at cityservices.baltimorecity.gov/bagtax.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -200,12 +209,14 @@
         <text>If the retailer does not remit the appropriate bag surcharge, penalties will be assessed.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>Receipt Itemization.</heading>
     <text>Pursuant to <cite doc="City of Baltimore, Md., Code" path="|28">Baltimore City Code Article 28</cite>, §32-4, each receipt a retailer gives a customer must itemize and show the bag surcharge, if any, on the customer's bill.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -223,18 +234,21 @@
       <num>C.</num>
       <text>The retailer's records must be available for inspection and audit by the City during all business hours.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.13</num>
     <heading>Penalties.</heading>
     <text>A retailer who fails to comply with the provisions of the <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32 and <cite path="05.19.01.13">this regulation</cite> will be penalized in accordance with <cite doc="City of Baltimore, Md., Code" path="|28|§32-6">City Code Article 28, § 32-6</cite>.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.14</num>
     <heading>State Sales and Use Tax.</heading>
     <text>The $0.01 bag surcharge collected by a retailer and remitted to the City for each bag provided to customers pursuant to <cite doc="City of Baltimore, Md., Code" path="|28|§32-4">City Code Article 28, § 32-4</cite> cannot be included in the calculation of the Maryland Sales and Use Tax pursuant to the <cite doc="Md. Code" path="gtg|11102">Tax-General Article, § 11102, Annotated Code of Maryland</cite>.</text>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, Subtitle 32</annotation>
