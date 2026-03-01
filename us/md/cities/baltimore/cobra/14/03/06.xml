@@ -19,6 +19,7 @@
       <num>C.</num>
       <text>Ceremonial signs have no bearing on the official name of a street.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -84,6 +85,7 @@
       <num>D.</num>
       <text>Individuals and organizations must demonstrate a substantial connection to the proposed street and block where the sign is being requested.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -133,6 +135,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -146,6 +149,7 @@
       <num>B.</num>
       <text>DOT shall fabricate and install the ceremonial sign.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|31">Baltimore City Code Article 31</cite>, §2-9</annotation>
