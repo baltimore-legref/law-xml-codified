@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="13|§2-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2-3" codified:citation=" Article 13, § 2-3" codified:display="Amend">
+    <codify:replace path="13|§2-3" codified:doc="City of Baltimore, Md., Code" codified:path="13|§2-3">
       <section>
         <prefix>§</prefix>
         <num>2-3</num>
@@ -64,7 +64,7 @@
           </para>
           <para>
             <num>(9)</num>
-            <text>administer and enforce the <cite path="|building-codes">City's Building, Fire, and Related Codes Article</cite> and all other regulatory codes of Baltimore City that relate to buildings, housing, or sanitation, except where that administration and enforcement is required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> or by State law to be exercised exclusively by some other officer, department, bureau, or agency of the City;</text>
+            <text>administer and enforce the <cite path="|building-codes" doc="City of Balt., Md., Ord. 25-062">City's Building, Fire, and Related Codes Article</cite> and all other regulatory codes of Baltimore City that relate to buildings, housing, or sanitation, except where that administration and enforcement is required by <cite doc="City of Baltimore, Md., Charter">the City Charter</cite> or by State law to be exercised exclusively by some other officer, department, bureau, or agency of the City;</text>
           </para>
           <para>
             <num>(10)</num>
@@ -174,7 +174,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§3-201" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-201" codified:citation=" Article 32, § 3-201" codified:display="Amend">
+    <codify:replace path="32|§3-201" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-201">
       <section>
         <prefix>§</prefix>
         <num>3-201</num>
