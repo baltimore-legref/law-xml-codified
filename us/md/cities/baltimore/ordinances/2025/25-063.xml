@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|attachments|8-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|8-401|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|8-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|8-401|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>8-401</num>
@@ -279,7 +279,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|9-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|9-401|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|9-401" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|9-401|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>9-401</num>
