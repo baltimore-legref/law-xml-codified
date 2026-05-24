@@ -79,6 +79,7 @@
         <text>Adjacent watersheds.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -508,6 +509,7 @@
         <text>"Woods road" means an unpaved road in a water quality management area built and maintained by the City.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -637,6 +639,7 @@
       <num>C.</num>
       <text>The City may remove a watercraft from a WQMA whose occupants are found in violation of <cite path="21.02.04">this chapter</cite>.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -683,6 +686,7 @@
         <text>Collapsible.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -771,6 +775,7 @@
         <text>A maximum length of 20 feet.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -885,6 +890,7 @@
         <text><cite path="21.02.04">This chapter</cite>.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -966,6 +972,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1065,6 +1072,7 @@
       <text>Grazing and Free Roaming.</text>
       <text>A person may not allow the grazing or free roaming of livestock at a WQMA.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1232,6 +1240,7 @@
         <text>Fish from a rowing shell.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1335,6 +1344,7 @@
         <text>Use a permanent tree stand.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1485,6 +1495,7 @@
       <text>Organized group activities.</text>
       <text>A person may participate in an organized group activity within a WQMA if a fully executed Right of Entry Agreement is obtained from the Department in accordance with <cite path="21.02.04.12">Regulation .12 of this chapter</cite>.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1498,6 +1509,7 @@
       <num>B.</num>
       <text>A person may execute a Right of Entry Agreement for a group activity in a WQMA by emailing the Office of Legal and Regulatory Affairs, using the contact information found on the Department website.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1560,12 +1572,14 @@
       <num>K.</num>
       <text>Bungee jump.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.14</num>
     <heading>Wildlife.</heading>
     <text>A person may not feed the wildlife at a WQMA.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1584,6 +1598,7 @@
       <num>C.</num>
       <text>A building or structure closed to the public.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1598,12 +1613,14 @@
       <num>B.</num>
       <text>A sworn police officer, including a member of the Baltimore Environmental Police.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.17</num>
     <heading>Disorderly Conduct.</heading>
     <text>A person may not interfere with City personnel or a City contractor conducting operations in a WQMA.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1626,6 +1643,7 @@
       <num>D.</num>
       <text>A cooking fire.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1655,6 +1673,7 @@
         <text>Human or animal waste.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1677,6 +1696,7 @@
       <num>B.</num>
       <text>Possess or consume an alcoholic beverage in a WQMA.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1718,6 +1738,7 @@
         <text>Park in violation of a posted sign or where otherwise prohibited.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1736,6 +1757,7 @@
       <num>C.</num>
       <text>Advertising goods or services.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">City Code, Article 24 §§ 1-1, 21-1</annotation>

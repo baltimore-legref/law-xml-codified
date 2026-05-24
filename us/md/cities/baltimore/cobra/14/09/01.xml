@@ -20,6 +20,7 @@
       <num>(3)</num>
       <text>Expand the toolkit of traffic calming options to promote safety and livability on City streets.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -81,6 +82,7 @@
         <text>"Traffic Calming" means devices or methods used to slow the speed of traffic or reduce volume of traffic.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -198,6 +200,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -219,6 +222,7 @@
       <num>B.</num>
       <text>Data collection and analysis shall proceed immediately following the BCDOT determination of a valid request for traffic calming.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -312,6 +316,7 @@
         <text>other mitigation measures:</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -357,6 +362,7 @@
       <num>D.</num>
       <text>Prior to the beginning of construction season, the prioritization process will determine the construction program on an annual basis.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -418,6 +424,7 @@
         <text>Comments must be submitted within the specified response period.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -435,12 +442,14 @@
       <num>C.</num>
       <text>Arterial streets may be scheduled for construction separately from local and collector streets to allow for additional analysis, more comprehensive treatments, or other factors.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Review</heading>
     <text>After installation of traffic calming devices, BCDOT may review traffic calming devices for effectiveness.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -518,6 +527,7 @@
         <text>other available treatments or devices.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Baltimore City Code, Article 31, §§2-2 and 2-5.</annotation>

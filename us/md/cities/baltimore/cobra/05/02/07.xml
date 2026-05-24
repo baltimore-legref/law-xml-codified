@@ -39,6 +39,7 @@
         <text>The effect of other tax credits on how the High-Performance Newly Constructed Dwelling Tax Credit is applied to a dwelling.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -100,6 +101,7 @@
         <text>"Vacant dwelling" has the meaning stated in <cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §10-18.1(a)(5).</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -133,6 +135,7 @@
         <text>If continuing eligibility requirements are not met.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -258,6 +261,7 @@
       <num>I.</num>
       <text>Properties remain eligible for the credit for a period of five consecutive tax years.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -378,12 +382,14 @@
         <text>Email a copy of the occupancy permit to <u>tax.credits@baltimorecity.gov</u> when it is received.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Transferability.</heading>
     <text>The High-Performance Newly Constructed Dwellings Tax Credit is not transferrable to subsequent owners of the property.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -421,6 +427,7 @@
       <num>E.</num>
       <text>Ineligibility for the credit during one or more of the five years in the eligibility term will not extend the five-year term of the tax credit.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -446,12 +453,14 @@
         <text>Any other real property tax credit other than the credit specified in .08(B).</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.09</num>
     <heading>Termination of Program.</heading>
     <text>An owner whose settlement on the purchase of a high-performance newly constructed dwelling occurs after June 30, 2027 may not apply for this credit.</text>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|28">City Code Article 28</cite>, §10-18.1 and Maryland <cite doc="Md. Code" path="gtp|9-242">Tax-Property Article, §9-242</cite></annotation>
