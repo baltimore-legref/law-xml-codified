@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="6|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§1-1" codified:citation=" Article 6, § 1-1" codified:display="Amend">
+    <codify:replace path="6|§1-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§1-1">
       <section>
         <prefix>§</prefix>
         <num>1-1</num>
@@ -186,23 +186,23 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§2-9|(a)|(2)|(ii)|(A)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-9|(a)|(2)|(ii)|(A)" codified:citation=" Article 6, § 2-9" codified:display="Amend">
+    <codify:replace path="6|§2-9|(a)|(2)|(ii)|(A)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-9|(a)|(2)|(ii)|(A)">
       <para>
         <num>(A)</num>
         <text>preservation and conservation districts, as designated under Subtitle 3 {"Designation of Preservation Districts and Conservation Districts"} of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>; and</text>
       </para>
     </codify:replace>
-    <codify:replace path="6|§2-10|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-10|(b)" codified:citation=" Article 6, § 2-10" codified:display="Amend">
+    <codify:replace path="6|§2-10|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§2-10|(b)">
       <para>
         <num>(b)</num>
         <heading>Scope of program.</heading>
         <text>Subject to appropriations by the Ordinance of Estimates, the Commission for Historical and Architectural Preservation may contract with the owner or lessee of a structure that is located within a Historical and Architectural Preservation District or a Historical Conservation District or included on the Landmark List to reimburse that owner or lessee of up to 20% of the cost incurred by her or him in the reconstruction, alteration, removal, repair, or painting of an architectural feature in a manner that furthers the purposes of <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite>.</text>
       </para>
     </codify:replace>
-    <codify:replace path="6|3|heading" codified:doc="City of Baltimore, Md., Code" codified:path="6|3" codified:citation=" Article 6, Subtitle 3" codified:display="Amend">
+    <codify:replace path="6|3|heading" codified:doc="City of Baltimore, Md., Code" codified:path="6|3">
       <heading>Designation of Preservation Districts and Conservation Districts</heading>
     </codify:replace>
-    <codify:replace path="6|§3-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-1" codified:citation=" Article 6, § 3-1" codified:display="Amend">
+    <codify:replace path="6|§3-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-1">
       <section>
         <prefix>§</prefix>
         <num>3-1</num>
@@ -247,7 +247,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§3-2" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-2" codified:citation=" Article 6, § 3-2" codified:display="Amend">
+    <codify:replace path="6|§3-2" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-2">
       <section>
         <prefix>§</prefix>
         <num>3-2</num>
@@ -264,7 +264,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§3-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-5|(a)" codified:citation=" Article 6, § 3-5" codified:display="Amend">
+    <codify:replace path="6|§3-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-5|(a)">
       <para>
         <num>(a)</num>
         <heading>Required referrals.</heading>
@@ -298,7 +298,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="6|§3-7" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-7" codified:citation=" Article 6, § 3-7" codified:display="Amend">
+    <codify:replace path="6|§3-7" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-7">
       <section>
         <prefix>§</prefix>
         <num>3-7</num>
@@ -322,7 +322,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§3-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-8|(a)" codified:citation=" Article 6, § 3-8" codified:display="Amend">
+    <codify:replace path="6|§3-8|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-8|(a)">
       <para>
         <num>(a)</num>
         <heading>Scope of section.</heading>
@@ -337,7 +337,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="6|§3-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-9|(a)" codified:citation=" Article 6, § 3-9" codified:display="Amend">
+    <codify:replace path="6|§3-9|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§3-9|(a)">
       <para>
         <num>(a)</num>
         <heading>Scope of section.</heading>
@@ -376,7 +376,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="6|§5-3" codified:doc="City of Baltimore, Md., Code" codified:path="6|§5-3" codified:citation=" Article 6, § 5-3" codified:display="Amend">
+    <codify:replace path="6|§5-3" codified:doc="City of Baltimore, Md., Code" codified:path="6|§5-3">
       <section>
         <prefix>§</prefix>
         <num>5-3</num>
@@ -412,7 +412,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§6-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-1" codified:citation=" Article 6, § 6-1" codified:display="Amend">
+    <codify:replace path="6|§6-1" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-1">
       <section>
         <prefix>§</prefix>
         <num>6-1</num>
@@ -420,14 +420,14 @@
         <text>The Commission's Executive Director shall create and maintain an Inventory of Historic Places, to identify areas or structures that, while not designated as Preservation Districts, Conservation Districts, Landmarks, or Potential Landmarks, are nonetheless historically or architecturally noteworthy.</text>
       </section>
     </codify:replace>
-    <codify:replace path="6|§6-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-3|(b)" codified:citation=" Article 6, § 6-3" codified:display="Amend">
+    <codify:replace path="6|§6-3|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§6-3|(b)">
       <para>
         <num>(b)</num>
         <heading>No determination of eligibility for designation.</heading>
         <text>Inclusion of an area or structure in the Inventory is not a determination of eligibility for designation as a Preservation District, Conservation District, Landmark, or Potential Landmark.</text>
       </para>
     </codify:replace>
-    <codify:replace path="6|§8-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-2|(a)" codified:citation=" Article 6, § 8-2" codified:display="Amend">
+    <codify:replace path="6|§8-2|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-2|(a)">
       <para>
         <num>(a)</num>
         <heading>Exterior structures.</heading>
@@ -454,7 +454,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="6|§8-4|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-4|(c)" codified:citation=" Article 6, § 8-4" codified:display="Amend">
+    <codify:replace path="6|§8-4|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-4|(c)">
       <para>
         <num>(c)</num>
         <heading>CHAP approval prerequisite for permit.</heading>
@@ -477,7 +477,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="6|§8-9" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-9" codified:citation=" Article 6, § 8-9" codified:display="Amend">
+    <codify:replace path="6|§8-9" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-9">
       <section>
         <prefix>§</prefix>
         <num>8-9</num>
@@ -493,21 +493,21 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="6|§8-15|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-15|(a)" codified:citation=" Article 6, § 8-15" codified:display="Amend">
+    <codify:replace path="6|§8-15|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§8-15|(a)">
       <para>
         <num>(a)</num>
         <heading>No change in design, etc.</heading>
         <text>Nothing in <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite> prevents the ordinary maintenance or repair of an architectural feature within any Preservation District or any Conservation District or on any Landmark or Potential Landmark, if the maintenance or repair involves no change in design, material, color, or appearance of the structure.</text>
       </para>
     </codify:replace>
-    <codify:replace path="6|§9-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§9-1|(a)" codified:citation=" Article 6, § 9-1" codified:display="Amend">
+    <codify:replace path="6|§9-1|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="6|§9-1|(a)">
       <para>
         <num>(a)</num>
         <heading>Judicial review.</heading>
         <text>Within 30 days after CHAP has approved, disapproved, or delayed an application presented at a CHAP public hearing, a person aggrieved by any decision of the Commission under <cite doc="City of Baltimore, Md., Code" path="|6">this article</cite> may seek judicial review of that decision by petition to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Procedure.</text>
       </para>
     </codify:replace>
-    <codify:replace path="28|§10-8|(a)|(4)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-8|(a)|(4)" codified:citation=" Article 28, § 10-8" codified:display="Amend">
+    <codify:replace path="28|§10-8|(a)|(4)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-8|(a)|(4)">
       <para>
         <num>(4)</num>
         <heading>Historic property.</heading>
