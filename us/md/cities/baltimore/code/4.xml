@@ -542,7 +542,7 @@
       </para>
       <para>
         <num>(5)</num>
-        <text>receive and investigate and seek to adjust all complaints of unlawful practices forbidden by <cite path="|4">this article</cite>, but no complaints shall be received unless made to the Commission within 180 days of such alleged unlawful practice;</text>
+        <text>receive and investigate and seek to resolve all complaints of unlawful practices forbidden by <cite path="|4">this article</cite>, but no complaints shall be received unless made to the Commission within 300 days of such alleged unlawful practice;</text>
       </para>
       <para>
         <num>(6)</num>
@@ -580,6 +580,7 @@
         <annotation doc="City of Balt., Md., Ord. 77-590" type="History">Ord. 77-590</annotation>
         <annotation type="History">Text Conformed 02/12/21</annotation>
         <annotation type="Editor's Notes">By authority of Ordinance 20-431, Section 5, the Director of Legislative Reference, in consultation with the Law Department, has conformed the text of subsection (8) to refer expressly to the requirements of the recently-enacted Administrative Procedure Act that, effective January 15, 2021, governs the proposal, adoption, and publication of administrative rules and regulations.</annotation>
+        <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-438" eff="2025-01-01" path="§1" target-path="4|§2-4|(5)" type="History"/>
       </annotations>
     </section>
     <section>
