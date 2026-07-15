@@ -11722,7 +11722,7 @@
           <text>
             <strong>
               <em>
-                <cite path="|health" doc="City of Balt., Md., Ord. 24-317">Health Code</cite>
+                <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
               </em>
             </strong>
           </text>
@@ -11836,6 +11836,18 @@
                 <tr>
                   <td>Title 8:  Air Pollution</td>
                   <td>$100</td>
+                </tr>
+                <tr>
+                  <td class="text-indent-1">Subtitle 3: Gas-Powered Debris Removal Equipment</td>
+                  <td proof="needed"/>
+                </tr>
+                <tr>
+                  <td class="text-indent-2">§ 8-303.  Prohibition of gas-powered debris removal equipment</td>
+                  <td proof="needed"/>
+                </tr>
+                <tr>
+                  <td class="text-indent-3">Subsequent offense</td>
+                  <td>$250</td>
                 </tr>
                 <tr>
                   <td>Title 9:  Noise Regulation</td>
@@ -12160,6 +12172,7 @@
         <annotation app="2024-03-13" doc="City of Balt., Md., Ord. 24-317" eff="2024-03-13" path="§1" target-path="|1|40|40-14|(e)|(7)" type="History"/>
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="1|§40-14|(e)|(5c)" type="History"/>
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="1|§40-14|(e)|(6)" type="History"/>
+        <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="1|§40-14|(e)|(7)" type="History"/>
       </annotations>
     </section>
   </container>
@@ -13227,7 +13240,7 @@
         <text>
           <strong>
             <em>
-              <cite path="|health" doc="City of Balt., Md., Ord. 24-317">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -13285,6 +13298,18 @@
               <tr>
                 <td>Title 8:  Air Pollution</td>
                 <td>$100</td>
+              </tr>
+              <tr>
+                <td class="text-indent-1">Subtitle 3: Gas-Powered Debris Removal Equipment</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-2">§ 8-303.  Prohibition of gas-powered debris removal equipment</td>
+                <td proof="needed"/>
+              </tr>
+              <tr>
+                <td class="text-indent-3">Subsequent offense</td>
+                <td>$250</td>
               </tr>
               <tr>
                 <td>Title 9:  Noise Regulation</td>
@@ -13554,6 +13579,7 @@
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="1|§41-14|(5)" type="History"/>
         <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="1|§41-14|(5a)" type="History"/>
         <annotation app="2024-05-24" doc="City of Balt., Md., Ord. 24-335" eff="2024-05-24" path="§1" target-path="1|§41-14|(.5)" type="History"/>
+        <annotation app="2024-12-15" doc="City of Balt., Md., Ord. 24-421" eff="2024-12-15" path="§1" target-path="1|§41-14|(6)" type="History"/>
       </annotations>
     </section>
   </container>
