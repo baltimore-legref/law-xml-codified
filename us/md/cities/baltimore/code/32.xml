@@ -23175,6 +23175,10 @@
           <para>
             <num>(2)</num>
             <text>The entire PC Zoning District, as mapped on the adopted Zoning Map, as of June 5, 2017, is designated an Area of Special Signage Control, unless the boundaries of the Area of Special Signage Control are otherwise amended per § 17-505.</text>
+            <para>
+              <num>(2)</num>
+              <text>The entire PC Zoning District is designated an Area of Special Signage Control, unless the boundaries of the Area of Special Signage Control are otherwise amended per <cite path="32|§17-505">§ 17-505</cite>.</text>
+            </para>
           </para>
         </para>
         <para>
@@ -23196,6 +23200,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord.18-216" type="History">Ord.18-216</annotation>
           <annotation doc="City of Balt., Md., Ord. 19-244" type="History">Ord. 19-244</annotation>
+          <annotation app="2024-10-02" doc="City of Balt., Md., Ord. 24-373" eff="2024-10-02" path="§1" target-path="32|§17-502|(a)|(2)" type="History"/>
         </annotations>
       </section>
       <section>
