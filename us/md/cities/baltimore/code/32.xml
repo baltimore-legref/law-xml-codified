@@ -278,14 +278,18 @@
           </para>
           <para>
             <num>(5)</num>
-            <text>solid waste sanitary landfills;</text>
+            <text>private detention centers;</text>
           </para>
           <para>
             <num>(6)</num>
-            <text>storage on barges and belt conveyor systems used for the transfer of materials, but this prohibition does not apply to the continuous process of unloading or loading processed metal (as defined in § 1-308) for and during its transfer to or from a docked barge or vessel awaiting shipment; and</text>
+            <text>solid waste sanitary landfills;</text>
           </para>
           <para>
             <num>(7)</num>
+            <text>storage on barges and belt conveyor systems used for the transfer of materials, but this prohibition does not apply to the continuous process of unloading or loading processed metal (as defined in § 1-308) for and during its transfer to or from a docked barge or vessel awaiting shipment; and</text>
+          </para>
+          <para>
+            <num>(8)</num>
             <text>vehicle dismantling facilities.</text>
           </para>
         </para>
@@ -293,6 +297,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 18-110" type="History">Ord. 18-110</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-127" eff="2026-06-16" path="§1" target-path="32|§1-209" type="History"/>
         </annotations>
       </section>
       <section>
@@ -2017,6 +2022,11 @@
             <heading>Inclusions.</heading>
             <text>"Government facility" includes agency offices, storage yards, public works facilities, recreation: indoor, and utility facilities that are operated by a government agency.</text>
           </para>
+          <para>
+            <num>(3)</num>
+            <heading>Exclusion.</heading>
+            <text>"Government facility" does not include a private detention center.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -2306,6 +2316,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-171" type="History">Ord. 18-171</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
           <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" target-path="32|§1-307|(a)" type="History"/>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-127" eff="2026-06-16" path="§1" target-path="32|§1-307" type="History"/>
         </annotations>
       </section>
       <section>
@@ -3374,12 +3385,12 @@
           <para>
             <num>(1)</num>
             <heading>In general.</heading>
-            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general">General Provisions Article</cite>.</text>
+            <text>"Person" has the meaning stated in <cite path="|general|1|1|1-107|(a)" doc="City of Balt., Md., Ord. 26-127">§ 1-107(a) {"Person: In general"}</cite> of the City Code's <cite path="|general" doc="City of Balt., Md., Ord. 26-127">General Provisions Article</cite>.</text>
           </para>
           <para>
             <num>(2)</num>
             <heading>Qualified inclusion of governmental entities.</heading>
-            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general">General Provisions Article</cite>, in this subtitle "person"also  includes, except as used in Title 19, Subtitle 2 {"Enforcement"} of this Code for the  imposition of civil or criminal penalties, a governmental entity or an instrumentality or unit of a governmental entity.</text>
+            <text>Notwithstanding <cite path="|general|1|1|1-107|(b)" doc="City of Balt., Md., Ord. 26-127">§ 1-107(b) {"Person: Exclusion"}</cite> of the <cite path="|general" doc="City of Balt., Md., Ord. 26-127">General Provisions Article</cite>, in this subtitle "person"also  includes, except as used in Title 19, Subtitle 2 {"Enforcement"} of this Code for the  imposition of civil or criminal penalties, a governmental entity or an instrumentality or unit of a governmental entity.</text>
           </para>
         </para>
         <para>
@@ -3499,11 +3510,49 @@
         </para>
         <para>
           <num>(w)</num>
+          <heading>Private detention center.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>"Private detention center" means any building, facility, or structure that:</text>
+            <para>
+              <num>(i)</num>
+              <text>is owned or operated by a private, nongovernmental entity pursuant to an agreement with a federal, state, or local government entity; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>is used, in whole or in part, to house or detain an individual, at the direction of a government agency:</text>
+              <para>
+                <num>(A)</num>
+                <text>prior to trial sentencing;</text>
+              </para>
+              <para>
+                <num>(B)</num>
+                <text>during the term of the individual's sentence;</text>
+              </para>
+              <para>
+                <num>(C)</num>
+                <text>for a federal immigration violation; or</text>
+              </para>
+              <para>
+                <num>(D)</num>
+                <text>for another judicial or administrative process or proceeding.</text>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>"Private detention center" does not include a residential-care facility.</text>
+          </para>
+        </para>
+        <para>
+          <num>(x)</num>
           <heading>Private pier.</heading>
           <text>"Private pier" means facilities with 4 or fewer slips, used exclusively for private, recreational purposes by the owner and the owner's guests.</text>
         </para>
         <para>
-          <num>(x)</num>
+          <num>(y)</num>
           <heading>Processed metal.</heading>
           <text><em>See </em>"Junk or scrap storage and yards"<em>.</em></text>
         </para>
@@ -3512,6 +3561,7 @@
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="History">22-181</annotation>
+          <annotation app="2026-06-16" doc="City of Balt., Md., Ord. 26-127" eff="2026-06-16" path="§1" target-path="32|§1-311" type="History"/>
         </annotations>
       </section>
       <section>
