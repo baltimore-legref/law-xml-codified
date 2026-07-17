@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Policy</prefix>
+  <num>AM-228-1</num>
+  <heading>Performance Management Policy for Managerial and Professional Society of Baltimore Covered Employees</heading>
+  <text>The City of Baltimore (the City) is committed to building and maintaining a high performing and an accountable workforce by providing a continuous, year-round process where your managers and employees work together to plan, track, and review the employee's career goals, work objectives, and contributions.</text>
+  <para name="purpose">
+    <num>I.</num>
+    <heading>PURPOSE</heading>
+    <text>The purpose of the Performance Management Program (PMP) policy is to improve organizational effectiveness through individual, division, and agency accountability. PMP documents establish individual performance goals that are aligned to each employee's job responsibilities. The PMP also supports the City's goals by requiring ongoing, supervisory coaching, counseling, and feedback to each employee, encouraging professional development and the recognition of each employee's contributions toward achieving organizational goals.</text>
+    <text>When properly executed, the PMP process meets the following City objectives:</text>
+    <para>
+      <num>1.</num>
+      <text>Aligns the individual employee's responsibilities and performance objectives to division and agency strategic goals;</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Ensures the use of an objective and quantifiable system for evaluating employee performance and recognizing employee accomplishments;</text>
+    </para>
+    <para>
+      <num>3.</num>
+      <text>Provides an objective basis for supervisors to address an employee's performance deficiencies;</text>
+    </para>
+    <para>
+      <num>4.</num>
+      <text>Improves the City's overall performance through assessment, coaching, counseling, and training;</text>
+    </para>
+    <para>
+      <num>5.</num>
+      <text>Recognizes different levels of performance; and</text>
+    </para>
+    <para>
+      <num>6.</num>
+      <text>Serves as a workforce and succession planning tool for all job actions.</text>
+    </para>
+  </para>
+  <para name="scope">
+    <num>II.</num>
+    <heading>SCOPE</heading>
+    <text>This policy applies to all eligible Managerial and Professional Society of Baltimore (MAPS) employees, both Civil Services and Non-Civil Service employees.</text>
+    <text>All Performance Management (PM) reviews are confidential, unless they are required for production during grievances; appeals to the Civil Service Commission or Labor Commissioner; or for external litigation.</text>
+  </para>
+  <para name="definitions">
+    <num>III.</num>
+    <heading>DEFINITIONS</heading>
+    <text><strong>Job Competencies –</strong> Competencies are a set of defined knowledge, skills, abilities, and other requirements that are needed for an employee to perform successfully.</text>
+    <text><strong>Eligible Employee –</strong> All <em>regular employees</em> of the City of Baltimore in both Civil Service and Non Civil Service MAPS represented and non-represented covered classifications.</text>
+    <text><strong>Performance Objectives –</strong> Measurable and evidence-based outcomes that the employee is expected to achieve (e.g., SMART goals - <strong>S</strong>pecific, <strong>M</strong>easurable, <strong>A</strong>ttainable, <strong>R</strong>ealistic, and <strong>T</strong>imed).</text>
+    <text><strong>Professional Development –</strong> Training that builds skills, expands knowledge, or enhances competencies.</text>
+  </para>
+  <para name="responsibilities">
+    <num>IV.</num>
+    <heading>RESPONSIBILITIES</heading>
+    <text>The PMP is a collaborative effort involving multiple stakeholders with specific responsibilities at critical stages of the process including, but not limited to, the following:</text>
+    <para>
+      <num>A.</num>
+      <text>Employee Responsibilities</text>
+      <text>Employees must develop their own PM performance objectives and professional development plan, in collaboration with their managers. Employee also must complete a self-evaluation for use during the mid-year and year-end review.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Manager Responsibilities</text>
+      <text>Managers are required to approve final performance objectives based on the employee's position description and Agency goals and in consultation with employees.</text>
+      <text>Managers are required to meet periodically throughout the year to provide continuous feedback, along with the completion of mid-year and year-end reviews of their employees.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Agency Human Resources (HR) Practitioner Responsibilities</text>
+      <text>The Agency HR office is responsible for retaining a completed evaluation in the employee's personnel file and must input all information into the City's system of record.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <text>Agency Responsibilities</text>
+      <text>Agencies are responsible for ensuring compliance with this policy. Agencies must keep the annual performance review and any supporting documentation as a permanent part of the employee's official personnel record.</text>
+    </para>
+  </para>
+  <para name="performance-management-program-measurement-period">
+    <num>V.</num>
+    <heading>PERFORMANCE MANAGEMENT PROGRAM MEASUREMENT PERIOD</heading>
+    <text>The PMP measurement period runs concurrent with the City's fiscal year and must be completed timely to ensure an effective administration. Eligible employees must receive a formal evaluation and ratings from their managers in the PM review. This PM review must occur once every year according to the schedule attached as communicated by the Department of Human Resources (DHR) Office of Shared Services.</text>
+  </para>
+  <para name="performance-management-program-eligibility">
+    <num>VI.</num>
+    <heading>PERFORMANCE MANAGEMENT PROGRAM ELIGIBILITY</heading>
+    <text>Each eligible employee must receive performance objectives annually, except for employees who fall into one of the categories below:</text>
+    <para>
+      <num>A.</num>
+      <heading>Newly Hired Employees:</heading>
+      <text>Newly hired employees must receive the manager's performance objectives within 45 days of their initial date of service and receive a PM review at least 15 days <strong>before </strong>the end of the employee's probationary period. After successfully completing the probationary period, the employee will receive new performance objectives for the performance management period.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <heading>Material Change in Job Duties:</heading>
+      <text>An employee who is reclassified, promoted, demoted, or transferred during the performance management cycle must receive updated performance objectives within 45 days of a permanent material change in performance objectives.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <heading>Recently Appointed Supervision:</heading>
+      <text>Whenever an employee changes supervisors, the employee's former supervisor should evaluate the employee's performance in relation to the employee's goals. Each goal should be rated individually, and no overall rating is required. If the change in supervisors is the result of the employee's former supervisor terminating employment with the City, the next level manager is responsible for evaluating the employee's performance within 7 days. These ratings shall cover the period from the beginning of the year until the effective date of the change in supervisors.</text>
+    </para>
+    <para>
+      <num>D.</num>
+      <heading>Reinstated employees:</heading>
+      <text>An employee reinstated to the same position, in the same agency, will use the previous performance objectives. An employee reinstated to a different position must create new goals and objectives utilizing their new position description.</text>
+    </para>
+  </para>
+  <para name="performance-planning">
+    <num>VII.</num>
+    <heading>PERFORMANCE PLANNING</heading>
+    <text>Annual performance guidance is set forth by using an employee's position description, performance objectives, job competencies, and professional development goals for the specific performance management period. Performance objectives must be created by the employee in collaboration with their direct manager. Performance measures are documented on the City's official PM forms.</text>
+    <text>Employees may not initiate a grievance or appeal at any stage of the employee performance planning process.</text>
+    <para>
+      <num>A.</num>
+      <text>Administration</text>
+      <text>Performance PM reviews for all employees are due according to the schedule that is communicated by DHR's Office of Shared Services. Performance PM reviews must be signed by the employee, the direct manager, and by the next level manager. A copy should be sent to the Agency Human Resources office and retained in the employee's official personnel file.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Development and Training</text>
+      <text>Training is an essential part of the performance management process. Managers are also required to ensure employees complete at least one professional development goal or training activity within the performance year. This may include courses offered in the Department of Human Resources Learning and Development Catalog.</text>
+    </para>
+  </para>
+  <para name="performance-monitoring">
+    <num>VIII.</num>
+    <heading>PERFORMANCE MONITORING</heading>
+    <text>Performance monitoring is an ongoing process that assists managers and employees in achieving performance objectives by identifying and addressing performance deficiencies when they occur. Performance monitoring consists of continuous coaching and counseling, a mid-year PM review and may include performance improvement plans.</text>
+    <para>
+      <num>A.</num>
+      <text>Performance Objectives</text>
+      <text>An employee's manager must work with the employee to identify the performance objectives against which the employee's performance is evaluated every year. This must be done annually for current employees, as well as upon appointment to a new position, or the assignment of substantially different duties to an employee. These goals must be provided to the employee in writing.</text>
+    </para>
+    <para>
+      <num>B.</num>
+      <text>Coaching and Counseling</text>
+      <text>In addition to the mid-year and year-end reviews, managers must initiate coaching and counseling throughout the year as needed to assist employees with meeting performance objectives.</text>
+    </para>
+    <para>
+      <num>C.</num>
+      <text>Performance Management Program Ratings</text>
+      <text>PM ratings are assigned using a DHR-approved scale (e.g., a 5-point scale). These ratings serve as the primary basis for determining employee PM review in the current position, promotability, employee development employee improvement, and employee separation.</text>
+    </para>
+  </para>
+  <para name="performance-management-reviews">
+    <num>IX.</num>
+    <heading>PERFORMANCE MANAGEMENT REVIEWS</heading>
+    <text>PM reviews must encompass the employee's overall performance during the performance management period.</text>
+    <text>PM reviews are not grievable, but may be appealed as set forth below.</text>
+    <text>Appealing PM review</text>
+    <text>An employee may appeal a final performance PM review rating, and the appeal may only be filed for the most recent performance PM review. Any appeal not filed timely will not be considered. The employee is limited to one appeal for any performance cycle, regardless of the number of issues involved.</text>
+    <text>Employees should contact their agency Human Resources Practitioner to discuss concerns or to file an appeal.</text>
+    <text>Appeal Procedure</text>
+    <para>
+      <num>1.</num>
+      <text>An employee who disagrees with an annual PM review and cannot resolve the disagreement with the manager may take their written appeal to the Human Resources Practitioner of their agency. Such an appeal must be made within 10 days of the initial performance PM review.</text>
+    </para>
+    <para>
+      <num>2.</num>
+      <text>Upon receiving the written appeal, the HR Practitioner must provide the appeal to the Agency Head. The Agency Head/Director (or executive-level designee) must provide the employee and the manager a written response within 10 days of the HR Practitioner's receipt of the appeal. The written response shall indicate one of the following outcomes:</text>
+      <para>
+        <num>a.</num>
+        <text>The Agency Head/Director agrees with the original performance PM review;</text>
+      </para>
+      <para>
+        <num>b.</num>
+        <text>The Agency Head/Director disagrees with parts of the performance PM review and instructs the managers/Supervisor to revise the original performance PM review; and</text>
+      </para>
+      <para>
+        <num>c.</num>
+        <text>The Agency Head/Director disagrees with entire performance PM review and instructs the managers/Supervisor to complete a new performance PM review.</text>
+      </para>
+      <text>The decision by the Agency Head/Director or designee shall be final.</text>
+    </para>
+  </para>
+  <para name="prohibited-conduct">
+    <num>X.</num>
+    <heading>PROHIBITED CONDUCT</heading>
+    <text>The City strictly prohibits retaliation or discrimination against an employee for conforming to the Performance Management and Development policy. Violation of this policy may result in disciplinary action, including termination of employment. All employees are required to promptly report concerns of retaliation under this policy to the agency human resources practitioner.</text>
+  </para>
+  <para name="authority">
+    <num>XI.</num>
+    <heading>AUTHORITY</heading>
+    <text>The Department of Human Resources issues this policy pursuant to the authority provided in <cite doc="City of Baltimore, Md., Charter">the City Charter</cite>, Articles VI and VII, and the approval of the City's Board of Estimates.</text>
+  </para>
+  <para name="interpretation">
+    <num>XII.</num>
+    <heading>INTERPRETATION</heading>
+    <text>The Department of Human Resources reserves the right to revise or eliminate this policy at any time, with the approval of the City's Board of Estimates.</text>
+  </para>
+  <annotations>
+    <annotation type="History" effective="2015-04-15" display="true">April 15, 2015</annotation>
+    <annotation type="History" effective="2019-05-24" display="true">May 24, 2019</annotation>
+    <annotation type="Related Policies">AM-200-05</annotation>
+    <annotation doc="City of Baltimore Administrative Manual" path="§AM-204-32" type="Related Policies"/>
+    <annotation type="Related Policies">AM-231-01</annotation>
+    <annotation type="Related Policies">AM-235-01</annotation>
+    <annotation type="Related Policies">PM-370 Performance Management Reviews</annotation>
+  </annotations>
+</section>
