@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|§1-209" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-209" codified:citation=" Article 32, § 1-209" codified:display="Amend">
+    <codify:replace path="32|§1-209" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-209">
       <section>
         <prefix>§</prefix>
         <num>1-209</num>
@@ -82,7 +82,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§1-304" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-304" codified:citation=" Article 32, § 1-304" codified:display="Amend">
+    <codify:replace path="32|§1-304" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-304">
       <section>
         <prefix>§</prefix>
         <num>1-304</num>
@@ -114,7 +114,7 @@
         <para>
           <num>(f)</num>
           <heading>Commercial vehicle.</heading>
-          <text>"Commercial vehicle" has the meaning stated in City Code <cite path="|31|§1-1|(f)">Article 31 {"Transit and Traffic"}, § 1-1(f) {"Definitions – A to L: Commercial vehicle"}</cite>.
+          <text>"Commercial vehicle" has the meaning stated in City Code <cite path="|31|§1-1|(f)" doc="City of Balt., Md., Ord. 26-128">Article 31 {"Transit and Traffic"}, § 1-1(f) {"Definitions – A to L: Commercial vehicle"}</cite>.
           </text>
         </para>
         <para>
@@ -455,7 +455,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§1-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-308" codified:citation=" Article 32, § 1-308" codified:display="Amend">
+    <codify:replace path="32|§1-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-308">
       <section>
         <prefix>§</prefix>
         <num>1-308</num>
@@ -633,8 +633,8 @@
             <text>"Kennel" does not include:</text>
             <para>
               <num>(i)</num>
-              <text>the premises of a feral cat caregiver, as defined in <cite path="|health">City Health Code </cite>
-                <cite path="|health|10|1|10-101">§ 10-101 {"Animal Control...: Definitons"}</cite>, unless 3 or more dogs or non-feral cats over six 6 months old are boarded or maintained on the premises; or</text>
+              <text>the premises of a feral cat caregiver, as defined in <cite path="|health" doc="City of Balt., Md., Ord. 26-128">City Health Code </cite>
+                <cite path="|health|10|1|10-101" doc="City of Balt., Md., Ord. 26-128">§ 10-101 {"Animal Control...: Definitons"}</cite>, unless 3 or more dogs or non-feral cats over six 6 months old are boarded or maintained on the premises; or</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -794,7 +794,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§1-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-310" codified:citation=" Article 32, § 1-310" codified:display="Amend">
+    <codify:replace path="32|§1-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-310">
       <section>
         <prefix>§</prefix>
         <num>1-310</num>
@@ -1128,7 +1128,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312" codified:citation=" Article 32, § 1-312" codified:display="Amend">
+    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312">
       <section>
         <prefix>§</prefix>
         <num>1-312</num>
@@ -1618,7 +1618,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§14-339" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-339" codified:citation=" Article 32, § 14-339" codified:display="Amend">
+    <codify:replace path="32|§14-339" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-339">
       <section>
         <prefix>§</prefix>
         <num>14-339</num>
@@ -2059,7 +2059,7 @@
         <para>
           <num>(o)</num>
           <heading>Certifications.</heading>
-          <text>When the installation of a telecommunications facility is completed, and every 5<sup>th</sup> year thereafter, a professional engineer must certify that the facility meets all applicable <cite path="|building-codes|II">Building Code</cite> and safety requirements.</text>
+          <text>When the installation of a telecommunications facility is completed, and every 5<sup>th</sup> year thereafter, a professional engineer must certify that the facility meets all applicable <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 26-128">Building Code</cite> and safety requirements.</text>
         </para>
       </section>
     </codify:replace>
