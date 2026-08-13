@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="22|§30|(11)" codified:doc="City of Baltimore, Md., Code" codified:path="22|§30|(11)" codified:citation=" Article 22, § 30" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="22|§30|(11)" codified:doc="City of Baltimore, Md., Code" codified:path="22|§30|(11)">
       <para>
         <num>(11)</num>
         <para>
@@ -68,7 +68,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="22|§34" codified:doc="City of Baltimore, Md., Code" codified:path="22|§34" codified:citation=" Article 22, § 34" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="22|§34" codified:doc="City of Baltimore, Md., Code" codified:path="22|§34">
       <section>
         <prefix>§</prefix>
         <num>34</num>
@@ -825,21 +825,21 @@
                 </para>
                 <para>
                   <num>2.</num>
-                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>; or</text>
+                  <text>the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>; or</text>
                 </para>
               </para>
               <para>
                 <num>(ii)</num>
-                <text>if the designated beneficiary is not the member's spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
+                <text>if the designated beneficiary is not the member's spouse or minor child, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and that beneficiary predeceases the member, or if there is no designated beneficiary, then to the member's surviving spouse, to continue for life or until remarriage, if the member was married to that spouse for at least 1 year immediately before the date of the member's death; or</text>
               </para>
               <para>
                 <num>(iii)</num>
-                <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
+                <text>if there is no qualifying surviving spouse under subparagraph (B)(i) or (ii), or if the surviving spouse dies or remarries, then to the member's minor children, to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>.</text>
               </para>
             </para>
             <para>
               <num>(C)</num>
-              <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+              <text>For purposes of this paragraph (4), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (4), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
             </para>
             <para>
               <num>(D)</num>
@@ -939,7 +939,7 @@
                 </para>
                 <para>
                   <num>2.</num>
-                  <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>;</text>
+                  <text>if there is no surviving spouse or if the surviving spouse dies, to the member's minor children to be paid to each child, in equal shares, until that child is no longer minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>;</text>
                 </para>
                 <para>
                   <num>3.</num>
@@ -957,7 +957,7 @@
             </para>
             <para>
               <num>(C)</num>
-              <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
+              <text>For purposes of this paragraph (2), when a member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph (2), each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child.  This process continues until the member's youngest child is no longer a minor.</text>
             </para>
             <para>
               <num>(D)</num>
@@ -1126,18 +1126,18 @@
               </para>
               <para>
                 <num>(B)</num>
-                <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>.</text>
+                <text>if there is no qualifying surviving spouse or if the surviving spouse remarries before age 70 or dies, then the benefit shall be paid to the retired member's minor children, in equal shares, to continue until the children are no longer minors, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>.</text>
               </para>
             </para>
             <para>
               <num>(iii)</num>
               <heading>Retired member's death – Share of minor child who attains majority.</heading>
-              <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
+              <text>For purposes of this paragraph, when a retired member's child is no longer a minor, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, and consequently ceases to receive benefits under this paragraph, each remaining minor child shall begin to receive, in addition to his or her existing benefit, an equal share of the benefit formerly paid to the other child. This process continues until the youngest child is no longer a minor.</text>
             </para>
             <para>
               <num>(iv)</num>
               <heading>Retired member's death – Before contributions and DROP or DROP 2 account recovered.</heading>
-              <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in <cite path="|22|§30|(22)">§ 30(22) of this article</cite>, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
+              <text>If a retired member who is receiving the maximum retirement allowance dies before the member has received in annuity payments a sum equal to the amount of his or her accumulated contributions and DROP or DROP 2 account at the time of retirement, and if there is no qualifying surviving spouse or minor child, as defined in <cite path="|22|§30|(22)" doc="City of Balt., Md., Ord. 24-379">§ 30(22) of this article</cite>, entitled to receive further benefits as a result of the member's death, the difference between the amount of the deceased member's accumulated contributions and DROP or DROP 2 account at the time of his or her retirement and the sum of the annuity payments that he or she had received during his or her lifetime shall be paid in the form of a lump-sum cash payment as follows:</text>
               <para>
                 <num>(A)</num>
                 <text>to the deceased member's beneficiary specifically designated to receive the unused annuity and remaining DROP or DROP 2 account; or</text>
@@ -1731,7 +1731,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="22|§36A" codified:doc="City of Baltimore, Md., Code" codified:path="22|§36A" codified:citation=" Article 22, § 36A" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="22|§36A" codified:doc="City of Baltimore, Md., Code" codified:path="22|§36A">
       <section>
         <prefix>§</prefix>
         <num>36A</num>
@@ -1788,7 +1788,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="22|§36C" codified:doc="City of Baltimore, Md., Code" codified:path="22|§36C" codified:citation=" Article 22, § 36C" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="22|§36C" codified:doc="City of Baltimore, Md., Code" codified:path="22|§36C">
       <section>
         <prefix>§</prefix>
         <num>36C</num>
@@ -1943,7 +1943,7 @@
           </para>
           <para>
             <num>(12)</num>
-            <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of <cite path="|22">this article</cite> concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
+            <text>A DROP 2 participant who retires with a benefit under this section is subject to restrictions of <cite path="|22" doc="City of Balt., Md., Ord. 24-379">this article</cite> concerning contemporaneous membership in more than one City of Baltimore retirement system.</text>
           </para>
         </para>
         <para>
