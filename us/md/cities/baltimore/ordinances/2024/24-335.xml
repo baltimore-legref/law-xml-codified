@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="1|§41-14|(.5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(.5)" codified:citation=" Article 1, § 41-14" codified:display="Amend">
+    <codify:replace path="1|§41-14|(.5)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(.5)">
       <para>
         <num>(.5)</num>
         <text>
@@ -67,7 +67,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="2|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-1" codified:citation=" Article 2, § 10-1" codified:display="Amend">
+    <codify:replace path="2|§10-1" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-1">
       <section>
         <prefix>§</prefix>
         <num>10-1</num>
@@ -102,7 +102,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§10-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-4" codified:citation=" Article 2, § 10-4" codified:display="Amend">
+    <codify:replace path="2|§10-4" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-4">
       <section>
         <prefix>§</prefix>
         <num>10-4</num>
@@ -144,7 +144,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="2|§10-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8" codified:citation=" Article 2, § 10-8" codified:display="Amend">
+    <codify:replace path="2|§10-8" codified:doc="City of Baltimore, Md., Code" codified:path="2|§10-8">
       <section>
         <prefix>§</prefix>
         <num>10-8</num>
