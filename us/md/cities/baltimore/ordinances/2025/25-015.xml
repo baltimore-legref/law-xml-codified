@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|§1-205" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-205" codified:citation=" Article 32, § 1-205" codified:display="Amend">
+    <codify:replace path="32|§1-205" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-205">
       <section>
         <prefix>§</prefix>
         <num>1-205</num>
@@ -70,7 +70,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§1-307|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-307|(a)" codified:citation=" Article 32, § 1-307" codified:display="Amend">
+    <codify:replace path="32|§1-307|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-307|(a)">
       <para>
         <num>(a)</num>
         <heading>Government facility.</heading>
@@ -86,7 +86,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§1-313" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-313" codified:citation=" Article 32, § 1-313" codified:display="Amend">
+    <codify:replace path="32|§1-313" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-313">
       <section>
         <prefix>§</prefix>
         <num>1-313</num>
@@ -332,7 +332,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§3-203|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-203|(b)" codified:citation=" Article 32, § 3-203" codified:display="Amend">
+    <codify:replace path="32|§3-203|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§3-203|(b)">
       <para>
         <num>(b)</num>
         <heading>Powers and duties.</heading>
@@ -391,7 +391,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§4-203" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-203" codified:citation=" Article 32, § 4-203" codified:display="Amend">
+    <codify:replace path="32|§4-203" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-203">
       <section>
         <prefix>§</prefix>
         <num>4-203</num>
@@ -451,7 +451,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§4-405" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-405" codified:citation=" Article 32, § 4-405" codified:display="Amend">
+    <codify:replace path="32|§4-405" codified:doc="City of Baltimore, Md., Code" codified:path="32|§4-405">
       <section>
         <prefix>§</prefix>
         <num>4-405</num>
@@ -552,7 +552,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-201|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-201|(b)" codified:citation=" Article 32, § 5-201" codified:display="Amend">
+    <codify:replace path="32|§5-201|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-201|(b)">
       <para>
         <num>(b)</num>
         <heading>Introduction by application.</heading>
@@ -614,7 +614,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-301" codified:citation=" Article 32, § 5-301" codified:display="Amend">
+    <codify:replace path="32|§5-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-301">
       <section>
         <prefix>§</prefix>
         <num>5-301</num>
@@ -658,7 +658,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-302|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-302|(b)" codified:citation=" Article 32, § 5-302" codified:display="Amend">
+    <codify:replace path="32|§5-302|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-302|(b)">
       <para>
         <num>(b)</num>
         <heading>Minor variances.</heading>
@@ -704,7 +704,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-308" codified:citation=" Article 32, § 5-308" codified:display="Amend">
+    <codify:replace path="32|§5-308" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-308">
       <section>
         <prefix>§</prefix>
         <num>5-308</num>
@@ -777,7 +777,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-309" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-309" codified:citation=" Article 32, § 5-309" codified:display="Amend">
+    <codify:replace path="32|§5-309" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-309">
       <section>
         <prefix>§</prefix>
         <num>5-309</num>
@@ -794,7 +794,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-310" codified:citation=" Article 32, § 5-310" codified:display="Amend">
+    <codify:replace path="32|§5-310" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-310">
       <section>
         <prefix>§</prefix>
         <num>5-310</num>
@@ -819,7 +819,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-406|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-406|(a)" codified:citation=" Article 32, § 5-406" codified:display="Amend">
+    <codify:replace path="32|§5-406|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-406|(a)">
       <para>
         <num>(a)</num>
         <heading>Evaluation criteria.</heading>
@@ -882,7 +882,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-407" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-407" codified:citation=" Article 32, § 5-407" codified:display="Amend">
+    <codify:replace path="32|§5-407" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-407">
       <section>
         <prefix>§</prefix>
         <num>5-407</num>
@@ -893,7 +893,7 @@
           <text>A conditional use and a conditional sign approval lapses and becomes void in 2 years from the date of its final order granting same unless, within that period:</text>
           <para>
             <num>(1)</num>
-            <text>a use permit under this Code and an occupancy permit under the Baltimore City <cite path="|building-codes|II">Building Code</cite> have been obtained for that use;</text>
+            <text>a use permit under this Code and an occupancy permit under the Baltimore City <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 25-015">Building Code</cite> have been obtained for that use;</text>
           </para>
           <para>
             <num>(2)</num>
@@ -915,7 +915,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-503" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-503" codified:citation=" Article 32, § 5-503" codified:display="Amend">
+    <codify:replace path="32|§5-503" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-503">
       <section>
         <prefix>§</prefix>
         <num>5-503</num>
@@ -958,7 +958,7 @@
         <annotations/>
       </section>
     </codify:replace>
-    <codify:replace path="32|§5-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-601|(b)" codified:citation=" Article 32, § 5-601" codified:display="Amend">
+    <codify:replace path="32|§5-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-601|(b)">
       <para>
         <num>(b)</num>
         <heading>Notice of hearing required.</heading>
@@ -993,7 +993,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-603|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-603|(d)" codified:citation=" Article 32, § 5-603" codified:display="Amend">
+    <codify:replace path="32|§5-603|(d)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-603|(d)">
       <para>
         <num>(d)</num>
         <heading>Timing of notice.</heading>
@@ -1008,7 +1008,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-604|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-604|(b)" codified:citation=" Article 32, § 5-604" codified:display="Amend">
+    <codify:replace path="32|§5-604|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-604|(b)">
       <para>
         <num>(b)</num>
         <heading>Notice of hearing.</heading>
@@ -1032,7 +1032,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§5-901" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-901" codified:citation=" Article 32, § 5-901" codified:display="Amend">
+    <codify:replace path="32|§5-901" codified:doc="City of Baltimore, Md., Code" codified:path="32|§5-901">
       <section>
         <prefix>§</prefix>
         <num>5-901</num>
@@ -1061,7 +1061,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§9-703" codified:doc="City of Baltimore, Md., Code" codified:path="32|§9-703" codified:citation=" Article 32, § 9-703" codified:display="Amend">
+    <codify:replace path="32|§9-703" codified:doc="City of Baltimore, Md., Code" codified:path="32|§9-703">
       <section>
         <prefix>§</prefix>
         <num>9-703</num>
@@ -1088,21 +1088,21 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§12-303|(i)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-303|(i)" codified:citation=" Article 32, § 12-303" codified:display="Amend">
+    <codify:replace path="32|§12-303|(i)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-303|(i)">
       <para>
         <num>(i)</num>
         <heading>Residential conversions.</heading>
         <text>The conversion of a single-family dwelling to a multi-family dwelling is allowed in an OR Zoning District, subject to the requirements of § 9-702 {"Residential Conversions: Design review"} of this Code.</text>
       </para>
     </codify:replace>
-    <codify:replace path="32|§12-405|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-405|(e)" codified:citation=" Article 32, § 12-405" codified:display="Amend">
+    <codify:replace path="32|§12-405|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§12-405|(e)">
       <para>
         <num>(e)</num>
         <heading>Ingress and egress.</heading>
         <text>Ingress to and egress from parking must be from side streets or alleys.</text>
       </para>
     </codify:replace>
-    <codify:replace path="32|§14-328|(j)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-328|(j)" codified:citation=" Article 32, § 14-328" codified:display="Amend">
+    <codify:replace path="32|§14-328|(j)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-328|(j)">
       <para>
         <num>(j)</num>
         <heading>Outdoor dining.</heading>
@@ -1130,10 +1130,10 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§14-329|heading" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329" codified:citation=" Article 32, § 14-329" codified:display="Amend">
+    <codify:replace path="32|§14-329|heading" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329">
       <heading>Outdoor dining and rooftop dining.</heading>
     </codify:replace>
-    <codify:replace path="32|§14-329|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329|(a)" codified:citation=" Article 32, § 14-329" codified:display="Amend">
+    <codify:replace path="32|§14-329|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-329|(a)">
       <para>
         <num>(a)</num>
         <heading>Nature of use.</heading>
@@ -1179,7 +1179,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:insert path="32|15|2" after="§15-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-203" codified:citation=" Article 32, § 15-203" codified:display="New">
+    <codify:insert path="32|15|2" after="§15-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-203">
       <section>
         <prefix>§</prefix>
         <num>15-203</num>
@@ -1228,7 +1228,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:replace path="32|§16-207" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-207" codified:citation=" Article 32, § 16-207" codified:display="Amend">
+    <codify:replace path="32|§16-207" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-207">
       <section>
         <prefix>§</prefix>
         <num>16-207</num>
@@ -1270,7 +1270,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§16-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)" codified:citation=" Article 32, § 16-601" codified:display="Amend">
+    <codify:replace path="32|§16-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)">
       <para>
         <num>(b)</num>
         <heading>Exemptions within certain districts.</heading>
@@ -1356,7 +1356,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§18-206|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-206|(b)" codified:citation=" Article 32, § 18-206" codified:display="Amend">
+    <codify:replace path="32|§18-206|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-206|(b)">
       <para>
         <num>(b)</num>
         <heading>By Administrator.</heading>
@@ -1379,7 +1379,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§18-403" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-403" codified:citation=" Article 32, § 18-403" codified:display="Amend">
+    <codify:replace path="32|§18-403" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-403">
       <section>
         <prefix>§</prefix>
         <num>18-403</num>
@@ -1395,7 +1395,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§18-412" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-412" codified:citation=" Article 32, § 18-412" codified:display="Amend">
+    <codify:replace path="32|§18-412" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-412">
       <section>
         <prefix>§</prefix>
         <num>18-412</num>
@@ -1452,7 +1452,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>10-301</num>
@@ -2601,7 +2601,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|10-401" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-401|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|10-401" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-401|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>10-401</num>
@@ -2830,7 +2830,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|11-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|11-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|11-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|11-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>11-301</num>
@@ -3935,7 +3935,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|12-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|12-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-301</num>
@@ -4159,7 +4159,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|12-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-402|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|12-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-402|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-402</num>
@@ -4578,7 +4578,7 @@
         </annotations>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|12-1403" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|12-1403" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-1403</num>
@@ -5039,7 +5039,7 @@
         <annotation app="2025-01-01" doc="City of Balt., Md., Ord. 24-436" eff="2025-01-01" path="§1" type="History"/>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|zoning-tables|15-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|15-601|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|zoning-tables|15-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|15-601|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>15-601</num>
