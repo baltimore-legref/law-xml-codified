@@ -21,13 +21,13 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|§40-14|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)" codified:citation=" Article 1, § 40-14" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§40-14|(e)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)">
       <para>
         <num>(e)</num>
         <heading>Provisions and penalties enumerated.</heading>
         <para>
           <num>(1)</num>
-          <heading><cite path="|2">Article 2</cite>.  Consumer Protections</heading>
+          <heading><cite path="|2" doc="City of Balt., Md., Ord. 25-067">Article 2</cite>.  Consumer Protections</heading>
           <text>
             <table>
               <tbody>
@@ -45,7 +45,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <heading><cite path="|5">Article 5</cite>.  Finance, Property, and Procurement</heading>
+          <heading><cite path="|5" doc="City of Balt., Md., Ord. 25-067">Article 5</cite>.  Finance, Property, and Procurement</heading>
           <text>
             <table>
               <tbody>
@@ -63,7 +63,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <heading><cite path="|7">Article 7</cite>.  Natural Resources</heading>
+          <heading><cite path="|7" doc="City of Balt., Md., Ord. 25-067">Article 7</cite>.  Natural Resources</heading>
           <text>
             <table>
               <tbody>
@@ -97,7 +97,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <heading><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</heading>
+          <heading><cite path="|13" doc="City of Balt., Md., Ord. 25-067">Article 13</cite>.  Housing and Urban Renewal</heading>
           <text>
             <table>
               <tbody>
@@ -146,7 +146,7 @@
         </para>
         <para>
           <num>(5)</num>
-          <heading><cite path="|15">Article 15</cite>.  Licensing and Regulation</heading>
+          <heading><cite path="|15" doc="City of Balt., Md., Ord. 25-067">Article 15</cite>.  Licensing and Regulation</heading>
           <text>
             <table>
               <tbody>
@@ -212,7 +212,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <heading><cite path="|19">Article 19</cite>.  Police Ordinances</heading>
+          <heading><cite path="|19" doc="City of Balt., Md., Ord. 25-067">Article 19</cite>.  Police Ordinances</heading>
           <text>
             <table>
               <tbody>
@@ -338,7 +338,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <heading><cite path="|23">Article 23</cite>.  Sanitation</heading>
+          <heading><cite path="|23" doc="City of Balt., Md., Ord. 25-067">Article 23</cite>.  Sanitation</heading>
           <text>
             <table>
               <tbody>
@@ -384,7 +384,7 @@
         </para>
         <para>
           <num>(8)</num>
-          <heading><cite path="|24">Article 24</cite>.  Water</heading>
+          <heading><cite path="|24" doc="City of Balt., Md., Ord. 25-067">Article 24</cite>.  Water</heading>
           <text>
             <table>
               <tbody>
@@ -458,7 +458,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <heading><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</heading>
+          <heading><cite path="|26" doc="City of Balt., Md., Ord. 25-067">Article 26</cite>.  Surveys, Streets, and Highways</heading>
           <text>
             <table>
               <tbody>
@@ -476,7 +476,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <heading><cite path="|31">Article 31</cite>.  Transit and Traffic</heading>
+          <heading><cite path="|31" doc="City of Balt., Md., Ord. 25-067">Article 31</cite>.  Transit and Traffic</heading>
           <text>
             <table>
               <tbody>
@@ -861,7 +861,7 @@
         </para>
         <para>
           <num>(13)</num>
-          <heading><cite doc="City of Baltimore, Md., Code" path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VIII" proof="needed">Fire Code</cite></heading>
+          <heading><cite doc="City of Baltimore, Md., Code" path="|codes" proof="needed">Building, Fire, and Related Codes Article</cite> – <cite path="|codes|VIII" proof="needed" doc="City of Balt., Md., Ord. 25-067">Fire Code</cite></heading>
           <text>
             <table>
               <tbody>
@@ -911,7 +911,7 @@
           <text>
             <strong>
               <em>
-                <cite path="|codes|VII" proof="needed">Property Maintenance Code</cite>
+                <cite path="|codes|VII" proof="needed" doc="City of Balt., Md., Ord. 25-067">Property Maintenance Code</cite>
               </em>
             </strong>
           </text>
@@ -1012,7 +1012,7 @@
           <text>
             <strong>
               <em>
-                <cite path="|codes|X" proof="needed">International Residential Code</cite>
+                <cite path="|codes|X" proof="needed" doc="City of Balt., Md., Ord. 25-067">International Residential Code</cite>
               </em>
             </strong>
           </text>
@@ -1030,7 +1030,7 @@
         <para>
           <num>(16)</num>
           <heading>
-            <cite path="|health">Health Code</cite>
+            <cite path="|health" doc="City of Balt., Md., Ord. 25-067">Health Code</cite>
           </heading>
           <text>
             <table>
@@ -1377,10 +1377,10 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="1|§41-14|(10)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(10)" codified:citation=" Article 1, § 41-14" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="1|§41-14|(10)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(10)">
       <para>
         <num>(10)</num>
-        <heading><cite path="|31">Article 31</cite>.  Transit and Traffic</heading>
+        <heading><cite path="|31" doc="City of Balt., Md., Ord. 25-067">Article 31</cite>.  Transit and Traffic</heading>
         <text>
           <table>
             <tbody>
@@ -1533,7 +1533,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="31|§1-2" codified:doc="City of Baltimore, Md., Code" codified:path="31|§1-2" codified:citation=" Article 31, § 1-2" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="31|§1-2" codified:doc="City of Baltimore, Md., Code" codified:path="31|§1-2">
       <section>
         <prefix>§</prefix>
         <num>1-2</num>
@@ -1678,7 +1678,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace doc="City of Baltimore, Md., Code" path="31|§16-5" codified:doc="City of Baltimore, Md., Code" codified:path="31|§16-5" codified:citation=" Article 31, § 16-5" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="31|§16-5" codified:doc="City of Baltimore, Md., Code" codified:path="31|§16-5">
       <section>
         <prefix>§</prefix>
         <num>16-5</num>

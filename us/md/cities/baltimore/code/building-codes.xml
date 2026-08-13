@@ -1025,18 +1025,22 @@
             </para>
             <para>
               <num>q.</num>
-              <text>retail goods establishment – with or without alcoholic beverage sales (as defined in Baltimore City Zoning Code § 1-312(u) {"Retail goods establishment."}),</text>
+              <text>retail: small box establishment (as defined in Baltimore City Zoning Code § 1-312(v) {“Retail: Small Box Establishment”}),</text>
             </para>
             <para>
               <num>r.</num>
-              <text>rooming house (as defined in Baltimore City Zoning Code § 1-313(b) {"Rooming house."}),</text>
+              <text>retail goods establishment – with or without alcoholic beverage sales (as defined in Baltimore City Zoning Code § 1-312(u) {"Retail goods establishment."}),</text>
             </para>
             <para>
               <num>s.</num>
-              <text>supportive housing facility (as defined in § 202.2.56 of this Code), or</text>
+              <text>rooming house (as defined in Baltimore City Zoning Code § 1-313(b) {"Rooming house."}),</text>
             </para>
             <para>
               <num>t.</num>
+              <text>supportive housing facility (as defined in § 202.2.56 of this Code), or</text>
+            </para>
+            <para>
+              <num>u.</num>
               <text>tavern (as defined in Baltimore City Zoning Code § 1-314(a) {"Tavern."}).</text>
             </para>
           </para>
@@ -1674,6 +1678,7 @@
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="building-codes|II|1|105|105.1" type="History"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="building-codes|II|1|105|105.3" type="History"/>
           <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="building-codes|II|1|105|105.5" type="History"/>
+          <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-065" eff="2026-01-02" path="§2" target-path="building-codes|II|1|105|105.1|7." type="History"/>
         </annotations>
       </section>
       <section>
