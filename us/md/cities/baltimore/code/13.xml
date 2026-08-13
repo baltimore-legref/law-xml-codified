@@ -7335,8 +7335,8 @@
         </para>
         <para>
           <num>(b)</num>
-          <heading>Commissioner.</heading>
-          <text>"Commissioner" means the Commissioner of Housing and Community Development or the Commissioner's designee.</text>
+          <heading>Director.</heading>
+          <text>"Director" means the Director of Consumer Protection and Business Licensing or the Director's designee.</text>
         </para>
         <para>
           <num>(c)</num>
@@ -7383,6 +7383,7 @@
           <annotation doc="City of Balt., Md., Ord. 13-093" type="History">Ord. 13-093</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
           <annotation type="Editor's Notes">For the Code-wide standard definition of “person”, see <cite path="|general">City General Provisions Article</cite>, <cite path="|general|1|1|1-107">§ 1-107</cite>.</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-1|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7398,7 +7399,7 @@
         <text>No person may operate a peep show establishment unless the person:</text>
         <para>
           <num>(1)</num>
-          <text>obtains a license from the Commissioner for the operation of the establishment, and</text>
+          <text>obtains a license from the Director for the operation of the establishment, and</text>
         </para>
         <para>
           <num>(2)</num>
@@ -7406,6 +7407,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-3" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7441,7 +7443,7 @@
         <prefix>§</prefix>
         <num>13-5</num>
         <heading>Investigation of applicant.</heading>
-        <text>The Commissioner must investigate each applicant for a new or renewal license to determine that:</text>
+        <text>The Director must investigate each applicant for a new or renewal license to determine that:</text>
         <para>
           <num>(1)</num>
           <text>the applicant did not knowingly make a material misstatement in the application; and</text>
@@ -7455,7 +7457,7 @@
           </para>
           <para>
             <num>(ii)</num>
-            <text>the <cite path="|health">Health Code of Baltimore City;</cite></text>
+            <text>the <cite path="|health" doc="City of Balt., Md., Ord. 25-013">Health Code of Baltimore City;</cite></text>
           </para>
           <para>
             <num>(iii)</num>
@@ -7469,15 +7471,17 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-5" type="History"/>
         </annotations>
       </section>
       <section>
         <prefix>§</prefix>
         <num>13-6</num>
         <heading>Issuance of license.</heading>
-        <text>The Commissioner must issue or renew the license if, on investigation, the Commissioner finds that all the requirements of this subtitle are met.</text>
+        <text>The Director must issue or renew the license if, on investigation, the Director finds that all the requirements of this subtitle are met.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-6" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7487,15 +7491,16 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Commissioner may deny an application if, after the applicant has been given the opportunity for a hearing, the Commissioner finds that any requirement of this subtitle is not met.</text>
+          <text>The Director may deny an application if, after the applicant has been given the opportunity for a hearing, the Director finds that any requirement of this subtitle is not met.</text>
         </para>
         <para>
           <num>(b)</num>
           <heading>Notice of reasons.</heading>
-          <text>The Commissioner must notify the applicant in writing of the reasons for the denial.</text>
+          <text>The Director must notify the applicant in writing of the reasons for the denial.</text>
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-7" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7505,7 +7510,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>The Commissioner may suspend or revoke any license issued under this subtitle if, after the licensee has been given the opportunity for a hearing, the Commissioner finds that:</text>
+          <text>The Director may suspend or revoke any license issued under this subtitle if, after the licensee has been given the opportunity for a hearing, the Director finds that:</text>
           <para>
             <num>(1)</num>
             <text>the licensee knowingly made a material misstatement on the application for the issuance or renewal of the license; or</text>
@@ -7519,7 +7524,7 @@
             </para>
             <para>
               <num>(ii)</num>
-              <text>the <cite path="|health">Health Code of Baltimore City;</cite></text>
+              <text>the <cite path="|health" doc="City of Balt., Md., Ord. 25-013">Health Code of Baltimore City;</cite></text>
             </para>
             <para>
               <num>(iii)</num>
@@ -7536,7 +7541,7 @@
           <heading>Notice of decision.</heading>
           <para>
             <num>(1)</num>
-            <text>The Commissioner must notify the licensee in writing of the reasons for the suspension or revocation.</text>
+            <text>The Director must notify the licensee in writing of the reasons for the suspension or revocation.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -7551,6 +7556,7 @@
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 07-552" type="History">Ord. 07-552</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-8" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7560,7 +7566,7 @@
         <para>
           <num>(a)</num>
           <heading>In general.</heading>
-          <text>Before the Commissioner denies, suspends, or revokes any license or license renewal, the Commissioner must notify the applicant or licensee in writing that a hearing will be held to determine whether grounds exist for the denial, suspension, or revocation.</text>
+          <text>Before the Director denies, suspends, or revokes any license or license renewal, the Director must notify the applicant or licensee in writing that a hearing will be held to determine whether grounds exist for the denial, suspension, or revocation.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -7599,6 +7605,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-9|(a)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7621,7 +7628,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>has attached to it a permit tag issued by the Commissioner.</text>
+            <text>has attached to it a permit tag issued by the Director.</text>
           </para>
         </para>
         <para>
@@ -7651,6 +7658,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-11|(a)|(2)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -7762,10 +7770,11 @@
         <prefix>§</prefix>
         <num>13-16</num>
         <heading>Enforcement.</heading>
-        <text>In addition to any other remedy provided in this subtitle or otherwise by law, this subtitle may be enforced by the Commissioner in the manner provided in § 104 {"Duties and powers of Building Official"} of the Baltimore City <cite path="|building-codes|II">Building Code</cite>.</text>
+        <text>In addition to any other remedy provided in this subtitle or otherwise by law, this subtitle may be enforced by the Director of Consumer Protection and Business Licensing in the manner provided in Baltimore City Code Article 1, Subtitle 42.</text>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 02-475" type="History">Ord. 02-475</annotation>
           <annotation doc="City of Balt., Md., Ord. 12-093" type="History">Ord. 12-093</annotation>
+          <annotation app="2025-07-30" doc="City of Balt., Md., Ord. 25-013" eff="2025-07-30" path="§1" target-path="13|§13-16" type="History"/>
         </annotations>
       </section>
       <section>
