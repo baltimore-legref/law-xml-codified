@@ -15,8 +15,8 @@
       </volumes>
     </print>
     <publisher>Department of Legislative Reference</publisher>
-    <recency through="2025-01-01">
-      <doc id="City of Balt., Md., Ord. 24-438" type="ordinance"/>
+    <recency through="2025-03-06">
+      <doc id="City of Balt., Md., Ord. 25-001" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./building-codes.xml"/>
