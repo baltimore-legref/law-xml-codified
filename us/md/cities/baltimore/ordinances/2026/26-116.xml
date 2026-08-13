@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|§1-313" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-313" codified:citation=" Article 32, § 1-313" codified:display="Amend">
+    <codify:replace path="32|§1-313" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-313">
       <section>
         <prefix>§</prefix>
         <num>1-313</num>
@@ -332,7 +332,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§14-337" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-337" codified:citation=" Article 32, § 14-337" codified:display="Amend">
+    <codify:replace path="32|§14-337" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-337">
       <section>
         <prefix>§</prefix>
         <num>14-337</num>
@@ -348,7 +348,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§14-338" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-338" codified:citation=" Article 32, § 14-338" codified:display="Amend">
+    <codify:replace path="32|§14-338" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-338">
       <section>
         <prefix>§</prefix>
         <num>14-338</num>
@@ -378,7 +378,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§14-339" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-339" codified:citation=" Article 32, § 14-339" codified:display="Amend">
+    <codify:replace path="32|§14-339" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-339">
       <section>
         <prefix>§</prefix>
         <num>14-339</num>
@@ -810,11 +810,11 @@
         <para>
           <num>(o)</num>
           <heading>Certifications.</heading>
-          <text>When the installation of a telecommunications facility is completed, and every 5<sup>th</sup> year thereafter, a professional engineer must certify that the facility meets all applicable <cite path="|building-codes|II">Building Code</cite> and safety requirements.</text>
+          <text>When the installation of a telecommunications facility is completed, and every 5<sup>th</sup> year thereafter, a professional engineer must certify that the facility meets all applicable <cite path="|building-codes|II" doc="City of Balt., Md., Ord. 26-116">Building Code</cite> and safety requirements.</text>
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§14-340" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-340" codified:citation=" Article 32, § 14-340" codified:display="Amend">
+    <codify:replace path="32|§14-340" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-340">
       <section>
         <prefix>§</prefix>
         <num>14-340</num>
@@ -944,7 +944,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="32|14|3" after="§14-340" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-341" codified:citation=" Article 32, § 14-341" codified:display="New">
+    <codify:insert path="32|14|3" after="§14-340" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-341">
       <section>
         <prefix>§</prefix>
         <num>14-341</num>
@@ -1019,7 +1019,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="32|15|3" after="§15-304" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-305" codified:citation=" Article 32, § 15-305" codified:display="New">
+    <codify:insert path="32|15|3" after="§15-304" codified:doc="City of Baltimore, Md., Code" codified:path="32|§15-305">
       <section>
         <prefix>§</prefix>
         <num>15-305</num>
@@ -1027,7 +1027,7 @@
         <text>In determining the distance between properties, the measurement shall be calculated using the shortest separation between the property boundary lines.</text>
       </section>
     </codify:insert>
-    <codify:replace path="32|§18-702" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-702" codified:citation=" Article 32, § 18-702" codified:display="Amend">
+    <codify:replace path="32|§18-702" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-702">
       <section>
         <prefix>§</prefix>
         <num>18-702</num>
@@ -1070,7 +1070,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="32|18|7" after="§18-702" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-703" codified:citation=" Article 32, § 18-703" codified:display="New">
+    <codify:insert path="32|18|7" after="§18-702" codified:doc="City of Baltimore, Md., Code" codified:path="32|§18-703">
       <section>
         <prefix>§</prefix>
         <num>18-703</num>
@@ -1095,7 +1095,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:replace path="32|attachments|7-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|7-202|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|7-202" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|7-202|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>7-202</num>
@@ -1270,7 +1270,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|8-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|8-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|8-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|8-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>8-301</num>
@@ -1651,7 +1651,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|9-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|9-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|9-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|9-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>9-301</num>
@@ -2034,7 +2034,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>10-301</num>
@@ -3205,7 +3205,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|11-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|11-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|11-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|11-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>11-301</num>
@@ -4310,7 +4310,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-301</num>
@@ -4534,7 +4534,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-402|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-402" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-402|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-402</num>
@@ -4947,7 +4947,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-501" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-501|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-501" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-501|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-501</num>
@@ -5200,7 +5200,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-601|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-601|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-601</num>
@@ -5391,7 +5391,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-1302" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1302|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-1302" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1302|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-1302</num>
@@ -6366,7 +6366,7 @@
         </text>
       </attachment>
     </codify:replace>
-    <codify:replace path="32|attachments|12-1403" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|12-1403" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|12-1403|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>12-1403</num>
