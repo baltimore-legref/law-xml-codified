@@ -33616,22 +33616,22 @@
         <table>
           <thead>
             <tr>
-              <th colspan="2" data-text-align="left">Sign Types by Zoning District *</th>
+              <th colspan="2">Sign Types by Zoning District *</th>
               <th colspan="3">Zoning District Requirements</th>
               <th colspan="3">Area of Special Signage Control (ASSC)</th>
             </tr>
-            <tr>
-              <th/>
-              <th>Approval Method</th>
-              <th>Maximum Area Per Sign</th>
-              <th>Height, Width, &amp; Location Req'ts</th>
-              <th>Maximum Quantity</th>
-              <th>Sign Types Allowable for ASSC Deviation</th>
-              <th>Maximum Percentage Deviation for Height, Width, &amp; Area</th>
-              <th>Quantity Deviation</th>
-            </tr>
           </thead>
           <tbody>
+            <tr>
+              <th/>
+              <th data-text-align="center">Approval Method</th>
+              <th data-text-align="center">Maximum Area Per Sign</th>
+              <th data-text-align="center">Height, Width, &amp; Location Req'ts</th>
+              <th data-text-align="center">Maximum Quantity</th>
+              <th data-text-align="center">Sign Types Allowable for ASSC Deviation</th>
+              <th data-text-align="center">Maximum Percentage Deviation for Height, Width, &amp; Area</th>
+              <th data-text-align="center">Quantity Deviation</th>
+            </tr>
             <tr>
               <th colspan="8">R-1A through R-4</th>
             </tr>
@@ -33840,10 +33840,7 @@
               <td>Freestanding (Monument)</td>
               <td data-text-align="center">A</td>
               <td data-text-align="center">32 sq. ft.</td>
-              <td data-text-align="center">
-                <p>Max. Hgt.</p>
-                <p>6 ft.</p>
-              </td>
+              <td data-text-align="center">Max. Hgt. 6 ft.</td>
               <td data-text-align="center">1 per lot</td>
               <td colspan="3" data-text-align="center">Not Eligible</td>
             </tr>
@@ -34932,6 +34929,19 @@
               <td data-text-align="center">A</td>
               <td data-text-align="center">50 sq. ft.</td>
               <td data-text-align="center">Max. Hgt. 6 ft.</td>
+              <td data-text-align="center">1 per lot</td>
+              <td data-text-align="center">X</td>
+              <td data-text-align="center">75%</td>
+              <td data-text-align="center">Per Approved Signage Plan</td>
+            </tr>
+            <tr>
+              <td>Freestanding (Pole)</td>
+              <td data-text-align="center">ASSC Only</td>
+              <td data-text-align="center">700 sq. ft.</td>
+              <td data-text-align="center">
+                <p>Min. Hgt. 10 ft.</p>
+                <p>Max Hgt. 75 ft. in a parking lot less than 2,000ft. From a stadium with a seating capacity of at least 40,000</p>
+              </td>
               <td data-text-align="center">1 per lot</td>
               <td data-text-align="center">X</td>
               <td data-text-align="center">75%</td>
@@ -37099,10 +37109,7 @@
               <td colspan="3" data-text-align="center">Not Eligible</td>
             </tr>
             <tr>
-              <td>
-                <p>Attention</p>
-                <p>Getting Device</p>
-              </td>
+              <td>Attention Getting Device</td>
               <td data-text-align="center">A</td>
               <td/>
               <td/>
@@ -37883,10 +37890,7 @@
               <td colspan="3" data-text-align="center">Not Eligible</td>
             </tr>
             <tr>
-              <td>
-                <p>Attention</p>
-                <p>Getting Device</p>
-              </td>
+              <td>Attention Getting Device</td>
               <td data-text-align="center">A</td>
               <td/>
               <td/>
@@ -38417,6 +38421,7 @@
         <annotation doc="City of Balt., Md., Ord. 19-244" type="History">Ord. 19-244</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-350" type="History">Ord. 20-350</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
+        <annotation app="2024-11-27" doc="City of Balt., Md., Ord. 24-429" eff="2024-11-27" path="§1" target-path="32|attachments|17-201" type="History"/>
       </annotations>
     </attachment>
     <attachment>
