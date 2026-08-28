@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="28|§22-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-1" codified:citation=" Article 28, § 22-1" codified:display="Amend">
+    <codify:replace path="28|§22-1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-1">
       <section>
         <prefix>§</prefix>
         <num>22-1</num>
@@ -103,14 +103,14 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="28|§22-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-3|(a)" codified:citation=" Article 28, § 22-3" codified:display="Amend">
+    <codify:replace path="28|§22-3|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-3|(a)">
       <para>
         <num>(a)</num>
         <heading>In general.</heading>
         <text>For all parking, whether on an hourly, daily, weekly, monthly, or longer basis, the tax is 20% of  any fee or other consideration received, directly or indirectly, by the operator of the parking lot or garage or the facilitator, for or in connection with that parking.</text>
       </para>
     </codify:replace>
-    <codify:replace path="28|§22-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-5|(a)" codified:citation=" Article 28, § 22-5" codified:display="Amend">
+    <codify:replace path="28|§22-5|(a)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§22-5|(a)">
       <para>
         <num>(a)</num>
         <heading>Collection.</heading>
