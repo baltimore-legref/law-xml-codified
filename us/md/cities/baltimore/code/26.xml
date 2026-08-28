@@ -1637,7 +1637,7 @@
       <text>The correct number of every house or other building:</text>
       <para>
         <num>(1)</num>
-        <text>shall be displayed as provided in <cite path="|building-codes|II">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {“Business Address”}; and</text>
+        <text>shall be displayed as provided in <cite path="|building-codes|II" proof="needed">International Building Code</cite> <cite path="|building-codes|II|502" proof="needed">§ 502</cite> {“Building Address”}; and</text>
       </para>
       <para>
         <num>(2)</num>
@@ -1661,6 +1661,7 @@
         <annotation doc="City of Balt., Md., Ord. 15-427" type="History">Ord. 15-427</annotation>
         <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
         <annotation doc="City of Balt., Md., Ord. 20-361" type="History">Ord. 20-361</annotation>
+        <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="26|§6-7" type="History"/>
       </annotations>
     </section>
     <section>

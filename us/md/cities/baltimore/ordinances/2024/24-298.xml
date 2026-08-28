@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="building-codes|II|1|105|105.1|7." codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1|7.">
+    <codify:replace path="building-codes|II|1|105|105.1|7." codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1">
       <para>
         <num>7.</num>
         <text>on transfer of ownership or operation of property, continue any of the following uses:</text>

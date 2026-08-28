@@ -5176,17 +5176,17 @@
             <num>(1)</num>
             <text>For purposes of this section, citations issued for violations of the following provisions of the City Code are presumed to be issued for reasons related to public health or to the prevention of disease, epidemics, or nuisances affecting public health:</text>
             <text>
-              <ul class="text-indent-2">
-                <li><cite path="|13">Article 13</cite>.  Housing and Urban Renewal</li>
+              <ul>
+                <li><cite path="|13" doc="City of Balt., Md., Ord. 24-341">Article 13</cite>.  Housing and Urban Renewal</li>
                 <ul>
                   <li>Subtitle 5 {“Licensing of Rental Dwellings”}.</li>
                 </ul>
-                <li><cite path="|15">Article 15</cite>.  Licensing and Regulation</li>
+                <li><cite path="|15" doc="City of Balt., Md., Ord. 24-341">Article 15</cite>.  Licensing and Regulation</li>
                 <ul>
                   <li>Subtitle 17.  Street Vendors</li>
                   <li>Subtitle 18.  Itinerant Wholesale Produce Dealers</li>
                 </ul>
-                <li><cite path="|19">Article 19</cite>.  Police Ordinances</li>
+                <li><cite path="|19" doc="City of Balt., Md., Ord. 24-341">Article 19</cite>.  Police Ordinances</li>
                 <ul>
                   <li>§ 1-2.  Placement <em>{of advertising circulars} </em>without permission</li>
                   <li>§ 7-2.  Vehicle alarms: Prohibited devices</li>
@@ -5215,13 +5215,13 @@
                   <li>§ 50-56.  Soliciting customers</li>
                   <li>§ 59-18.  Reporting <em>{theft or loss of firearm} </em>required</li>
                 </ul>
-                <li><cite path="|23">Article 23</cite>.  Sanitation</li>
+                <li><cite path="|23" doc="City of Balt., Md., Ord. 24-341">Article 23</cite>.  Sanitation</li>
                 <ul>
                   <li>§ 2-1.  Mixed refuse: Receptacles</li>
                   <li>§ 2-2.  Mixed refuse: Handling</li>
                   <li>§ 4-1 or § 4-2.  Receptacles on collection days</li>
                 </ul>
-                <li><cite path="|24">Article 24</cite>.  Water</li>
+                <li><cite path="|24" doc="City of Balt., Md., Ord. 24-341">Article 24</cite>.  Water</li>
                 <ul>
                   <li>§ 21-1.  Rules and regulations <em>{to protect supply and facilities}</em></li>
                   <li>§ 21-2.  Suspension, etc., of certain uses</li>
@@ -5230,16 +5230,16 @@
                   <li>§ 21-5.  Refusal of entry</li>
                   <li>§ 21-6.  Interference with equipment; illegal use of water</li>
                 </ul>
-                <li><cite path="|26">Article 26</cite>.  Surveys, Streets, and Highways</li>
+                <li><cite path="|26" doc="City of Balt., Md., Ord. 24-341">Article 26</cite>.  Surveys, Streets, and Highways</li>
                 <ul>
                   <li>Subtitle 6.  Building Address Numbers</li>
                 </ul>
-                <li><cite path="|31">Article 31</cite>.  Transit and Traffic</li>
+                <li><cite path="|31" doc="City of Balt., Md., Ord. 24-341">Article 31</cite>.  Transit and Traffic</li>
                 <ul>
                   <li>§ 16-12.  Vehicles on sidewalks</li>
                   <li>§ 18-8.  Riding <em>{bicycles}</em> on sidewalk</li>
                 </ul>
-                <li><cite path="|32">Article 32</cite>.  Zoning</li>
+                <li><cite path="|32" doc="City of Balt., Md., Ord. 24-341">Article 32</cite>.  Zoning</li>
                 <ul>
                   <li>§ 5-704.  {Use permit –}When required</li>
                   <li>§ 16-803.  Storage, etc., of abandoned, etc., vehicles</li>
@@ -5255,7 +5255,7 @@
                 </ul>
                 <li><cite path="|building-codes">Building, Fire, and Related Codes Article</cite> – <cite path="|building-codes|VIII">Fire Code</cite></li>
                 <ul>
-                  <li>§ 108.6.  Maintenance: Overcrowding</li>
+                  <li>§ 109.9.  Maintenance: Overcrowding</li>
                   <li>§ 111.1.  Unsafe buildings: General</li>
                   <li>§ 1001.2. Means of Egress: Minimum requirements</li>
                 </ul>
@@ -5264,7 +5264,7 @@
                   <li>Chapter 3.  General Requirements</li>
                 </ul>
                 <li>
-                  <cite path="|health">Health Code</cite>
+                  <cite path="|health" doc="City of Balt., Md., Ord. 24-341">Health Code</cite>
                 </li>
                 <ul>
                   <li>Title 5.  Nuisance Control</li>
@@ -5300,6 +5300,7 @@
           <annotation doc="City of Balt., Md., Ord. 18-130" type="History">Ord. 18-130</annotation>
           <annotation doc="City of Balt., Md., Ord. 20-361" type="History">Ord. 20-361</annotation>
           <annotation doc="City of Balt., Md., Ord. 22-124" type="History">Ord. 22-124</annotation>
+          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="health|§6-603.1|(b)" type="History"/>
         </annotations>
       </section>
       <section>
@@ -18432,7 +18433,7 @@
           </para>
           <para>
             <num>(8)</num>
-            <text>comply with § 3314 {“Rodenticide Procedure”} of the <cite path="|building-codes">City Building, Fire, and Related Codes Article</cite>;</text>
+            <text>comply with § 3318 {“Rodenticide Procedure”} of the <cite path="|building-codes" proof="needed">City Building, Fire, and Related Codes Article</cite>;</text>
           </para>
           <para>
             <num>(9)</num>
@@ -18450,6 +18451,7 @@
         </para>
         <annotations>
           <annotation doc="City of Balt., Md., Ord. 20-430" type="History">Ord. 20-430</annotation>
+          <annotation app="2024-05-22" doc="City of Balt., Md., Ord. 24-341" eff="2024-05-22" path="§1" target-path="health|§19-302|(b)|(8)" type="History"/>
         </annotations>
       </section>
       <section>
