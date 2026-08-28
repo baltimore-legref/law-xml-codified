@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="5|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-1" codified:citation=" Article 5, § 9-1" codified:display="Amend">
+    <codify:replace path="5|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-1">
       <section>
         <prefix>§</prefix>
         <num>9-1</num>
@@ -63,7 +63,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-2" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-2" codified:citation=" Article 5, § 9-2" codified:display="Amend">
+    <codify:replace path="5|§9-2" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-2">
       <section>
         <prefix>§</prefix>
         <num>9-2</num>
@@ -97,7 +97,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-4" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-4" codified:citation=" Article 5, § 9-4" codified:display="Amend">
+    <codify:replace path="5|§9-4" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-4">
       <section>
         <prefix>§</prefix>
         <num>9-4</num>
@@ -454,7 +454,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-5" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-5" codified:citation=" Article 5, § 9-5" codified:display="Amend">
+    <codify:replace path="5|§9-5" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-5">
       <section>
         <prefix>§</prefix>
         <num>9-5</num>
@@ -585,7 +585,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-6" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-6" codified:citation=" Article 5, § 9-6" codified:display="Amend">
+    <codify:replace path="5|§9-6" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-6">
       <section>
         <prefix>§</prefix>
         <num>9-6</num>
@@ -703,7 +703,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-8" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-8" codified:citation=" Article 5, § 9-8" codified:display="Amend">
+    <codify:replace path="5|§9-8" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-8">
       <section>
         <prefix>§</prefix>
         <num>9-8</num>
@@ -734,12 +734,12 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-9" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-9" codified:citation=" Article 5, § 9-9" codified:display="Amend">
+    <codify:replace path="5|§9-9" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-9">
       <section>
         <prefix>§</prefix>
         <num>9-9</num>
         <heading>Rules and regulations.</heading>
-        <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite path="|general">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
+        <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite path="|general" doc="City of Balt., Md., Ord. 26-114">City General Provisions Article</cite>, the Director of Finance must adopt rules and regulations to carry out this subtitle including:</text>
         <para>
           <num>(i)</num>
           <text>a schedule for disbursing the Fund each year; and</text>
@@ -750,7 +750,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="5|§9-10" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-10" codified:citation=" Article 5, § 9-10" codified:display="Amend">
+    <codify:replace path="5|§9-10" codified:doc="City of Baltimore, Md., Code" codified:path="5|§9-10">
       <section>
         <prefix>§</prefix>
         <num>9-10</num>
@@ -819,7 +819,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="8|§7-8|(3a)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(3a)" codified:citation=" Article 8, § 7-8" codified:display="Amend">
+    <codify:replace path="8|§7-8|(3a)" codified:doc="City of Baltimore, Md., Code" codified:path="8|§7-8|(3a)">
       <para>
         <num>(3a)</num>
         <heading>Baltimore Children and Youth Fund and Baltimore Children and Youth Fund, Inc.</heading>
