@@ -1228,7 +1228,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:replace path="32|§16-207" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-207">
+    <codify:replace path="32|§16-207">
       <section>
         <prefix>§</prefix>
         <num>16-207</num>
@@ -1270,7 +1270,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="32|§16-601|(b)" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601|(b)">
+    <codify:replace path="32|§16-601|(b)">
       <para>
         <num>(b)</num>
         <heading>Exemptions within certain districts.</heading>
