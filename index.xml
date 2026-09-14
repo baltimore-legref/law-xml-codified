@@ -16,11 +16,11 @@
     <history-start>2024-03-13</history-start>
     <build xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="baltimore-legref/law-xml" commit="f25f0f518fc2c4f9c40564fad9cb85372072b05c"/>
+        <repository name="baltimore-legref/law-xml" commit="956fa4a49b8ba46ff11fc99b1a0e159e1bfd8361"/>
       </repositories>
       <platform version="2.22.2" reproducible="true"/>
-      <build-date>2026-08-28</build-date>
-      <codified-date>2026-08-15</codified-date>
+      <build-date>2026-09-14</build-date>
+      <codified-date>2026-09-14</codified-date>
       <publication>publication/2026-08-28</publication>
     </build>
   </meta>
@@ -70,5 +70,8 @@
     <heading>Laws of the Maryland General Assembly</heading>
     <xi:include href="./us/md/legis/laws/2026/index.xml"/>
     <xi:include href="./us/md/legis/laws/2024/index.xml"/>
+  </collection>
+  <collection name="us/md/cities/baltimore/editorial-actions" display="false">
+    <xi:include href="./us/md/cities/baltimore/editorial-actions/2026-09-10.xml"/>
   </collection>
 </library>
