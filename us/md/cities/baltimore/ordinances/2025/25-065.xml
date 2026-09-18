@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>2</num>
-    <codify:replace path="building-codes|II|1|105|105.1|7." warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1|7." codified:citation="Building Codes, Part II, Section 105" codified:display="Amend">
+    <codify:replace path="building-codes|II|1|105|105.1|7." warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|105|105.1|7.">
       <para>
         <num>7.</num>
         <text>on transfer of ownership or operation of property, continue any of the following uses:</text>
@@ -111,7 +111,7 @@
         </para>
       </para>
     </codify:replace>
-    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312" codified:citation=" Article 32, § 1-312" codified:display="Amend">
+    <codify:replace path="32|§1-312" codified:doc="City of Baltimore, Md., Code" codified:path="32|§1-312">
       <section>
         <prefix>§</prefix>
         <num>1-312</num>
@@ -593,7 +593,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:insert path="32|14|3" after="§14-335.1" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-335.2" codified:citation=" Article 32, § 14-335.2" codified:display="New">
+    <codify:insert path="32|14|3" after="§14-335.1" codified:doc="City of Baltimore, Md., Code" codified:path="32|§14-335.2">
       <section>
         <prefix>§</prefix>
         <num>14-335.2</num>
@@ -601,7 +601,7 @@
         <text>Any new Retail: Small Box Establishment shall be at least 2,640 feet from any existing Retail: Small Box Establishment.</text>
       </section>
     </codify:insert>
-    <codify:replace path="32|attachments|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos" codified:citation=" Article 32" codified:display="Amend">
+    <codify:replace path="32|attachments|10-301" codified:doc="City of Baltimore, Md., Code" codified:path="32|attachments|10-301|annos">
       <attachment>
         <prefix>Table</prefix>
         <num>10-301</num>

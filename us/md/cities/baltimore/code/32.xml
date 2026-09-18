@@ -3934,6 +3934,48 @@
         </para>
         <para>
           <num>(v)</num>
+          <heading>Retail: Small Box Establisment.</heading>
+          <para>
+            <num>(1)</num>
+            <heading>In general.</heading>
+            <text>“Retail: Small Box Establisment” means a retail store that:</text>
+            <para>
+              <num>(i)</num>
+              <text>has a floor area of more than 5,000 square feet and less than 12,000 square feet; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>offers for sale assorted convenience and consumer shopping goods, the majority of which do not exceed $5.00 per item or its equivalent, as adjusted for inflation since the year 2025.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <heading>Exclusions.</heading>
+            <text>“Retail: Small Box Establisment” does not include:</text>
+            <para>
+              <num>(i)</num>
+              <text>a grocery store, whose primary business is selling food at retail to the general public for off-premises consumption, of which at least 20% of the gross receipts must be derived from the retail sale of fresh produce, meats, and dairy products;</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a store that contains a pharmacy where prescription drugs are compounded, dispensed, or distributed;</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>a fuel station, as otherwise permitted in this Code;</text>
+            </para>
+            <para>
+              <num>(iv)</num>
+              <text>a retail store where the majority of the products sold are personal hygiene products or cosmetics;</text>
+            </para>
+            <para>
+              <num>(v)</num>
+              <text>a store that primarily engages in the resale of used consumer goods.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(w)</num>
           <heading>Right-of-way.</heading>
           <para>
             <num>(1)</num>
@@ -3947,7 +3989,7 @@
           </para>
         </para>
         <para>
-          <num>(w)</num>
+          <num>(x)</num>
           <heading>Roof deck.</heading>
           <text>“Roof deck” means a roofless outdoor platform that is constructed on the roof of a structure and connected to the roof by structural supports.</text>
         </para>
@@ -3955,6 +3997,7 @@
           <annotation doc="City of Balt., Md., Ord. 16-581" type="History">Ord. 16-581</annotation>
           <annotation doc="City of Balt., Md., Ord. 17-015" type="History">Ord. 17-015</annotation>
           <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-280" eff="2024-01-03" path="§1" target-path="|32|§1-312|(o)" type="History"/>
+          <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-065" eff="2026-01-02" path="§2" target-path="32|§1-312" type="History"/>
         </annotations>
       </section>
       <section>
@@ -16822,6 +16865,15 @@
       </section>
       <section>
         <prefix>§</prefix>
+        <num>14-335.2</num>
+        <heading>Retail: Small Box Establisment.</heading>
+        <text>Any new Retail: Small Box Establishment shall be at least 2,640 feet from any existing Retail: Small Box Establishment.</text>
+        <annotations>
+          <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-065" eff="2026-01-02" path="§2" target-path="32|14|3" type="History"/>
+        </annotations>
+      </section>
+      <section>
+        <prefix>§</prefix>
         <num>14-336</num>
         <heading>Retail goods establishments – With alcoholic beverage sales.</heading>
         <para>
@@ -26895,6 +26947,7 @@
         <annotation doc="City of Balt., Md., Ord. 22-181" type="History">Ord. 22-181</annotation>
         <annotation app="2024-01-03" doc="City of Balt., Md., Ord. 23-280" eff="2024-01-03" path="§1" target-path="32|zoning-tables|10-301" type="History"/>
         <annotation app="2025-05-31" doc="City of Balt., Md., Ord. 25-015" eff="2025-05-31" path="§1" target-path="32|zoning-tables|10-301" type="History"/>
+        <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-065" eff="2026-01-02" path="§2" target-path="32|attachments|10-301" type="History"/>
       </annotations>
       <text>
         <table high-density="true">
@@ -27753,6 +27806,17 @@
               <td data-text-align="center">CB</td>
               <td data-text-align="center">CB</td>
               <td data-text-align="center">Per § 14-335.1</td>
+            </tr>
+            <tr>
+              <td>Retail: Small Box Establishment</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">CB</td>
+              <td data-text-align="center">Per § 14-335.2</td>
             </tr>
             <tr>
               <td>Retail Goods Establishment (No Alcoholic Beverages Sales)</td>
