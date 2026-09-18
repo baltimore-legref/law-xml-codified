@@ -39,6 +39,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -156,6 +157,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -277,6 +279,7 @@
         <text>another exception provided under Article 5, § 27-6(b).</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -342,6 +345,7 @@
       <num>F.</num>
       <text>MOED shall coordinate the materials to be presented to the LHRC and provide it with administrative staff support.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -371,6 +375,7 @@
       <num>D.</num>
       <text>Persons or entities subject to the law who remain noncompliant will be reported to the LHRC.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|5">City Code Article 5</cite>, Subtitle 27</annotation>
