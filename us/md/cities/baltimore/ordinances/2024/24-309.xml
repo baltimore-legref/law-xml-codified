@@ -21,14 +21,14 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace doc="City of Baltimore, Md., Code" path="|28|II|10|10-18|(h)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18|(h)" codified:citation=" Article 28, § 10-18" codified:display="Amend">
+    <codify:replace doc="City of Baltimore, Md., Code" path="|28|II|10|10-18|(h)" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18|(h)">
       <para>
         <num>(h)</num>
         <heading>No tax subsidy duplication allowed.</heading>
         <text>Except for the Maryland State Enterprise Zone Tax Credit Program and the High-Performance Inclusionary Housing Tax Credit, the tax credit authorized by <cite doc="City of Baltimore, Md., Code" path="|28|II|10|10-18">this section</cite> does not apply to any property for which any other tax subsidy from the City, whether in the form of a tax credit, payment in lieu of taxes, tax incremental financing, or otherwise, is being received or has been applied for.</text>
       </para>
     </codify:replace>
-    <codify:insert doc="City of Baltimore, Md., Code" path="|28|II|10" after="|28|II|10|10-18.1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18.2" codified:citation=" Article 28, § 10-18.2" codified:display="New">
+    <codify:insert doc="City of Baltimore, Md., Code" path="|28|II|10" after="|28|II|10|10-18.1" codified:doc="City of Baltimore, Md., Code" codified:path="28|§10-18.2">
       <section>
         <prefix>§</prefix>
         <num>10-18.2</num>
