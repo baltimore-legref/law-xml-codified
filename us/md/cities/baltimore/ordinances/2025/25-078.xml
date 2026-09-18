@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="4|§1-1|(f)|(3)" codified:doc="City of Baltimore, Md., Code" codified:path="4|§1-1|(f)|(3)" codified:citation=" Article 4, § 1-1" codified:display="Amend">
+    <codify:replace path="4|§1-1|(f)|(3)" codified:doc="City of Baltimore, Md., Code" codified:path="4|§1-1|(f)|(3)">
       <para>
         <num>(3)</num>
         <text>However, it is not discrimination for:</text>
@@ -50,16 +50,16 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>lactation accommodations in accordance with City Code <cite path="|11">Article 11</cite>, Subtitle 16 {“Lactation Accommodation in the Workplace”}; or</text>
+            <text>lactation accommodations in accordance with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 16 {“Lactation Accommodation in the Workplace”}; or</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>pregnancy accommodations in accordance with City Code <cite path="|11">Article 11</cite>, Subtitle 20 {“Pregnancy Accommodations”}.</text>
+            <text>pregnancy accommodations in accordance with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 20 {“Pregnancy Accommodations”}.</text>
           </para>
         </para>
       </para>
     </codify:replace>
-    <codify:insert path="11|II" codified:doc="City of Baltimore, Md., Code" codified:path="11|§20-1|annos" codified:citation=" Article 11, § 20-1" codified:display="New">
+    <codify:insert path="11|II" codified:doc="City of Baltimore, Md., Code" codified:path="11|§20-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>20</num>
