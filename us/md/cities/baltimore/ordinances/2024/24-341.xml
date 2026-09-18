@@ -2082,7 +2082,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="building-codes|II|10|1016 to 1030" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1016to1031">
+    <codify:replace path="building-codes|II|10|1016 to 1030" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1016to1019">
       <section name="1016to1031">
         <prefix>Sections</prefix>
         <num>1016 to 1031</num>
