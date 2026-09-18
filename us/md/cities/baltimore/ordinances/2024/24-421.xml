@@ -21,13 +21,13 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="1|§40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)" codified:citation=" Article 1, § 40-14" codified:display="Amend">
+    <codify:replace path="1|§40-14|(e)|(7)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§40-14|(e)|(7)">
       <para>
         <num>(7)</num>
         <text>
           <strong>
             <em>
-              <cite path="|health">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -375,13 +375,13 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="1|§41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14" codified:citation=" Article 1, § 41-14" codified:display="Amend">
+    <codify:replace path="1|§41-14|(6)" codified:doc="City of Baltimore, Md., Code" codified:path="1|§41-14|(6)">
       <para>
         <num>(6)</num>
         <text>
           <strong>
             <em>
-              <cite path="|health">Health Code</cite>
+              <cite path="|health" doc="City of Balt., Md., Ord. 24-421">Health Code</cite>
             </em>
           </strong>
         </text>
@@ -657,7 +657,7 @@
         </text>
       </para>
     </codify:replace>
-    <codify:replace path="health|8|3" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-401|annos" codified:citation="Health Code, § 8-401" codified:display="Amend">
+    <codify:replace path="health|8|3" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-401|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>4</num>
@@ -672,11 +672,11 @@
             <text>In addition to any other civil or criminal remedy or enforcement procedure, this title may be enforced by issuance of:</text>
             <para>
               <num>(1)</num>
-              <text>an environmental citation under City Code <cite path="|1">Article 1</cite>, Subtitle 40 {“Environmental Control Board”}; or</text>
+              <text>an environmental citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 40 {“Environmental Control Board”}; or</text>
             </para>
             <para>
               <num>(2)</num>
-              <text>a civil citation under City Code <cite path="|1">Article 1</cite>, Subtitle 41 {“Civil Citations”}.</text>
+              <text>a civil citation under City Code <cite path="|1" doc="City of Balt., Md., Ord. 24-421">Article 1</cite>, Subtitle 41 {“Civil Citations”}.</text>
             </para>
           </para>
           <para>
@@ -715,14 +715,14 @@
         </section>
       </container>
     </codify:replace>
-    <codify:insert path="health|8" after="2" codified:doc="City of Baltimore, Md., Code" codified:path="health|8|3" codified:citation="Health Code, Title 8, Subtitle 3" codified:display="New">
+    <codify:insert path="health|8" after="2" codified:doc="City of Baltimore, Md., Code" codified:path="health|8|3">
       <container>
         <prefix>Subtitle</prefix>
         <num>3</num>
         <heading>Gas-Powered Debris Removal Equipment</heading>
       </container>
     </codify:insert>
-    <codify:insert path="health|8|3" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-301" codified:citation="Health Code, § 8-301" codified:display="New">
+    <codify:insert path="health|8|3" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-301">
       <section>
         <prefix>§</prefix>
         <num>8-301</num>
@@ -875,7 +875,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="health|8|3" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-302" codified:citation="Health Code, § 8-302" codified:display="New">
+    <codify:insert path="health|8|3" codified:doc="City of Baltimore, Md., Code" codified:path="health|§8-302">
       <section>
         <prefix>§</prefix>
         <num>8-302</num>
