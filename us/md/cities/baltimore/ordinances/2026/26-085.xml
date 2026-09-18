@@ -21,13 +21,13 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="31|9|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9" codified:citation=" Article 31, Subtitle 9" codified:display="Amend">
+    <codify:replace path="31|9|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9">
       <heading>Parking for Disabled Individuals and Helpers</heading>
     </codify:replace>
-    <codify:replace path="31|9|1|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9|1" codified:citation=" Article 31, Subtitle 9, Part 1" codified:display="Amend">
+    <codify:replace path="31|9|1|heading" codified:doc="City of Baltimore, Md., Code" codified:path="31|9|1">
       <heading>Reserved Parking for Disabled Individuals</heading>
     </codify:replace>
-    <codify:replace path="31|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-1" codified:citation=" Article 31, § 9-1" codified:display="Amend">
+    <codify:replace path="31|§9-1" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-1">
       <section>
         <prefix>§</prefix>
         <num>9-1</num>
@@ -68,7 +68,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-2" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-2" codified:citation=" Article 31, § 9-2" codified:display="Amend">
+    <codify:replace path="31|§9-2" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-2">
       <section>
         <prefix>§</prefix>
         <num>9-2</num>
@@ -78,7 +78,7 @@
           <heading>Application to Department.</heading>
           <para>
             <num>(1)</num>
-            <text>Any individual desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
+            <text>Any individual desiring a reserved parking space and meeting the criteria of <cite path="|31|§9-1" doc="City of Balt., Md., Ord. 26-085">§ 9-1 of this subtitle</cite> may submit an application for a reserved parking permit to the Department of Transportation.</text>
           </para>
           <para>
             <num>(2)</num>
@@ -104,7 +104,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-3" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-3" codified:citation=" Article 31, § 9-3" codified:display="Amend">
+    <codify:replace path="31|§9-3" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-3">
       <section>
         <prefix>§</prefix>
         <num>9-3</num>
@@ -188,7 +188,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-4" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-4" codified:citation=" Article 31, § 9-4" codified:display="Amend">
+    <codify:replace path="31|§9-4" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-4">
       <section>
         <prefix>§</prefix>
         <num>9-4</num>
@@ -212,7 +212,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-11" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-11" codified:citation=" Article 31, § 9-11" codified:display="Amend">
+    <codify:replace path="31|§9-11" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-11">
       <section>
         <prefix>§</prefix>
         <num>9-11</num>
@@ -220,7 +220,7 @@
         <text>In this Part, “disabled individual” means an individual who meets the physical criteria for obtaining a reserved parking space for a disabled individual under <cite doc="City of Baltimore, Md., Code" path="31|§9-1">§ 9-1</cite> of this subtitle.</text>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-12" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-12" codified:citation=" Article 31, § 9-12" codified:display="Amend">
+    <codify:replace path="31|§9-12" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-12">
       <section>
         <prefix>§</prefix>
         <num>9-12</num>
@@ -261,7 +261,7 @@
         </para>
       </section>
     </codify:replace>
-    <codify:replace path="31|§9-15" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-15" codified:citation=" Article 31, § 9-15" codified:display="Amend">
+    <codify:replace path="31|§9-15" codified:doc="City of Baltimore, Md., Code" codified:path="31|§9-15">
       <section>
         <prefix>§</prefix>
         <num>9-15</num>
@@ -269,7 +269,7 @@
         <para>
           <num>(a)</num>
           <heading>Forms, rules, and regulations.</heading>
-          <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite path="|general">City General Provisions Article</cite>, the Director may develop forms and adopt rules and regulations to carry out this Part 2.</text>
+          <text>Subject to Title 4 {“Administrative Procedure Act – Regulations”} of the <cite path="|general" doc="City of Balt., Md., Ord. 26-085">City General Provisions Article</cite>, the Director may develop forms and adopt rules and regulations to carry out this Part 2.</text>
         </para>
         <para>
           <num>(b)</num>
