@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:insert doc="City of Baltimore, Md., Code" path="|1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§61-1|annos" codified:citation=" Article 1, § 61-1" codified:display="New">
+    <codify:insert doc="City of Baltimore, Md., Code" path="|1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§61-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>61</num>
