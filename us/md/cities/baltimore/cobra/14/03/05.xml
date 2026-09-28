@@ -16,6 +16,7 @@
       <num>B.</num>
       <text>The renewal process for a reserved parking space.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -89,6 +90,7 @@
         <text>“Space-holder” means a person that has received a disability space through an approved application.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -126,6 +128,7 @@
         <text>The noted requirements as specified in the application.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -152,6 +155,7 @@
       <num>C.</num>
       <text>A space-holder shall return a renewal application to the PABC within 90 calendar days of receipt.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Article 31, Subtitle 9, Baltimore City Code</annotation>

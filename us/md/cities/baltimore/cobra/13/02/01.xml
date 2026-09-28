@@ -56,6 +56,7 @@
       <num>L.</num>
       <text>Appeal procedures.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -273,6 +274,7 @@
         <text>“XRF analyzer” means a portable instrument that determines lead concentration using the principles of x-ray fluorescence.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -302,6 +304,7 @@
         <text>Common areas.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -375,6 +378,7 @@
         <text>U.S. Department of Housing and Urban Development.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -400,12 +404,14 @@
       <num>C.</num>
       <text>The owner or operator shall ensure abatement is completed within the time prescribed by the Commissioner.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.06</num>
     <heading>Retaliation</heading>
     <text>A person may not retaliate against a tenant in response to a notice or order issued by the Commissioner.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -447,6 +453,7 @@
         <text>Fully remove or enclose the lead hazard without the use of encapsulant coating.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -472,6 +479,7 @@
         <text>Document that the alternative procedure provides equivalent or better abatement of a lead hazard.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -509,6 +517,7 @@
         <text>Cover with 8 inches of lead-free soil and ground cover.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -534,6 +543,7 @@
       <num>C.</num>
       <text>A tenant may not return to the property until abatement is completed in accordance with federal and state requirements and <cite path="13.02.01.10">this regulation</cite>.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -555,6 +565,7 @@
       <num>B.</num>
       <text>A person may not dispose of abatement waste through regular residential or commercial trash collection.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -569,6 +580,7 @@
       <num>B.</num>
       <text>Inspect the interior of a property where abatement is occurring during regular business hours.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -590,6 +602,7 @@
       <num>B.</num>
       <text>Upon issuance of the stop work order, a person performing abatement work shall cease work at the property until the Commissioner finds there is compliance with the order.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -635,6 +648,7 @@
       <num>D.</num>
       <text>If the Department approves the abatement work by visual inspection, the Department shall perform a lead dust clearance test in each room where abatement occurred.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -684,6 +698,7 @@
         <text>U.S. Department of Housing and Urban Development.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -701,6 +716,7 @@
       <num>C.</num>
       <text>Issuance of a statement of completion will not preclude the Commissioner from issuing future violation notices against the same property.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -742,6 +758,7 @@
       <num>D.</num>
       <text>An extension approved and granted by the Commissioner in accordance with <cite path="13.02.01.17|C.">§C of this regulation</cite> will not satisfy or modify an owner or operator’s obligation to comply with applicable law.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -755,6 +772,7 @@
       <num>B.</num>
       <text>The Department’s Lead Program Director may act as the Commissioner’s designee pursuant to City Health Code, § 2-303.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Charter" path="VII">Baltimore City Charter Article VII</cite>, §56 and Baltimore City Health Code, §§ 2-105 and 2-106</annotation>

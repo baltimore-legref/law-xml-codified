@@ -31,6 +31,7 @@
         <text>These rules and procedures are intended to ensure the proper use of the public way while work is ongoing.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -364,6 +365,7 @@
         <text>“Utility” means any person that owns or operates facilities used to provide electrical, gas, steam, water, sewer, telecommunications, information, video, or other services to customers.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -385,6 +387,7 @@
         <text>for other utilities and facilities, including sanitary and gas lines, without prior written approval from the Director.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -826,6 +829,7 @@
         <text>will receive any notice from the Department concerning the work.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -931,6 +935,7 @@
         <text>Additional fees may be assessed as provided in these regulations and allowed by law.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1072,6 +1077,7 @@
         <text>The location of the pole shall not create non-compliance with the ADA.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1302,6 +1308,7 @@
         <text>Baltimore City DOT Book of Standards.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1347,6 +1354,7 @@
       <num>C.</num>
       <text>When properly advised by a utility pursuant to <cite path="14.03.01.08|B.">Regulation .08.B</cite>, DOT will consider delaying the advertisement, or altering the contract, to allow utility work to be completed first.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1615,6 +1623,7 @@
         <text>any circumstance where the contractor has left work in a state considered to be a substantial threat to public safety.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1736,6 +1745,7 @@
       <num>H.</num>
       <text>Termination of the stop work order does not preclude separate enforcement action by the Department relating to the present or a subsequent violation.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -2138,6 +2148,7 @@
       <num>Q.</num>
       <text>Under <cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, §15-36, a party aggrieved by a final decision of the Director may appeal that decision to the Circuit Court for Baltimore City in accordance with the Maryland Rules of Civil Procedure.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container"><cite doc="City of Baltimore, Md., Code" path="|26">City Code Article 26</cite>, Subtitle 15</annotation>
