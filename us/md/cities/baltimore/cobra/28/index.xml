@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>28</num>
+  <heading>DEPARTMENT OF PLANNING</heading>
+  <xi:include href="./01/index.xml"/>
+  <attachments>
+    <heading>Documents Incorporated By Reference</heading>
+    <attachment name="baltimore-city-design-manual-2019" url="/us/md/cities/baltimore/cobra/attachments/28-Baltimore_City_Design_Manual_2019.pdf">
+      <heading>Baltimore City Design Manual 2019</heading>
+    </attachment>
+    <attachment name="baltimore-city-landscape-manual-2017" url="/us/md/cities/baltimore/cobra/attachments/28-Baltimore_City_Landscape_Manual_2017.pdf">
+      <heading>Baltimore City Landscape Manual 2017</heading>
+    </attachment>
+    <attachment name="camp-manual-2024" url="/us/md/cities/baltimore/cobra/attachments/28-CAMP_Manual_2024.pdf">
+      <heading>CAMP Manual 2024</heading>
+    </attachment>
+    <attachment name="chap-guidelines-2022" url="/us/md/cities/baltimore/cobra/attachments/28-CHAP_Guidelines_2022.pdf">
+      <heading>CHAP Guidelines 2022</heading>
+    </attachment>
+    <attachment name="city-supplement-to-state-forest-conservation-manual-2020" url="/us/md/cities/baltimore/cobra/attachments/28-City_Supplement_to_State_Forest_Conservation_Manual_2020.pdf">
+      <heading>City Supplement to State Forest Conservation Manual 2020</heading>
+    </attachment>
+    <attachment name="site-plan-review-manual-2017" url="/us/md/cities/baltimore/cobra/attachments/28-Site_Plan_Review_Manual_2017.pdf">
+      <heading>Site Plan Review Manual 2017</heading>
+    </attachment>
+    <attachment name="state-forest-conservation-manual-1997" url="/us/md/cities/baltimore/cobra/attachments/28-State_Forest_Conservation_Manual_1997.pdf">
+      <heading>State Forest Conservation Manual 1997</heading>
+    </attachment>
+  </attachments>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="land-subdivision" url="/us/md/cities/baltimore/cobra/attachments/28.01-Land_Subdivision.pdf">
+      <heading>Land Subdivision</heading>
+    </attachment>
+    <attachment name="small-cell-wireless-facilities" url="/us/md/cities/baltimore/cobra/attachments/28.02-Small_Cell_Wireless_Facilities.pdf">
+      <heading>Small Cell Wireless Facilities</heading>
+    </attachment>
+  </attachments>
+</container>
