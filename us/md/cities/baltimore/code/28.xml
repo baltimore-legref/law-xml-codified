@@ -2544,12 +2544,13 @@
         <prefix>§</prefix>
         <num>10-1</num>
         <heading>Homestead property.</heading>
-        <text>Pursuant to the authorization contained in <cite doc="Md. Code" path="gtp|9-105">State Tax-Property Article § 9-105, </cite>for the taxable year beginning July 1, 1993, the homestead credit percentage for the City property tax is 104%.</text>
+        <text>Pursuant to the authorization contained in <cite doc="Md. Code" path="gtp|9-105">State Tax-Property Article § 9-105, </cite>for the taxable year beginning July 1, 2027, the homestead credit percentage for the City property tax is 105%.</text>
         <annotations>
           <annotation type="Prior Codifications">City Code, 1976/83, art. 28, §16A</annotation>
           <annotation doc="City of Balt., Md., Ord. 90-631" type="History">Ord. 90-631</annotation>
           <annotation doc="City of Balt., Md., Ord. 91-842" type="History">Ord. 91-842</annotation>
           <annotation doc="City of Balt., Md., Ord. 92-156" type="History">Ord. 92-156</annotation>
+          <annotation app="2026-07-17" doc="City of Balt., Md., Ord. 26-129" eff="2026-07-17" path="§1" target-path="28|§10-1" type="History"/>
         </annotations>
       </section>
       <section>
