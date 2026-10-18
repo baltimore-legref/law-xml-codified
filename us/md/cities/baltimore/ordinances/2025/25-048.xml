@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:insert path="building-codes|II|1|121|121.10" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|121|121.10|121.10.5" codified:citation="Building Codes, Part II, Section 121" codified:display="Amend">
+    <codify:insert path="building-codes|II|1|121|121.10" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|1|121|121.10|121.10.5">
       <para>
         <num>121.10.5</num>
         <heading>Failure to sell.</heading>
