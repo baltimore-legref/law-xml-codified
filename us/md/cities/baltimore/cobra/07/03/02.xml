@@ -8,6 +8,7 @@
     <num>.01</num>
     <heading>Scope.</heading>
     <text><cite path="07.03.02">This chapter</cite> establishes regulations governing the application, review, and approval process for a disposition program.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -83,12 +84,14 @@
         <text>Remit an associated application fee to the Department at the time of submission.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Review Criteria.</heading>
     <text>In addition to the general requirements of <cite path="07.03.02">this chapter</cite>, the Department shall review an application for the Fixed Pricing Program using the criteria listed in <cite path="07.03.03">chapter 03 of this subtitle</cite>.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -110,6 +113,7 @@
       <num>B.</num>
       <text>If the Department determines that a property is ineligible for sale during application review, the Department shall refund the associated application fee to the applicant within 15 business days.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -147,6 +151,7 @@
         <text>The Department may not review another offer until the original is rejected.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -192,6 +197,7 @@
       <num>D.</num>
       <text>If an approved applicant does not have an email address, the Department may make an accommodation to reach the applicant via the contact information provided in the application.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -289,6 +295,7 @@
       <text>Compliance.</text>
       <text>The Department shall assign a compliance officer to ensure a purchaser remains compliant with the land disposition agreement until the Department receives a certificate of completion from the purchaser.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -334,6 +341,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -408,6 +416,7 @@
       <num>F.</num>
       <text>The Department may not unreasonably deny an extension request.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Baltimore City Code, Article 13 § 2-7(h), (w)</annotation>
