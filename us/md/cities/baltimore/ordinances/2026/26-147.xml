@@ -21,14 +21,14 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="1|43to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to47" codified:citation="Article 1, Subtitles 43 to 47" codified:display="Amend">
+    <codify:replace path="1|43to48" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|43to47">
       <container name="43to47">
         <prefix>Subtitles</prefix>
         <num>43 to 47</num>
         <reason>Reserved</reason>
       </container>
     </codify:replace>
-    <codify:insert path="1" after="43to47" codified:doc="City of Baltimore, Md., Code" codified:path="1|§48-1|annos" codified:citation="Article 1, § 48-1" codified:display="New">
+    <codify:insert path="1" after="43to47" codified:doc="City of Baltimore, Md., Code" codified:path="1|§48-1|annos">
       <container>
         <prefix>Subtitle</prefix>
         <num>48</num>
