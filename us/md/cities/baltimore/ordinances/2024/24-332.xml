@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="32|§16-601" codified:doc="City of Baltimore, Md., Code" codified:path="32|§16-601">
+    <codify:replace path="32|§16-601">
       <section>
         <prefix>§</prefix>
         <num>16-601</num>
