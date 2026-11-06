@@ -20,7 +20,7 @@
       </repositories>
       <platform version="2.23.4" reproducible="true"/>
       <build-date>2026-11-06</build-date>
-      <codified-date>2026-08-15</codified-date>
+      <codified-date>2026-09-14</codified-date>
       <publication>publication/2026-11-06</publication>
     </build>
   </meta>
@@ -73,5 +73,6 @@
   </collection>
   <collection name="us/md/cities/baltimore/editorial-actions" display="false">
     <xi:include href="./us/md/cities/baltimore/editorial-actions/2026-11-02.xml"/>
+    <xi:include href="./us/md/cities/baltimore/editorial-actions/2026-09-10.xml"/>
   </collection>
 </library>
