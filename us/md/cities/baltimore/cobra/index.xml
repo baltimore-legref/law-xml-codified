@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Code of Baltimore Regulations Annotated">
+  <meta>
+    <effective>2026-01-01</effective>
+  </meta>
+  <heading>COBRA</heading>
+  <description>Code of Baltimore Regulations Annotated</description>
+  <annotations>
+    <annotation type="Editor's Notes">
+      <text>The regulations contained in the table of contents were created or substantively changed by a City Agency after the enactment of the City's Administrative Procedure Act ("APA") and promulgated in accordance with the APA.</text>
+      <text>Certain Agency titles have a section called "Legacy Regulations." Legacy regulations are a special category of regulations that were incorporated into COBRA following the passage of the APA if they were filed with DLR. DLR is working to update these regulations into APA formatting. For more information on legacy regulations, please contact DLR.</text>
+      <text>"Incorporation by reference," or "IBR," is a process that allows a secondary document to be adopted into and considered part of a primary document. Documents that are incorporated by reference into COBRA carry the same legal weight and enforceability as COBRA regulations.</text>
+    </annotation>
+  </annotations>
+  <xi:include href="./05/index.xml"/>
+  <xi:include href="./07/index.xml"/>
+  <xi:include href="./13/index.xml"/>
+  <xi:include href="./14/index.xml"/>
+  <xi:include href="./15/index.xml"/>
+  <xi:include href="./17/index.xml"/>
+  <xi:include href="./19/index.xml"/>
+  <xi:include href="./21/index.xml"/>
+  <xi:include href="./22/index.xml"/>
+  <xi:include href="./23/index.xml"/>
+  <xi:include href="./27/index.xml"/>
+  <xi:include href="./28/index.xml"/>
+  <xi:include href="./29/index.xml"/>
+  <xi:include href="./30/index.xml"/>
+</document>
