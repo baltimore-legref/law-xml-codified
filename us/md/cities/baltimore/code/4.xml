@@ -86,11 +86,15 @@
             <text>any person to provide:</text>
             <para>
               <num>(A)</num>
-              <text>separate toilet facilities for males and females; or</text>
+              <text>separate toilet facilities for males and females;</text>
             </para>
             <para>
               <num>(B)</num>
-              <text>lactation accommodations for females in accord with City Code <cite path="|11">Article 11</cite>, Subtitle 16 {“Lactation Accommodation in the Workplace”}.</text>
+              <text>lactation accommodations in accordance with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 16 {“Lactation Accommodation in the Workplace”}; or</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>pregnancy accommodations in accordance with City Code <cite path="|11" doc="City of Balt., Md., Ord. 25-078">Article 11</cite>, Subtitle 20 {“Pregnancy Accommodations”}.</text>
             </para>
           </para>
         </para>
@@ -366,6 +370,7 @@
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
         <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|1|1-1|(f)|(1)" type="History"/>
         <annotation app="2023-09-22" doc="City of Balt., Md., Ord. 23-251" eff="2023-09-22" path="§1" target-path="|4|1|1-1" type="History"/>
+        <annotation app="2026-01-10" doc="City of Balt., Md., Ord. 25-078" eff="2026-01-10" path="§1" target-path="4|§1-1|(f)|(3)" type="History"/>
       </annotations>
     </section>
     <section>
