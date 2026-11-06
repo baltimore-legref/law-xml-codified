@@ -163,7 +163,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2to4-5">
+    <codify:insert path="1|4">
       <section name="4-2to4-5">
         <prefix>§§</prefix>
         <num>4-2 to 4-5</num>
@@ -207,7 +207,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="1|4" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7to4-11">
+    <codify:insert path="1|4">
       <section name="4-7to4-11">
         <prefix>§§</prefix>
         <num>4-7 to 4-11</num>
@@ -218,7 +218,7 @@
   <section codify:applicability="2027-06-27">
     <prefix>Section</prefix>
     <num>2</num>
-    <codify:remove path="1|4|4-2to4-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2to4-5"/>
+    <codify:remove path="1|4|4-2to4-5" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-1|annos"/>
     <codify:insert path="1|4" after="§4-1" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-2">
       <section>
         <prefix>§</prefix>
@@ -415,7 +415,7 @@
         </para>
       </section>
     </codify:insert>
-    <codify:remove path="1|4|4-7to4-11" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7to4-11"/>
+    <codify:remove path="1|4|4-7to4-11" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-1|annos"/>
     <codify:insert path="1|4" after="§4-6" codified:doc="City of Baltimore, Md., Code" codified:path="1|§4-7">
       <section>
         <prefix>§</prefix>
