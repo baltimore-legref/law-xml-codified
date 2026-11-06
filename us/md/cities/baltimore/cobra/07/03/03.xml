@@ -28,6 +28,7 @@
       <num>E.</num>
       <text>Departmental responsibilities.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -50,6 +51,7 @@
       <num>D.</num>
       <text>Is needed to implement a Departmental whole block strategy.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -115,6 +117,7 @@
         <text>The Department shall ensure a property sold as homeowner side yard remains subject to a 3-year use restriction that prohibits new construction during that period.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -177,6 +180,7 @@
       <num>D.</num>
       <text>If a property is assessed for less than the fixed price established in <cite path="07.03.03.04">this regulation</cite>, then the Department shall sell the property at the value assessed.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -226,6 +230,7 @@
         <text>An occupancy permit is obtained within 12 months from the date of settlement.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -240,6 +245,7 @@
       <num>B.</num>
       <text>In compliance with applicable State affordable housing land trust laws.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -286,6 +292,7 @@
         <text>Ensure the lot is used as a side yard in accordance with <cite path="07.03.03.03|B.|(2)">§03(B)(2) of this chapter</cite>.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -316,6 +323,7 @@
       <num>D.</num>
       <text>If the valuation determined under <cite path="07.03.03.08|B.|(1)">§B(1) of this regulation</cite> finds the true value of the assessed property to be $100,000 or greater, the Department may not consider the property eligible under the Fixed Pricing Program.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -418,6 +426,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -460,12 +469,14 @@
         <text>Documentation of an approved Homestead Tax application through the State Department of Assessments and Taxation confirming use and primary residence of the applicant’s adjacent property.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.11</num>
     <heading>Approval.</heading>
     <text>The Department shall approve an application to the Fixed Pricing Program in accordance with <cite path="07.03.02">Chapter 02 of this subtitle</cite>.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -511,6 +522,7 @@
         <text>Consider a purchaser’s inclusion on the agenda as an indication of the purchaser’s approval of the terms of the land disposition agreement approved by the Board in accordance with <cite path="07.03.02">chapter 02 of this subtitle</cite>.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -537,6 +549,7 @@
         <text>Signing the land disposition agreement posted online by the Department.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Baltimore City Code, Article 13 §§ 2-7 (h), (w)</annotation>

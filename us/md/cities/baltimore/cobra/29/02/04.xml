@@ -112,6 +112,7 @@
       <num>Z.</num>
       <text>2000 block of E. Fayette Street (even side, even side posted).</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -128,12 +129,14 @@
       <num>B.</num>
       <text>Area 18 permit holders will not be subject to the restrictions in A. of <cite path="29.02.04.02">this Regulation</cite>.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
     <num>.03</num>
     <heading>Special Permit Eligibility.</heading>
     <text>The PABC may not issue special permits in Area 18.</text>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -148,6 +151,7 @@
       <num>B.</num>
       <text>One visitor permit.</text>
     </para>
+    <annotations/>
   </section>
   <annotations/>
 </container>
