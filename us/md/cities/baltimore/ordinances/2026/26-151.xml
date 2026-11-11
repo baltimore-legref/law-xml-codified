@@ -21,7 +21,7 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="26|§7-3|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="26|§7-3|(c)" codified:citation="Article 26, § 7-3" codified:display="Amend">
+    <codify:replace path="26|§7-3|(c)" codified:doc="City of Baltimore, Md., Code" codified:path="26|§7-3|(c)">
       <para>
         <num>(c)</num>
         <heading>Guidelines.</heading>
