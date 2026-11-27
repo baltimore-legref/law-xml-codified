@@ -32,6 +32,7 @@
       <num>F.</num>
       <text>Grounds for revoking or denying a permit.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -117,6 +118,7 @@
         <text>“Wild” means an animal that is not domesticated living in a natural environment.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -238,6 +240,7 @@
         <text>Fowl other than domesticated hens and pigeons.</text>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -903,6 +906,7 @@
         </para>
       </para>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -984,6 +988,7 @@
       <num>H.</num>
       <text>A permit will remain valid unless it is suspended or revoked by the Health Commissioner.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1021,6 +1026,7 @@
       <num>D.</num>
       <text>A person who keeps animals for purposes of urban agriculture may not slaughter animals for food, fur or other products</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1126,6 +1132,7 @@
       <num>C.</num>
       <text>The Office of Animal Control may not waive an application for an animal that has not been properly registered with the State of Maryland as required.</text>
     </para>
+    <annotations/>
   </section>
   <section>
     <prefix>Regulation</prefix>
@@ -1139,6 +1146,7 @@
       <num>B.</num>
       <text>The provisions of Baltimore City Health Code §§ 10-222, 10-223, 10-224 apply to a permit issued under these regulations.</text>
     </para>
+    <annotations/>
   </section>
   <annotations>
     <annotation type="Authority" dest="container">Baltimore City Health Code, § 2-106 and Title 10, Subtitle 6</annotation>
