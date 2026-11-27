@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://open.law/schemas/library" xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>22</num>
+  <heading>RECREATION AND PARKS</heading>
+  <attachments>
+    <heading>Legacy Regulations</heading>
+    <annotations>
+      <annotation type="Editor's Notes" dest="container">Regulations effective prior to January 15, 2021, and that were filed electronically with the Department of Legislative Reference by or before January 15, 2022, appear in a temporary section of COBRA titled "Legacy Regulations".</annotation>
+    </annotations>
+    <attachment name="accessibility-procedures" url="/us/md/cities/baltimore/cobra/attachments/22.01-Accessibility_Procedures.pdf">
+      <heading>Accessibility Procedures</heading>
+    </attachment>
+    <attachment name="conservation-project-proposals-on-park-land" url="/us/md/cities/baltimore/cobra/attachments/22.07-Conservation_Project_Proposals_on_Park_Land.pdf">
+      <heading>Conservation Project Proposals on Park Land</heading>
+    </attachment>
+    <attachment name="data-collection-procedure" url="/us/md/cities/baltimore/cobra/attachments/22.02-Data_Collection_Procedure.pdf">
+      <heading>Data Collection Procedure</heading>
+    </attachment>
+    <attachment name="defense-against-encroachment-procedure" url="/us/md/cities/baltimore/cobra/attachments/22.05-Defense_Against_Encroachment_Procedure.pdf">
+      <heading>Defense Against Encroachment Procedure</heading>
+    </attachment>
+    <attachment name="natural-resource-conservation-procedure" url="/us/md/cities/baltimore/cobra/attachments/22.06-Natural_Resource_Conservation_Procedure.pdf">
+      <heading>Natural Resource Conservation Procedure</heading>
+    </attachment>
+    <attachment name="park-management-and-use" url="/us/md/cities/baltimore/cobra/attachments/22.08-Park_Management_and_Use.pdf">
+      <heading>Park Management and Use</heading>
+    </attachment>
+    <attachment name="parkland-acquisition-and-disposal" url="/us/md/cities/baltimore/cobra/attachments/22.03-Parkland_Acquisition_and_Disposal.pdf">
+      <heading>Parkland Acquisition and Disposal</heading>
+    </attachment>
+    <attachment name="volunteer-procedure" url="/us/md/cities/baltimore/cobra/attachments/22.04-Volunteer_Procedure.pdf">
+      <heading>Volunteer Procedure</heading>
+    </attachment>
+  </attachments>
+</container>
