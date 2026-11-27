@@ -21,14 +21,14 @@
   <section>
     <prefix>Section</prefix>
     <num>1</num>
-    <codify:replace path="building-codes|II|10|1002to1010" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1002to1005" codified:citation="Building Codes, Part II, Sections 1002 to 1005" codified:display="Amend">
+    <codify:replace path="building-codes|II|10|1002to1010" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1002to1005">
       <section name="1002to1005">
         <prefix>Sections</prefix>
         <num>1002 to 1005</num>
         <reason>As in IBC</reason>
       </section>
     </codify:replace>
-    <codify:insert path="building-codes|II|10" after="1002to1005" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1006" codified:citation="Building Codes, Part II, Section 1006" codified:display="New">
+    <codify:insert path="building-codes|II|10" after="1002to1005" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1006">
       <section>
         <prefix>Section</prefix>
         <num>1006</num>
@@ -172,21 +172,21 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="building-codes|II|10" after="1006" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1007to1010" codified:citation="Building Codes, Part II, Sections 1007 to 1010" codified:display="New">
+    <codify:insert path="building-codes|II|10" after="1006" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1007to1010">
       <section name="1007to1010">
         <prefix>Sections</prefix>
         <num>1007 to 1010</num>
         <reason>As in IBC</reason>
       </section>
     </codify:insert>
-    <codify:replace path="building-codes|II|10|1016to1031" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1016to1019" codified:citation="Building Codes, Part II, Sections 1016 to 1019" codified:display="Amend">
+    <codify:replace path="building-codes|II|10|1016to1031" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1016to1019">
       <section name="1016to1019">
         <prefix>Sections</prefix>
         <num>1016 to 1019</num>
         <reason>As in IBC</reason>
       </section>
     </codify:replace>
-    <codify:insert path="building-codes|II|10" after="1016to1019" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1020" codified:citation="Building Codes, Part II, Section 1020" codified:display="New">
+    <codify:insert path="building-codes|II|10" after="1016to1019" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1020">
       <section>
         <prefix>Section</prefix>
         <num>1020</num>
@@ -266,14 +266,14 @@
         </para>
       </section>
     </codify:insert>
-    <codify:insert path="building-codes|II|10" after="1020" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1021to1031" codified:citation="Building Codes, Part II, Sections 1021 to 1031" codified:display="New">
+    <codify:insert path="building-codes|II|10" after="1020" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|II|10|1021to1031">
       <section name="1021to1031">
         <prefix>Sections</prefix>
         <num>1021 to 1031</num>
         <reason>As in IBC</reason>
       </section>
     </codify:insert>
-    <codify:replace path="building-codes|VIII|10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|VIII|10|1001to1005|annos" codified:citation="Building Codes, Part VIII, Sections 1001 to 1005" codified:display="Amend">
+    <codify:replace path="building-codes|VIII|10" warning="false" codified:doc="City of Baltimore, Md., Code" codified:path="building-codes|VIII|10|1001to1005|annos">
       <container>
         <prefix>Chapter</prefix>
         <num>10</num>
