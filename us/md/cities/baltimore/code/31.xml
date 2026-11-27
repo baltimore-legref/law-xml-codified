@@ -177,6 +177,47 @@
       </para>
       <para>
         <num>(d)</num>
+        <heading>Motor vehicle repair service.</heading>
+        <text>“Motor vehicle repair service” means a person that is engaged in the business of performing major or minor repairs to a motor vehicle, including:</text>
+        <para>
+          <num>(1)</num>
+          <text>collision services, including body, frame, or fender repair or straightening;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>maintenance, repairs, or adjustment of any engine components;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>brake adjustments and repairs;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>repair or replacement of cooling, electrical, fuel, or exhaust systems;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>wheel alignment, balancing, and servicing;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>tire replacement, repair, or rotation;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>repair, replacement, or adjustment of mufflers, tail pipes, hoses, belts, bulbs, fuses, windshield wipers, grease retainers, wheel bearings, and shock absorbers;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>painting; or</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>another similar service.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
         <heading>Park, parking.</heading>
         <text>The terms “park” and “parking”, when prohibited or regulated as to vehicles:</text>
         <para>
@@ -188,21 +229,21 @@
           <text>do not include the standing of a commercial vehicle while actually engaged in lawful, expeditious loading or unloading.</text>
         </para>
       </para>
-      <para name="(e)">
-        <num>(e)</num>
+      <para>
+        <num>(f)</num>
         <reason>Vacant</reason>
       </para>
       <para>
-        <num>(f)</num>
+        <num>(g)</num>
         <heading>Pedestrian.</heading>
         <text>“Pedestrian” means any person afoot.</text>
       </para>
-      <para name="(g)">
-        <num>(g)</num>
+      <para>
+        <num>(h)</num>
         <reason>Repealed</reason>
       </para>
       <para>
-        <num>(h)</num>
+        <num>(i)</num>
         <heading>Police officer.</heading>
         <text>“Police officer” means:</text>
         <para>
@@ -215,7 +256,7 @@
         </para>
       </para>
       <para>
-        <num>(i)</num>
+        <num>(j)</num>
         <heading>Private way.</heading>
         <text>“Private way” means every way or place:</text>
         <para>
@@ -228,32 +269,32 @@
         </para>
       </para>
       <para>
-        <num>(j)</num>
+        <num>(k)</num>
         <heading>Public transportation vehicle.</heading>
         <text>“Public transportation vehicle” means any vehicle used primarily for the transportation of the general public.</text>
       </para>
       <para>
-        <num>(k)</num>
+        <num>(l)</num>
         <heading>Railroad.</heading>
         <text>“Railroad” means a carrier of persons or property, other than streetcars, operated upon stationary rails.</text>
       </para>
       <para>
-        <num>(l)</num>
+        <num>(m)</num>
         <heading>Railroad train.</heading>
         <text>“Railroad train” means a steam engine, electric or other motor, with or without cars coupled thereto, operated upon rails, except streetcars.</text>
       </para>
       <para>
-        <num>(m)</num>
+        <num>(n)</num>
         <heading>Residential district.</heading>
         <text>“Residential district” means the territory contiguous to and including a highway not comprising a business district when the property on such highway for a distance of 300 feet or more is in the main improved with residences or residences and buildings in use for business.</text>
       </para>
       <para>
-        <num>(n)</num>
+        <num>(o)</num>
         <heading>Right-of-way.</heading>
         <text>“Right-of-way” means the privilege of the immediate use of the roadway.</text>
       </para>
       <para>
-        <num>(o)</num>
+        <num>(p)</num>
         <heading>Roadway.</heading>
         <text>“Roadway” means that portion of a highway improved, designed, or ordinarily used for vehicular traffic.</text>
       </para>
@@ -266,6 +307,7 @@
         <annotation doc="City of Balt., Md., Ord. 13-098" type="History">Ord. 13-098</annotation>
         <annotation doc="City of Balt., Md., Ord. 15-435" type="History">Ord. 15-435</annotation>
         <annotation doc="City of Balt., Md., Ord. 22-125" type="History">Ord. 22-125</annotation>
+        <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-067" eff="2026-01-02" path="§1" target-path="31|§1-2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -8650,6 +8692,10 @@
             <num>(2)</num>
             <text>It shall be unlawful for any vehicle in the process of being repaired or waiting to be repaired or any vehicle on which a tire or other part thereof is being replaced or waiting for a tire or other part thereof to be replaced to stand double or to do any work or place any tools or equipment on any sidewalk in connection with the repair of any vehicle or the replacement or repair of any tire or other part thereof.</text>
           </para>
+          <para>
+            <num>(3)</num>
+            <text>It shall be unlawful for a motor vehicle repair service to make a repair, replacement, or adjustment to a motor vehicle or part of a motor vehicle on any public street or footway.</text>
+          </para>
         </para>
         <para>
           <num>(b)</num>
@@ -8662,11 +8708,29 @@
           <text>Any person violating any of the provisions of this section shall be subject to:</text>
           <para>
             <num>(1)</num>
-            <text>a penalty of not less than $5 or more than $25 for the 1<sup>st</sup> offense; and</text>
+            <heading>In general.</heading>
+            <text>Any person violating paragraph (a)(1) or (a)(2) of this section shall be subject to:</text>
+            <para>
+              <num>(i)</num>
+              <text>a penalty of not less than $5 or more than $25 for the 1<sup>st</sup> offense; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a fine of not less than $25 nor more than $100 for subsequent offenses.</text>
+            </para>
           </para>
           <para>
             <num>(2)</num>
-            <text>a fine of not less than $25 nor more than $100 for subsequent offenses.</text>
+            <heading>Repair in street or footway.</heading>
+            <text>Any person who violates paragraph (a)(3) of this section shall be subject to:</text>
+            <para>
+              <num>(i)</num>
+              <text>a penalty of not less than $100 or more than $250 for the 1<sup>st</sup> offense; and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>a fine of not less than $250 nor more than $350 for subsequent offenses.</text>
+            </para>
           </para>
         </para>
         <annotations>
@@ -8676,6 +8740,7 @@
           <annotation doc="City of Balt., Md., Ord. 46-657" type="History">Ord. 46-657</annotation>
           <annotation doc="City of Balt., Md., Ord. 47-814" type="History">Ord. 47-814</annotation>
           <annotation doc="City of Balt., Md., Ord. 74-527" type="History">Ord. 74-527</annotation>
+          <annotation app="2026-01-02" doc="City of Balt., Md., Ord. 25-067" eff="2026-01-02" path="§1" target-path="31|§16-5" type="History"/>
         </annotations>
       </section>
       <section name="16-6to16-10">
